@@ -1,0 +1,17 @@
+check	status	observed	expected
+required files	PASS	all present	all present
+files larger than 10 MiB	PASS	none	none
+forbidden binary/restricted file types	PASS	none	none
+UTF-8 text	PASS	all readable	all readable
+absolute/local paths	PASS	none	none
+secrets/internal bot terms	PASS	none	none
+Git LFS pointer files	PASS	none	none
+crosswalk row count	PASS	61	61
+crosswalk unique traits	PASS	61	61
+UKB loading dimensions	PASS	61x30	61x30
+Karjalainen loading dimensions	PASS	61x15	61x15
+retained factor count	PASS	13	13
+single-trait baseline rows	PASS	61	61
+source hash figures/Figure2_source_data.tsv	PASS	7752b7bf849c1bf7460586c57db7976dea49146c0501b073bf94e7f2edab9ca1	7752b7bf849c1bf7460586c57db7976dea49146c0501b073bf94e7f2edab9ca1
+source hash figures/Figure3_source_data.tsv	PASS	17976f9370e7f3e2e2ffde55b803df113719fe64b991ff32b0aed7dce2eb0b0d	17976f9370e7f3e2e2ffde55b803df113719fe64b991ff32b0aed7dce2eb0b0d
+source hash figures/Figure4_source_data.tsv	PASS	1e5b8947781d89181d07a8e4d5f8db2dd989b3fdd00d6ebaa0c9ecbf5ad579a7	1e5b8947781d89181d07a8e4d5f8db2dd989b3fdd00d6ebaa0c9ecbf5ad579a7

@@ -1,0 +1,477 @@
+factor	decision	rank	trait_code	biomarker_name	group	panel_source	loading	abs_loading	rel_to_max	low_h2z_flag
+F1	drop	1	S_VLDL_CE	Cholesteryl esters in small VLDL	Lipoprotein subclasses	frozen52	0.332318	0.332318	1	False
+F1	drop	2	S_VLDL_FC	Free cholesterol in small VLDL	Lipoprotein subclasses	frozen52	0.320387	0.320387	0.9641	False
+F1	drop	3	VLDL_C	VLDL cholesterol	Cholesterol	exp9	0.230214	0.230214	0.692754	False
+F1	drop	4	S_VLDL_L	Total lipids in small VLDL	Lipoprotein subclasses	frozen52	0.227049	0.227049	0.68323	False
+F1	drop	5	ApoB	Apolipoprotein B	Apolipoproteins	exp9	0.225548	0.225548	0.678711	False
+F1	drop	6	LDL_C	LDL cholesterol	Cholesterol	exp9	0.208203	0.208203	0.626518	False
+F1	drop	7	Total_CE	Total esterified cholesterol	Cholesteryl esters	frozen52	0.201801	0.201801	0.607252	False
+F1	drop	8	Total_C	Total cholesterol	Cholesterol	exp9	0.200859	0.200859	0.604418	False
+F1	drop	9	Total_FC	Total free cholesterol	Cholesterol	exp9	0.197124	0.197124	0.593181	False
+F1	drop	10	Remnant_C	Remnant cholesterol	Cholesterol	exp9	0.196436	0.196436	0.591108	False
+F1	drop	11	XS_VLDL_FC	Free cholesterol in very small VLDL	Lipoprotein subclasses	frozen52	0.18475	0.18475	0.555945	True
+F1	drop	12	PUFA	Polyunsaturated fatty acids	Fatty acids	frozen52	0.179999	0.179999	0.541647	False
+F1	drop	13	XS_VLDL_CE	Cholesteryl esters in very small VLDL	Lipoprotein subclasses	frozen52	0.170139	0.170139	0.511977	False
+F1	drop	14	Omega_6	Omega-6 fatty acids	Fatty acids	frozen52	0.167024	0.167024	0.502602	False
+F1	drop	15	Sphingomyelins	Sphingomyelins	Other lipids	frozen52	0.166121	0.166121	0.499886	False
+F1	drop	16	VLDL_size	Average diameter for VLDL particles	Lipoprotein particle sizes	frozen52	-0.160597	0.160597	0.483263	False
+F1	drop	17	XL_HDL_TG	Triglycerides in very large HDL	Lipoprotein subclasses	frozen52	0.159749	0.159749	0.480713	True
+F1	drop	18	XS_VLDL_L	Total lipids in very small VLDL	Lipoprotein subclasses	frozen52	0.158336	0.158336	0.476461	True
+F1	drop	19	LA	Linoleic acid	Fatty acids	frozen52	0.142798	0.142798	0.429704	False
+F1	drop	20	Omega_3	Omega-3 fatty acids	Fatty acids	frozen52	0.138563	0.138563	0.41696	True
+F1	drop	21	Total_TG	Total triglycerides	Triglycerides	exp9	-0.137862	0.137862	0.41485	False
+F1	drop	22	M_LDL_TG	Triglycerides in medium LDL	Lipoprotein subclasses	frozen52	-0.120849	0.120849	0.363654	False
+F1	drop	23	Albumin	Albumin	Fluid balance	frozen52	-0.116641	0.116641	0.350992	False
+F2	drop	1	M_HDL_CE	Cholesteryl esters in medium HDL	Lipoprotein subclasses	frozen52	0.384404	0.384404	1	False
+F2	drop	2	ApoA1	Apolipoprotein A1	Apolipoproteins	frozen52	0.280836	0.280836	0.730574	False
+F2	drop	3	XL_HDL_TG	Triglycerides in very large HDL	Lipoprotein subclasses	frozen52	0.280688	0.280688	0.730191	True
+F2	drop	4	Phosphatidylc	Phosphatidylcholines	Other lipids	frozen52	-0.255777	0.255777	0.665385	False
+F2	drop	5	HDL_size	Average diameter for HDL particles	Lipoprotein particle sizes	frozen52	-0.241754	0.241754	0.628907	False
+F2	drop	6	Phosphoglyc	Phosphoglycerides	Other lipids	frozen52	-0.238585	0.238585	0.620661	False
+F2	drop	7	HDL_C	HDL cholesterol	Cholesterol	exp9	0.226459	0.226459	0.589116	False
+F2	drop	8	S_LDL_TG	Triglycerides in small LDL	Lipoprotein subclasses	frozen52	0.21383	0.21383	0.556262	False
+F2	drop	9	S_VLDL_TG	Triglycerides in small VLDL	Lipoprotein subclasses	frozen52	-0.212815	0.212815	0.553622	False
+F2	drop	10	Cholines	Total cholines	Other lipids	frozen52	-0.194792	0.194792	0.506737	False
+F2	drop	11	L_HDL_C	Cholesterol in large HDL	Lipoprotein subclasses	frozen52	-0.191218	0.191218	0.497441	False
+F2	drop	12	M_HDL_TG	Triglycerides in medium HDL	Lipoprotein subclasses	frozen52	0.181019	0.181019	0.470908	False
+F2	drop	13	VLDL_size	Average diameter for VLDL particles	Lipoprotein particle sizes	frozen52	0.167793	0.167793	0.436503	False
+F2	drop	14	SFA	Saturated fatty acids	Fatty acids	frozen52	-0.15702	0.15702	0.408476	False
+F2	drop	15	LA	Linoleic acid	Fatty acids	frozen52	0.154221	0.154221	0.401195	False
+F2	drop	16	S_VLDL_L	Total lipids in small VLDL	Lipoprotein subclasses	frozen52	-0.151577	0.151577	0.394316	False
+F2	drop	17	XS_VLDL_CE	Cholesteryl esters in very small VLDL	Lipoprotein subclasses	frozen52	0.149646	0.149646	0.389293	False
+F2	drop	18	Val	Valine	Amino acids	frozen52	0.140498	0.140498	0.365497	False
+F2	drop	19	M_LDL_TG	Triglycerides in medium LDL	Lipoprotein subclasses	frozen52	0.137522	0.137522	0.357752	False
+F2	drop	20	S_HDL_L	Total lipids in small HDL	Lipoprotein subclasses	frozen52	-0.135102	0.135102	0.351458	False
+F2	drop	21	Ile	Isoleucine	Amino acids	frozen52	0.131266	0.131266	0.341478	False
+F3	drop	1	M_HDL_TG	Triglycerides in medium HDL	Lipoprotein subclasses	frozen52	-0.39274	0.39274	1	False
+F3	drop	2	HDL_size	Average diameter for HDL particles	Lipoprotein particle sizes	frozen52	-0.330873	0.330873	0.842473	False
+F3	drop	3	S_HDL_TG	Triglycerides in small HDL	Lipoprotein subclasses	frozen52	-0.326758	0.326758	0.831997	False
+F3	drop	4	LDL_C	LDL cholesterol	Cholesterol	exp9	-0.27078	0.27078	0.689463	False
+F3	drop	5	Phosphatidylc	Phosphatidylcholines	Other lipids	frozen52	0.262424	0.262424	0.668188	False
+F3	drop	6	XS_VLDL_FC	Free cholesterol in very small VLDL	Lipoprotein subclasses	frozen52	0.224736	0.224736	0.572226	True
+F3	drop	7	M_HDL_CE	Cholesteryl esters in medium HDL	Lipoprotein subclasses	frozen52	0.223467	0.223467	0.568994	False
+F3	drop	8	L_HDL_C	Cholesterol in large HDL	Lipoprotein subclasses	frozen52	-0.221615	0.221615	0.564278	False
+F3	drop	9	DHA	Docosahexaenoic acid	Fatty acids	frozen52	0.178072	0.178072	0.45341	True
+F3	drop	10	Cholines	Total cholines	Other lipids	frozen52	0.176617	0.176617	0.449705	False
+F3	drop	11	Phosphoglyc	Phosphoglycerides	Other lipids	frozen52	0.164321	0.164321	0.418397	False
+F3	drop	12	Omega_3	Omega-3 fatty acids	Fatty acids	frozen52	-0.157433	0.157433	0.400857	True
+F3	drop	13	XS_VLDL_L	Total lipids in very small VLDL	Lipoprotein subclasses	frozen52	0.153471	0.153471	0.390771	True
+F3	drop	14	ApoA1	Apolipoprotein A1	Apolipoproteins	frozen52	0.153051	0.153051	0.3897	False
+F3	drop	15	S_VLDL_TG	Triglycerides in small VLDL	Lipoprotein subclasses	frozen52	0.128029	0.128029	0.32599	False
+F4	drop	1	S_HDL_CE	Cholesteryl esters in small HDL	Lipoprotein subclasses	frozen52	0.413937	0.413937	1	False
+F4	drop	2	S_HDL_C	Cholesterol in small HDL	Lipoprotein subclasses	frozen52	0.374215	0.374215	0.904039	False
+F4	drop	3	HDL_size	Average diameter for HDL particles	Lipoprotein particle sizes	frozen52	-0.359513	0.359513	0.86852	False
+F4	drop	4	S_HDL_L	Total lipids in small HDL	Lipoprotein subclasses	frozen52	0.342537	0.342537	0.82751	False
+F4	drop	5	L_HDL_C	Cholesterol in large HDL	Lipoprotein subclasses	frozen52	-0.294868	0.294868	0.71235	False
+F4	drop	6	XS_VLDL_CE	Cholesteryl esters in very small VLDL	Lipoprotein subclasses	frozen52	-0.208503	0.208503	0.503707	False
+F4	drop	7	XL_HDL_TG	Triglycerides in very large HDL	Lipoprotein subclasses	frozen52	-0.195609	0.195609	0.472556	True
+F4	drop	8	XS_VLDL_FC	Free cholesterol in very small VLDL	Lipoprotein subclasses	frozen52	-0.191238	0.191238	0.461997	True
+F4	drop	9	XS_VLDL_L	Total lipids in very small VLDL	Lipoprotein subclasses	frozen52	-0.187696	0.187696	0.453441	True
+F4	drop	10	GlycA	Glycoprotein acetyls	Inflammation	frozen52	0.170341	0.170341	0.411515	False
+F4	drop	11	VLDL_size	Average diameter for VLDL particles	Lipoprotein particle sizes	frozen52	0.163426	0.163426	0.394808	False
+F4	drop	12	S_HDL_TG	Triglycerides in small HDL	Lipoprotein subclasses	frozen52	0.136867	0.136867	0.330646	False
+F4	drop	13	LDL_size	Average diameter for LDL particles	Lipoprotein particle sizes	frozen52	-0.13255	0.13255	0.320218	False
+F5	watch	1	S_VLDL_TG	Triglycerides in small VLDL	Lipoprotein subclasses	frozen52	0.338326	0.338326	1	False
+F5	watch	2	Sphingomyelins	Sphingomyelins	Other lipids	frozen52	0.310578	0.310578	0.917987	False
+F5	watch	3	M_LDL_TG	Triglycerides in medium LDL	Lipoprotein subclasses	frozen52	-0.306694	0.306694	0.906507	False
+F5	watch	4	MUFA	Monounsaturated fatty acids	Fatty acids	frozen52	-0.267505	0.267505	0.790674	False
+F5	watch	5	M_HDL_TG	Triglycerides in medium HDL	Lipoprotein subclasses	frozen52	0.263428	0.263428	0.778624	False
+F5	watch	6	Total_FA	Total fatty acids	Fatty acids	frozen52	-0.212124	0.212124	0.62698	False
+F5	watch	7	DHA	Docosahexaenoic acid	Fatty acids	frozen52	0.203369	0.203369	0.601103	True
+F5	watch	8	XL_HDL_TG	Triglycerides in very large HDL	Lipoprotein subclasses	frozen52	0.195484	0.195484	0.577799	True
+F5	watch	9	Total_TG	Total triglycerides	Triglycerides	exp9	0.185134	0.185134	0.547206	False
+F5	watch	10	Total_CE	Total esterified cholesterol	Cholesteryl esters	frozen52	0.169936	0.169936	0.502284	False
+F5	watch	11	S_HDL_CE	Cholesteryl esters in small HDL	Lipoprotein subclasses	frozen52	-0.15636	0.15636	0.462159	False
+F5	watch	12	Total_C	Total cholesterol	Cholesterol	exp9	0.155389	0.155389	0.459288	False
+F5	watch	13	Phosphatidylc	Phosphatidylcholines	Other lipids	frozen52	0.153035	0.153035	0.452332	False
+F5	watch	14	S_VLDL_CE	Cholesteryl esters in small VLDL	Lipoprotein subclasses	frozen52	-0.151069	0.151069	0.446519	False
+F5	watch	15	XS_VLDL_L	Total lipids in very small VLDL	Lipoprotein subclasses	frozen52	-0.14939	0.14939	0.441557	True
+F5	watch	16	S_LDL_TG	Triglycerides in small LDL	Lipoprotein subclasses	frozen52	-0.138561	0.138561	0.409549	False
+F5	watch	17	PUFA	Polyunsaturated fatty acids	Fatty acids	frozen52	-0.134016	0.134016	0.396115	False
+F5	watch	18	LDL_C	LDL cholesterol	Cholesterol	exp9	0.133761	0.133761	0.395361	False
+F5	watch	19	HDL_size	Average diameter for HDL particles	Lipoprotein particle sizes	frozen52	-0.13124	0.13124	0.387911	False
+F5	watch	20	Omega_3	Omega-3 fatty acids	Fatty acids	frozen52	-0.122602	0.122602	0.362379	True
+F5	watch	21	S_HDL_TG	Triglycerides in small HDL	Lipoprotein subclasses	frozen52	0.122027	0.122027	0.360679	False
+F5	watch	22	Omega_6	Omega-6 fatty acids	Fatty acids	frozen52	-0.120018	0.120018	0.354741	False
+F5	watch	23	SFA	Saturated fatty acids	Fatty acids	frozen52	-0.11934	0.11934	0.352737	False
+F5	watch	24	bOHbutyrate	3-Hydroxybutyrate	Ketone bodies	frozen52	0.113665	0.113665	0.335963	False
+F5	watch	25	Total_FC	Total free cholesterol	Cholesterol	exp9	0.10875	0.10875	0.321436	False
+F5	watch	26	XS_VLDL_FC	Free cholesterol in very small VLDL	Lipoprotein subclasses	frozen52	-0.108429	0.108429	0.320486	True
+F5	watch	27	VLDL_C	VLDL cholesterol	Cholesterol	exp9	-0.103254	0.103254	0.305191	False
+F6	drop	1	VLDL_size	Average diameter for VLDL particles	Lipoprotein particle sizes	frozen52	-0.315431	0.315431	1	False
+F6	drop	2	L_HDL_C	Cholesterol in large HDL	Lipoprotein subclasses	frozen52	-0.300679	0.300679	0.953233	False
+F6	drop	3	XS_VLDL_CE	Cholesteryl esters in very small VLDL	Lipoprotein subclasses	frozen52	0.273504	0.273504	0.867082	False
+F6	drop	4	HDL_size	Average diameter for HDL particles	Lipoprotein particle sizes	frozen52	-0.247487	0.247487	0.784601	False
+F6	drop	5	HDL_C	HDL cholesterol	Cholesterol	exp9	-0.245963	0.245963	0.779769	False
+F6	drop	6	XS_VLDL_FC	Free cholesterol in very small VLDL	Lipoprotein subclasses	frozen52	0.23035	0.23035	0.730272	True
+F6	drop	7	XS_VLDL_L	Total lipids in very small VLDL	Lipoprotein subclasses	frozen52	0.224806	0.224806	0.712694	True
+F6	drop	8	M_HDL_TG	Triglycerides in medium HDL	Lipoprotein subclasses	frozen52	0.223678	0.223678	0.709119	False
+F6	drop	9	LA	Linoleic acid	Fatty acids	frozen52	-0.206434	0.206434	0.654449	False
+F6	drop	10	Omega_6	Omega-6 fatty acids	Fatty acids	frozen52	-0.197911	0.197911	0.627429	False
+F6	drop	11	S_LDL_TG	Triglycerides in small LDL	Lipoprotein subclasses	frozen52	-0.186841	0.186841	0.592335	False
+F6	drop	12	PUFA	Polyunsaturated fatty acids	Fatty acids	frozen52	-0.170335	0.170335	0.540008	False
+F6	drop	13	MUFA	Monounsaturated fatty acids	Fatty acids	frozen52	-0.160219	0.160219	0.507937	False
+F6	drop	14	S_VLDL_CE	Cholesteryl esters in small VLDL	Lipoprotein subclasses	frozen52	0.152456	0.152456	0.483325	False
+F6	drop	15	XL_HDL_TG	Triglycerides in very large HDL	Lipoprotein subclasses	frozen52	-0.151749	0.151749	0.481084	True
+F6	drop	16	Total_TG	Total triglycerides	Triglycerides	exp9	-0.150473	0.150473	0.47704	False
+F6	drop	17	Total_FA	Total fatty acids	Fatty acids	frozen52	-0.148053	0.148053	0.469367	False
+F6	drop	18	M_HDL_CE	Cholesteryl esters in medium HDL	Lipoprotein subclasses	frozen52	-0.146366	0.146366	0.464018	False
+F6	drop	19	ApoA1	Apolipoprotein A1	Apolipoproteins	frozen52	-0.144408	0.144408	0.457813	False
+F6	drop	20	S_HDL_TG	Triglycerides in small HDL	Lipoprotein subclasses	frozen52	0.140193	0.140193	0.444448	False
+F6	drop	21	S_VLDL_TG	Triglycerides in small VLDL	Lipoprotein subclasses	frozen52	-0.13917	0.13917	0.441205	False
+F6	drop	22	bOHbutyrate	3-Hydroxybutyrate	Ketone bodies	frozen52	-0.108655	0.108655	0.344465	False
+F7	watch	1	M_HDL_TG	Triglycerides in medium HDL	Lipoprotein subclasses	frozen52	0.329183	0.329183	1	False
+F7	watch	2	XL_HDL_TG	Triglycerides in very large HDL	Lipoprotein subclasses	frozen52	0.29138	0.29138	0.88516	True
+F7	watch	3	XS_VLDL_TG	Triglycerides in very small VLDL	Lipoprotein subclasses	frozen52	0.25355	0.25355	0.770241	False
+F7	watch	4	ApoA1	Apolipoprotein A1	Apolipoproteins	frozen52	0.248153	0.248153	0.753846	False
+F7	watch	5	HDL_size	Average diameter for HDL particles	Lipoprotein particle sizes	frozen52	0.246285	0.246285	0.748172	False
+F7	watch	6	LDL_C	LDL cholesterol	Cholesterol	exp9	-0.233029	0.233029	0.707902	False
+F7	watch	7	M_HDL_CE	Cholesteryl esters in medium HDL	Lipoprotein subclasses	frozen52	0.200547	0.200547	0.609226	False
+F7	watch	8	S_VLDL_TG	Triglycerides in small VLDL	Lipoprotein subclasses	frozen52	0.1977	0.1977	0.600578	False
+F7	watch	9	Phosphatidylc	Phosphatidylcholines	Other lipids	frozen52	0.183532	0.183532	0.557538	False
+F7	watch	10	S_HDL_TG	Triglycerides in small HDL	Lipoprotein subclasses	frozen52	0.18096	0.18096	0.549726	False
+F7	watch	11	ApoB	Apolipoprotein B	Apolipoproteins	exp9	-0.180356	0.180356	0.54789	False
+F7	watch	12	Phosphoglyc	Phosphoglycerides	Other lipids	frozen52	0.175211	0.175211	0.53226	False
+F7	watch	13	HDL_C	HDL cholesterol	Cholesterol	exp9	0.164676	0.164676	0.500257	False
+F7	watch	14	S_LDL_TG	Triglycerides in small LDL	Lipoprotein subclasses	frozen52	0.160602	0.160602	0.48788	False
+F7	watch	15	Omega_3	Omega-3 fatty acids	Fatty acids	frozen52	0.159776	0.159776	0.485372	True
+F7	watch	16	L_HDL_C	Cholesterol in large HDL	Lipoprotein subclasses	frozen52	0.15063	0.15063	0.457589	False
+F7	watch	17	Total_TG	Total triglycerides	Triglycerides	exp9	0.146404	0.146404	0.444749	False
+F7	watch	18	Cholines	Total cholines	Other lipids	frozen52	0.140248	0.140248	0.42605	False
+F7	watch	19	MUFA	Monounsaturated fatty acids	Fatty acids	frozen52	0.129331	0.129331	0.392884	False
+F7	watch	20	Remnant_C	Remnant cholesterol	Cholesterol	exp9	-0.129218	0.129218	0.392543	False
+F7	watch	21	Total_FC	Total free cholesterol	Cholesterol	exp9	-0.12612	0.12612	0.38313	False
+F7	watch	22	Total_FA	Total fatty acids	Fatty acids	frozen52	0.121757	0.121757	0.369877	False
+F7	watch	23	M_LDL_TG	Triglycerides in medium LDL	Lipoprotein subclasses	frozen52	0.118953	0.118953	0.361358	False
+F7	watch	24	Total_C	Total cholesterol	Cholesterol	exp9	-0.115202	0.115202	0.349965	False
+F7	watch	25	SFA	Saturated fatty acids	Fatty acids	frozen52	0.114453	0.114453	0.347688	False
+F7	watch	26	Total_CE	Total esterified cholesterol	Cholesteryl esters	frozen52	-0.10997	0.10997	0.334071	False
+F7	watch	27	S_VLDL_FC	Free cholesterol in small VLDL	Lipoprotein subclasses	frozen52	-0.10737	0.10737	0.326172	False
+F7	watch	28	S_HDL_L	Total lipids in small HDL	Lipoprotein subclasses	frozen52	0.105723	0.105723	0.321168	False
+F7	watch	29	PUFA	Polyunsaturated fatty acids	Fatty acids	frozen52	0.101748	0.101748	0.309094	False
+F8	drop	1	Omega_3	Omega-3 fatty acids	Fatty acids	frozen52	0.642543	0.642543	1	True
+F8	drop	2	DHA	Docosahexaenoic acid	Fatty acids	frozen52	0.615277	0.615277	0.957565	True
+F8	drop	3	Albumin	Albumin	Fluid balance	frozen52	0.241697	0.241697	0.376156	False
+F8	drop	4	Citrate	Citrate	Glycolysis related metabolites	frozen52	-0.168883	0.168883	0.262835	False
+F8	drop	5	PUFA	Polyunsaturated fatty acids	Fatty acids	frozen52	0.139355	0.139355	0.21688	False
+F8	drop	6	Val	Valine	Amino acids	frozen52	0.109139	0.109139	0.169855	False
+F8	drop	7	LA	Linoleic acid	Fatty acids	frozen52	-0.108962	0.108962	0.169579	False
+F8	drop	8	S_VLDL_TG	Triglycerides in small VLDL	Lipoprotein subclasses	frozen52	0.0972724	0.0972724	0.151387	False
+F9	retain	1	LDL_C	LDL cholesterol	Cholesterol	exp9	-0.302571	0.302571	1	False
+F9	retain	2	ApoB	Apolipoprotein B	Apolipoproteins	exp9	-0.282342	0.282342	0.933143	False
+F9	retain	3	Total_FC	Total free cholesterol	Cholesterol	exp9	-0.248807	0.248807	0.822308	False
+F9	retain	4	Sphingomyelins	Sphingomyelins	Other lipids	frozen52	-0.245575	0.245575	0.811628	False
+F9	retain	5	Total_C	Total cholesterol	Cholesterol	exp9	-0.227431	0.227431	0.751662	False
+F9	retain	6	XS_VLDL_FC	Free cholesterol in very small VLDL	Lipoprotein subclasses	frozen52	-0.222871	0.222871	0.736591	True
+F9	retain	7	S_VLDL_FC	Free cholesterol in small VLDL	Lipoprotein subclasses	frozen52	-0.222775	0.222775	0.736272	False
+F9	retain	8	XS_VLDL_CE	Cholesteryl esters in very small VLDL	Lipoprotein subclasses	frozen52	-0.221981	0.221981	0.73365	False
+F9	retain	9	Total_CE	Total esterified cholesterol	Cholesteryl esters	frozen52	-0.217145	0.217145	0.717667	False
+F9	retain	10	M_LDL_TG	Triglycerides in medium LDL	Lipoprotein subclasses	frozen52	-0.212845	0.212845	0.703454	False
+F9	retain	11	Remnant_C	Remnant cholesterol	Cholesterol	exp9	-0.209375	0.209375	0.691988	False
+F9	retain	12	XS_VLDL_L	Total lipids in very small VLDL	Lipoprotein subclasses	frozen52	-0.206522	0.206522	0.682556	True
+F9	retain	13	S_VLDL_CE	Cholesteryl esters in small VLDL	Lipoprotein subclasses	frozen52	-0.196393	0.196393	0.649081	False
+F9	retain	14	S_HDL_L	Total lipids in small HDL	Lipoprotein subclasses	frozen52	0.191929	0.191929	0.634328	False
+F9	retain	15	M_HDL_TG	Triglycerides in medium HDL	Lipoprotein subclasses	frozen52	0.184728	0.184728	0.610527	False
+F9	retain	16	M_HDL_CE	Cholesteryl esters in medium HDL	Lipoprotein subclasses	frozen52	0.17927	0.17927	0.592488	False
+F9	retain	17	VLDL_size	Average diameter for VLDL particles	Lipoprotein particle sizes	frozen52	0.162436	0.162436	0.536852	False
+F9	retain	18	ApoA1	Apolipoprotein A1	Apolipoproteins	frozen52	0.139607	0.139607	0.461403	False
+F9	retain	19	LDL_size	Average diameter for LDL particles	Lipoprotein particle sizes	frozen52	-0.131088	0.131088	0.433246	False
+F9	retain	20	VLDL_C	VLDL cholesterol	Cholesterol	exp9	-0.126616	0.126616	0.418468	False
+F9	retain	21	S_HDL_CE	Cholesteryl esters in small HDL	Lipoprotein subclasses	frozen52	0.121753	0.121753	0.402394	False
+F9	retain	22	S_VLDL_L	Total lipids in small VLDL	Lipoprotein subclasses	frozen52	-0.114291	0.114291	0.377734	False
+F9	retain	23	XL_HDL_TG	Triglycerides in very large HDL	Lipoprotein subclasses	frozen52	-0.111771	0.111771	0.369403	True
+F9	retain	24	S_HDL_C	Cholesterol in small HDL	Lipoprotein subclasses	frozen52	0.0931453	0.0931453	0.307846	False
+F10	drop	1	HDL_C	HDL cholesterol	Cholesterol	exp9	-0.286671	0.286671	1	False
+F10	drop	2	M_HDL_TG	Triglycerides in medium HDL	Lipoprotein subclasses	frozen52	0.285825	0.285825	0.997048	False
+F10	drop	3	L_HDL_C	Cholesterol in large HDL	Lipoprotein subclasses	frozen52	-0.282523	0.282523	0.985529	False
+F10	drop	4	XS_VLDL_L	Total lipids in very small VLDL	Lipoprotein subclasses	frozen52	0.270827	0.270827	0.944728	True
+F10	drop	5	S_HDL_TG	Triglycerides in small HDL	Lipoprotein subclasses	frozen52	0.266915	0.266915	0.931085	False
+F10	drop	6	XS_VLDL_FC	Free cholesterol in very small VLDL	Lipoprotein subclasses	frozen52	0.256224	0.256224	0.89379	True
+F10	drop	7	S_VLDL_CE	Cholesteryl esters in small VLDL	Lipoprotein subclasses	frozen52	0.254593	0.254593	0.888101	False
+F10	drop	8	XS_VLDL_TG	Triglycerides in very small VLDL	Lipoprotein subclasses	frozen52	0.253831	0.253831	0.885442	False
+F10	drop	9	M_HDL_CE	Cholesteryl esters in medium HDL	Lipoprotein subclasses	frozen52	-0.250349	0.250349	0.873296	False
+F10	drop	10	XS_VLDL_CE	Cholesteryl esters in very small VLDL	Lipoprotein subclasses	frozen52	0.205817	0.205817	0.717954	False
+F10	drop	11	HDL_size	Average diameter for HDL particles	Lipoprotein particle sizes	frozen52	-0.205281	0.205281	0.716086	False
+F10	drop	12	ApoA1	Apolipoprotein A1	Apolipoproteins	frozen52	-0.188838	0.188838	0.658727	False
+F10	drop	13	S_VLDL_L	Total lipids in small VLDL	Lipoprotein subclasses	frozen52	0.176117	0.176117	0.614352	False
+F10	drop	14	VLDL_C	VLDL cholesterol	Cholesterol	exp9	0.174868	0.174868	0.609994	False
+F10	drop	15	M_LDL_TG	Triglycerides in medium LDL	Lipoprotein subclasses	frozen52	0.140566	0.140566	0.490337	False
+F10	drop	16	S_VLDL_FC	Free cholesterol in small VLDL	Lipoprotein subclasses	frozen52	0.138072	0.138072	0.48164	False
+F10	drop	17	S_HDL_CE	Cholesteryl esters in small HDL	Lipoprotein subclasses	frozen52	-0.136479	0.136479	0.476081	False
+F10	drop	18	Remnant_C	Remnant cholesterol	Cholesterol	exp9	0.12067	0.12067	0.420936	False
+F10	drop	19	S_HDL_C	Cholesterol in small HDL	Lipoprotein subclasses	frozen52	-0.119068	0.119068	0.415348	False
+F10	drop	20	XL_HDL_TG	Triglycerides in very large HDL	Lipoprotein subclasses	frozen52	0.118814	0.118814	0.414459	True
+F10	drop	21	S_VLDL_TG	Triglycerides in small VLDL	Lipoprotein subclasses	frozen52	0.117181	0.117181	0.408763	False
+F10	drop	22	Sphingomyelins	Sphingomyelins	Other lipids	frozen52	-0.0953296	0.0953296	0.33254	False
+F10	drop	23	ApoB	Apolipoprotein B	Apolipoproteins	exp9	0.0931811	0.0931811	0.325045	False
+F10	drop	24	S_LDL_TG	Triglycerides in small LDL	Lipoprotein subclasses	frozen52	0.0893506	0.0893506	0.311683	False
+F10	drop	25	Total_TG	Total triglycerides	Triglycerides	exp9	0.0866565	0.0866565	0.302285	False
+F11	retain	1	GlycA	Glycoprotein acetyls	Inflammation	frozen52	-0.818296	0.818296	1	False
+F11	retain	2	Albumin	Albumin	Fluid balance	frozen52	0.274902	0.274902	0.335945	False
+F11	retain	3	His	Histidine	Amino acids	frozen52	0.191489	0.191489	0.234009	False
+F11	retain	4	Gln	Glutamine	Amino acids	frozen52	0.165943	0.165943	0.202791	False
+F11	retain	5	Sphingomyelins	Sphingomyelins	Other lipids	frozen52	-0.15736	0.15736	0.192302	False
+F11	retain	6	bOHbutyrate	3-Hydroxybutyrate	Ketone bodies	frozen52	-0.154108	0.154108	0.188328	False
+F11	retain	7	Pyruvate	Pyruvate	Glycolysis related metabolites	exp9	-0.138881	0.138881	0.169719	False
+F11	retain	8	Ala	Alanine	Amino acids	frozen52	0.125916	0.125916	0.153875	False
+F12	drop	1	HDL_C	HDL cholesterol	Cholesterol	exp9	0.314187	0.314187	1	False
+F12	drop	2	M_HDL_CE	Cholesteryl esters in medium HDL	Lipoprotein subclasses	frozen52	0.31012	0.31012	0.987055	False
+F12	drop	3	L_HDL_C	Cholesterol in large HDL	Lipoprotein subclasses	frozen52	0.280522	0.280522	0.892851	False
+F12	drop	4	ApoA1	Apolipoprotein A1	Apolipoproteins	frozen52	0.277619	0.277619	0.88361	False
+F12	drop	5	HDL_size	Average diameter for HDL particles	Lipoprotein particle sizes	frozen52	0.247116	0.247116	0.786525	False
+F12	drop	6	S_VLDL_TG	Triglycerides in small VLDL	Lipoprotein subclasses	frozen52	-0.219159	0.219159	0.697542	False
+F12	drop	7	VLDL_size	Average diameter for VLDL particles	Lipoprotein particle sizes	frozen52	-0.200505	0.200505	0.63817	False
+F12	drop	8	S_VLDL_L	Total lipids in small VLDL	Lipoprotein subclasses	frozen52	-0.198376	0.198376	0.631395	False
+F12	drop	9	S_HDL_TG	Triglycerides in small HDL	Lipoprotein subclasses	frozen52	-0.19075	0.19075	0.607123	False
+F12	drop	10	XS_VLDL_TG	Triglycerides in very small VLDL	Lipoprotein subclasses	frozen52	-0.186785	0.186785	0.594504	False
+F12	drop	11	S_LDL_TG	Triglycerides in small LDL	Lipoprotein subclasses	frozen52	-0.183891	0.183891	0.58529	False
+F12	drop	12	Total_TG	Total triglycerides	Triglycerides	exp9	-0.176272	0.176272	0.561041	False
+F12	drop	13	S_VLDL_CE	Cholesteryl esters in small VLDL	Lipoprotein subclasses	frozen52	-0.174269	0.174269	0.554665	False
+F12	drop	14	M_LDL_TG	Triglycerides in medium LDL	Lipoprotein subclasses	frozen52	-0.163041	0.163041	0.51893	False
+F12	drop	15	Sphingomyelins	Sphingomyelins	Other lipids	frozen52	0.16158	0.16158	0.514278	False
+F12	drop	16	Phosphatidylc	Phosphatidylcholines	Other lipids	frozen52	0.160843	0.160843	0.511932	False
+F12	drop	17	Cholines	Total cholines	Other lipids	frozen52	0.157022	0.157022	0.499771	False
+F12	drop	18	Phosphoglyc	Phosphoglycerides	Other lipids	frozen52	0.146958	0.146958	0.467739	False
+F12	drop	19	VLDL_C	VLDL cholesterol	Cholesterol	exp9	-0.139717	0.139717	0.444692	False
+F12	drop	20	S_HDL_C	Cholesterol in small HDL	Lipoprotein subclasses	frozen52	0.132476	0.132476	0.421648	False
+F12	drop	21	S_HDL_CE	Cholesteryl esters in small HDL	Lipoprotein subclasses	frozen52	0.132405	0.132405	0.421421	False
+F12	drop	22	S_VLDL_FC	Free cholesterol in small VLDL	Lipoprotein subclasses	frozen52	-0.115019	0.115019	0.366085	False
+F12	drop	23	Total_CE	Total esterified cholesterol	Cholesteryl esters	frozen52	0.104696	0.104696	0.333229	False
+F12	drop	24	XL_HDL_TG	Triglycerides in very large HDL	Lipoprotein subclasses	frozen52	-0.104165	0.104165	0.331537	True
+F12	drop	25	S_HDL_L	Total lipids in small HDL	Lipoprotein subclasses	frozen52	0.103699	0.103699	0.330055	False
+F13	retain	1	Lactate	Lactate	Glycolysis related metabolites	frozen52	0.709678	0.709678	1	False
+F13	retain	2	Glucose	Glucose	Glycolysis related metabolites	frozen52	-0.490882	0.490882	0.691697	False
+F13	retain	3	Pyruvate	Pyruvate	Glycolysis related metabolites	exp9	0.336872	0.336872	0.474684	False
+F13	retain	4	Acetate	Acetate	Ketone bodies	frozen52	-0.244829	0.244829	0.344986	False
+F13	retain	5	bOHbutyrate	3-Hydroxybutyrate	Ketone bodies	frozen52	0.165479	0.165479	0.233174	False
+F13	retain	6	Citrate	Citrate	Glycolysis related metabolites	frozen52	0.152373	0.152373	0.214707	False
+F13	retain	7	Ala	Alanine	Amino acids	frozen52	0.146748	0.146748	0.206781	False
+F13	retain	8	Albumin	Albumin	Fluid balance	frozen52	0.0610673	0.0610673	0.0860494	False
+F14	retain	1	Gln	Glutamine	Amino acids	frozen52	0.41456	0.41456	1	False
+F14	retain	2	Ala	Alanine	Amino acids	frozen52	0.312042	0.312042	0.752706	False
+F14	retain	3	Tyr	Tyrosine	Amino acids	frozen52	0.233617	0.233617	0.563531	False
+F14	retain	4	HDL_size	Average diameter for HDL particles	Lipoprotein particle sizes	frozen52	0.220923	0.220923	0.532909	False
+F14	retain	5	L_HDL_C	Cholesterol in large HDL	Lipoprotein subclasses	frozen52	0.205981	0.205981	0.496868	False
+F14	retain	6	Albumin	Albumin	Fluid balance	frozen52	0.196757	0.196757	0.474616	False
+F14	retain	7	His	Histidine	Amino acids	frozen52	0.196394	0.196394	0.47374	False
+F14	retain	8	Glucose	Glucose	Glycolysis related metabolites	frozen52	0.173492	0.173492	0.418497	False
+F14	retain	9	Citrate	Citrate	Glycolysis related metabolites	frozen52	0.170593	0.170593	0.411505	False
+F14	retain	10	S_VLDL_L	Total lipids in small VLDL	Lipoprotein subclasses	frozen52	-0.159989	0.159989	0.385925	False
+F14	retain	11	M_LDL_TG	Triglycerides in medium LDL	Lipoprotein subclasses	frozen52	-0.153536	0.153536	0.370359	False
+F14	retain	12	S_HDL_TG	Triglycerides in small HDL	Lipoprotein subclasses	frozen52	-0.153144	0.153144	0.369414	False
+F14	retain	13	S_VLDL_CE	Cholesteryl esters in small VLDL	Lipoprotein subclasses	frozen52	-0.147892	0.147892	0.356745	False
+F14	retain	14	HDL_C	HDL cholesterol	Cholesterol	exp9	0.145921	0.145921	0.35199	False
+F14	retain	15	S_VLDL_TG	Triglycerides in small VLDL	Lipoprotein subclasses	frozen52	-0.145765	0.145765	0.351613	False
+F14	retain	16	VLDL_size	Average diameter for VLDL particles	Lipoprotein particle sizes	frozen52	-0.144772	0.144772	0.349219	False
+F14	retain	17	S_LDL_TG	Triglycerides in small LDL	Lipoprotein subclasses	frozen52	-0.141142	0.141142	0.340462	False
+F14	retain	18	Total_TG	Total triglycerides	Triglycerides	exp9	-0.131374	0.131374	0.316901	False
+F14	retain	19	S_VLDL_FC	Free cholesterol in small VLDL	Lipoprotein subclasses	frozen52	-0.129903	0.129903	0.313351	False
+F14	retain	20	XS_VLDL_TG	Triglycerides in very small VLDL	Lipoprotein subclasses	frozen52	-0.126943	0.126943	0.306213	False
+F15	retain	1	LDL_size	Average diameter for LDL particles	Lipoprotein particle sizes	frozen52	0.30314	0.30314	1	False
+F15	retain	2	ApoB	Apolipoprotein B	Apolipoproteins	exp9	0.242626	0.242626	0.800375	False
+F15	retain	3	S_VLDL_FC	Free cholesterol in small VLDL	Lipoprotein subclasses	frozen52	0.226404	0.226404	0.746861	False
+F15	retain	4	XS_VLDL_FC	Free cholesterol in very small VLDL	Lipoprotein subclasses	frozen52	0.2224	0.2224	0.733653	True
+F15	retain	5	XS_VLDL_CE	Cholesteryl esters in very small VLDL	Lipoprotein subclasses	frozen52	0.220795	0.220795	0.728359	False
+F15	retain	6	LDL_C	LDL cholesterol	Cholesterol	exp9	0.220005	0.220005	0.725755	False
+F15	retain	7	XS_VLDL_L	Total lipids in very small VLDL	Lipoprotein subclasses	frozen52	0.216143	0.216143	0.713014	True
+F15	retain	8	Total_CE	Total esterified cholesterol	Cholesteryl esters	frozen52	0.212482	0.212482	0.700936	False
+F15	retain	9	Total_C	Total cholesterol	Cholesterol	exp9	0.211879	0.211879	0.698947	False
+F15	retain	10	Total_FC	Total free cholesterol	Cholesterol	exp9	0.206684	0.206684	0.681811	False
+F15	retain	11	Remnant_C	Remnant cholesterol	Cholesterol	exp9	0.201146	0.201146	0.66354	False
+F15	retain	12	Omega_6	Omega-6 fatty acids	Fatty acids	frozen52	0.174784	0.174784	0.57658	False
+F15	retain	13	PUFA	Polyunsaturated fatty acids	Fatty acids	frozen52	0.174305	0.174305	0.574997	False
+F15	retain	14	VLDL_C	VLDL cholesterol	Cholesterol	exp9	0.170302	0.170302	0.561793	False
+F15	retain	15	S_VLDL_CE	Cholesteryl esters in small VLDL	Lipoprotein subclasses	frozen52	0.17001	0.17001	0.560828	False
+F15	retain	16	Sphingomyelins	Sphingomyelins	Other lipids	frozen52	0.164102	0.164102	0.54134	False
+F15	retain	17	Phosphatidylc	Phosphatidylcholines	Other lipids	frozen52	0.154567	0.154567	0.509886	False
+F15	retain	18	Cholines	Total cholines	Other lipids	frozen52	0.151417	0.151417	0.499495	False
+F15	retain	19	S_VLDL_L	Total lipids in small VLDL	Lipoprotein subclasses	frozen52	0.15072	0.15072	0.497195	False
+F15	retain	20	LA	Linoleic acid	Fatty acids	frozen52	0.147155	0.147155	0.485436	False
+F15	retain	21	Phosphoglyc	Phosphoglycerides	Other lipids	frozen52	0.138865	0.138865	0.458087	False
+F15	retain	22	Total_FA	Total fatty acids	Fatty acids	frozen52	0.136109	0.136109	0.448997	False
+F15	retain	23	MUFA	Monounsaturated fatty acids	Fatty acids	frozen52	0.129939	0.129939	0.428644	False
+F15	retain	24	M_HDL_TG	Triglycerides in medium HDL	Lipoprotein subclasses	frozen52	-0.124925	0.124925	0.412102	False
+F15	retain	25	M_LDL_TG	Triglycerides in medium LDL	Lipoprotein subclasses	frozen52	0.123386	0.123386	0.407026	False
+F15	retain	26	DHA	Docosahexaenoic acid	Fatty acids	frozen52	0.115846	0.115846	0.382153	True
+F15	retain	27	XS_VLDL_TG	Triglycerides in very small VLDL	Lipoprotein subclasses	frozen52	0.113017	0.113017	0.372821	False
+F15	retain	28	bOHbutyrate	3-Hydroxybutyrate	Ketone bodies	frozen52	-0.107633	0.107633	0.35506	False
+F15	retain	29	L_HDL_C	Cholesterol in large HDL	Lipoprotein subclasses	frozen52	0.098641	0.098641	0.325397	False
+F15	retain	30	SFA	Saturated fatty acids	Fatty acids	frozen52	0.0986365	0.0986365	0.325383	False
+F15	retain	31	Omega_3	Omega-3 fatty acids	Fatty acids	frozen52	0.0956034	0.0956034	0.315377	True
+F15	retain	32	S_LDL_TG	Triglycerides in small LDL	Lipoprotein subclasses	frozen52	0.0935579	0.0935579	0.308629	False
+F16	drop	1	Omega_3	Omega-3 fatty acids	Fatty acids	frozen52	-0.595005	0.595005	1	True
+F16	drop	2	DHA	Docosahexaenoic acid	Fatty acids	frozen52	-0.505914	0.505914	0.850269	True
+F16	drop	3	Sphingomyelins	Sphingomyelins	Other lipids	frozen52	-0.209002	0.209002	0.35126	False
+F16	drop	4	PUFA	Polyunsaturated fatty acids	Fatty acids	frozen52	-0.190536	0.190536	0.320226	False
+F16	drop	5	XS_VLDL_CE	Cholesteryl esters in very small VLDL	Lipoprotein subclasses	frozen52	-0.162965	0.162965	0.273889	False
+F16	drop	6	VLDL_size	Average diameter for VLDL particles	Lipoprotein particle sizes	frozen52	0.139719	0.139719	0.23482	False
+F16	drop	7	L_HDL_C	Cholesterol in large HDL	Lipoprotein subclasses	frozen52	-0.13942	0.13942	0.234318	False
+F16	drop	8	HDL_size	Average diameter for HDL particles	Lipoprotein particle sizes	frozen52	-0.131337	0.131337	0.220732	False
+F17	retain	1	Val	Valine	Amino acids	frozen52	-0.772236	0.772236	1	False
+F17	retain	2	Leu	Leucine	Amino acids	frozen52	-0.464639	0.464639	0.601679	False
+F17	retain	3	Ile	Isoleucine	Amino acids	frozen52	-0.34243	0.34243	0.443426	False
+F17	retain	4	Ala	Alanine	Amino acids	frozen52	0.259133	0.259133	0.335562	False
+F17	retain	5	Tyr	Tyrosine	Amino acids	frozen52	0.0554272	0.0554272	0.0717749	False
+F17	retain	6	Lactate	Lactate	Glycolysis related metabolites	frozen52	-0.0167865	0.0167865	0.0217376	False
+F17	retain	7	S_VLDL_CE	Cholesteryl esters in small VLDL	Lipoprotein subclasses	frozen52	-1.06844e-05	1.06844e-05	1.38356e-05	False
+F17	retain	8	SFA	Saturated fatty acids	Fatty acids	frozen52	-8.02064e-06	8.02064e-06	1.03863e-05	False
+F18	retain	1	Tyr	Tyrosine	Amino acids	frozen52	0.890108	0.890108	1	False
+F18	retain	2	Leu	Leucine	Amino acids	frozen52	-0.237967	0.237967	0.267347	False
+F18	retain	3	Phe	Phenylalanine	Amino acids	frozen52	0.212974	0.212974	0.239268	False
+F18	retain	4	Val	Valine	Amino acids	frozen52	-0.183951	0.183951	0.206662	False
+F18	retain	5	Ile	Isoleucine	Amino acids	frozen52	-0.162933	0.162933	0.183049	False
+F18	retain	6	Ala	Alanine	Amino acids	frozen52	-0.127321	0.127321	0.14304	False
+F18	retain	7	Gln	Glutamine	Amino acids	frozen52	-0.119437	0.119437	0.134182	False
+F18	retain	8	His	Histidine	Amino acids	frozen52	-0.0671299	0.0671299	0.0754177	False
+F19	drop	1	Creatinine	Creatinine	Fluid balance	frozen52	-0.946602	0.946602	1	False
+F19	drop	2	Citrate	Citrate	Glycolysis related metabolites	frozen52	-0.242618	0.242618	0.256304	False
+F19	drop	3	Phe	Phenylalanine	Amino acids	frozen52	-0.106376	0.106376	0.112377	False
+F19	drop	4	Tyr	Tyrosine	Amino acids	frozen52	0.0985066	0.0985066	0.104063	False
+F19	drop	5	Gln	Glutamine	Amino acids	frozen52	0.0975236	0.0975236	0.103025	False
+F19	drop	6	Glucose	Glucose	Glycolysis related metabolites	frozen52	0.0626294	0.0626294	0.0661623	False
+F19	drop	7	Albumin	Albumin	Fluid balance	frozen52	0.0508848	0.0508848	0.0537553	False
+F19	drop	8	Val	Valine	Amino acids	frozen52	0.0468175	0.0468175	0.0494585	False
+F20	retain	1	Gln	Glutamine	Amino acids	frozen52	0.875705	0.875705	1	False
+F20	retain	2	Ala	Alanine	Amino acids	frozen52	-0.353932	0.353932	0.404168	False
+F20	retain	3	Citrate	Citrate	Glycolysis related metabolites	frozen52	-0.192902	0.192902	0.220282	False
+F20	retain	4	Tyr	Tyrosine	Amino acids	frozen52	-0.134838	0.134838	0.153977	False
+F20	retain	5	His	Histidine	Amino acids	frozen52	0.117341	0.117341	0.133996	False
+F20	retain	6	Val	Valine	Amino acids	frozen52	-0.0952004	0.0952004	0.108713	False
+F20	retain	7	Ile	Isoleucine	Amino acids	frozen52	-0.09499	0.09499	0.108473	False
+F20	retain	8	Leu	Leucine	Amino acids	frozen52	-0.0914476	0.0914476	0.104427	False
+F21	watch	1	Pyruvate	Pyruvate	Glycolysis related metabolites	exp9	-0.896478	0.896478	1	False
+F21	watch	2	Lactate	Lactate	Glycolysis related metabolites	frozen52	0.302321	0.302321	0.337233	False
+F21	watch	3	Glucose	Glucose	Glycolysis related metabolites	frozen52	-0.255408	0.255408	0.284902	False
+F21	watch	4	Gln	Glutamine	Amino acids	frozen52	-0.154799	0.154799	0.172674	False
+F21	watch	5	Acetate	Acetate	Ketone bodies	frozen52	-0.0889899	0.0889899	0.0992661	False
+F21	watch	6	bOHbutyrate	3-Hydroxybutyrate	Ketone bodies	frozen52	0.0522439	0.0522439	0.0582769	False
+F21	watch	7	Citrate	Citrate	Glycolysis related metabolites	frozen52	0.0492087	0.0492087	0.0548912	False
+F21	watch	8	Albumin	Albumin	Fluid balance	frozen52	0.0470954	0.0470954	0.0525338	False
+F22	retain	1	Citrate	Citrate	Glycolysis related metabolites	frozen52	0.977939	0.977939	1	False
+F22	retain	2	Ala	Alanine	Amino acids	frozen52	-0.187059	0.187059	0.191279	False
+F22	retain	3	Creatinine	Creatinine	Fluid balance	frozen52	-0.0626414	0.0626414	0.0640545	False
+F22	retain	4	Tyr	Tyrosine	Amino acids	frozen52	-0.048935	0.048935	0.050039	False
+F22	retain	5	bOHbutyrate	3-Hydroxybutyrate	Ketone bodies	frozen52	-0.0318694	0.0318694	0.0325883	False
+F22	retain	6	Lactate	Lactate	Glycolysis related metabolites	frozen52	-0.0280698	0.0280698	0.028703	False
+F22	retain	7	Albumin	Albumin	Fluid balance	frozen52	-0.0198456	0.0198456	0.0202933	False
+F22	retain	8	His	Histidine	Amino acids	frozen52	-0.0112635	0.0112635	0.0115176	False
+F23	retain	1	His	Histidine	Amino acids	frozen52	-0.967835	0.967835	1	False
+F23	retain	2	Gln	Glutamine	Amino acids	frozen52	0.207697	0.207697	0.214599	False
+F23	retain	3	Creatinine	Creatinine	Fluid balance	frozen52	0.108093	0.108093	0.111685	False
+F23	retain	4	Glucose	Glucose	Glycolysis related metabolites	frozen52	0.0722234	0.0722234	0.0746236	False
+F23	retain	5	GlycA	Glycoprotein acetyls	Inflammation	frozen52	0.0570704	0.0570704	0.0589671	False
+F23	retain	6	SFA	Saturated fatty acids	Fatty acids	frozen52	2.03855e-05	2.03855e-05	2.10629e-05	False
+F23	retain	7	XL_HDL_TG	Triglycerides in very large HDL	Lipoprotein subclasses	frozen52	-1.97929e-05	1.97929e-05	2.04507e-05	True
+F23	retain	8	MUFA	Monounsaturated fatty acids	Fatty acids	frozen52	-1.43068e-05	1.43068e-05	1.47823e-05	False
+F24	retain	1	Albumin	Albumin	Fluid balance	frozen52	-0.862684	0.862684	1	False
+F24	retain	2	Ala	Alanine	Amino acids	frozen52	0.262285	0.262285	0.304034	False
+F24	retain	3	Gln	Glutamine	Amino acids	frozen52	0.248549	0.248549	0.288112	False
+F24	retain	4	Tyr	Tyrosine	Amino acids	frozen52	0.135343	0.135343	0.156886	False
+F24	retain	5	bOHbutyrate	3-Hydroxybutyrate	Ketone bodies	frozen52	0.132919	0.132919	0.154077	False
+F24	retain	6	Omega_3	Omega-3 fatty acids	Fatty acids	frozen52	0.12729	0.12729	0.147551	True
+F24	retain	7	Creatinine	Creatinine	Fluid balance	frozen52	-0.116984	0.116984	0.135604	False
+F24	retain	8	PUFA	Polyunsaturated fatty acids	Fatty acids	frozen52	0.109783	0.109783	0.127257	False
+F25	retain	1	Glucose	Glucose	Glycolysis related metabolites	frozen52	0.992452	0.992452	1	False
+F25	retain	2	Gln	Glutamine	Amino acids	frozen52	-0.12263	0.12263	0.123563	False
+F25	retain	3	Val	Valine	Amino acids	frozen52	0.000115509	0.000115509	0.000116387	False
+F25	retain	4	Phosphoglyc	Phosphoglycerides	Other lipids	frozen52	1.01119e-05	1.01119e-05	1.01888e-05	False
+F25	retain	5	MUFA	Monounsaturated fatty acids	Fatty acids	frozen52	-2.27526e-06	2.27526e-06	2.29256e-06	False
+F25	retain	6	S_VLDL_CE	Cholesteryl esters in small VLDL	Lipoprotein subclasses	frozen52	1.64607e-06	1.64607e-06	1.65858e-06	False
+F25	retain	7	S_VLDL_FC	Free cholesterol in small VLDL	Lipoprotein subclasses	frozen52	1.5677e-06	1.5677e-06	1.57962e-06	False
+F25	retain	8	DHA	Docosahexaenoic acid	Fatty acids	frozen52	1.56583e-06	1.56583e-06	1.57774e-06	True
+F26	retain	1	Phe	Phenylalanine	Amino acids	frozen52	0.917172	0.917172	1	False
+F26	retain	2	Tyr	Tyrosine	Amino acids	frozen52	-0.385823	0.385823	0.420666	False
+F26	retain	3	Leu	Leucine	Amino acids	frozen52	-0.076694	0.076694	0.0836201	False
+F26	retain	4	Ile	Isoleucine	Amino acids	frozen52	-0.063668	0.063668	0.0694177	False
+F26	retain	5	Val	Valine	Amino acids	frozen52	-0.000184692	0.000184692	0.000201372	False
+F26	retain	6	S_VLDL_TG	Triglycerides in small VLDL	Lipoprotein subclasses	frozen52	4.18728e-06	4.18728e-06	4.56542e-06	False
+F26	retain	7	Total_TG	Total triglycerides	Triglycerides	exp9	-4.04616e-06	4.04616e-06	4.41156e-06	False
+F26	retain	8	S_LDL_TG	Triglycerides in small LDL	Lipoprotein subclasses	frozen52	4.00505e-06	4.00505e-06	4.36674e-06	False
+F27	watch	1	Acetate	Acetate	Ketone bodies	frozen52	-0.469721	0.469721	1	False
+F27	watch	2	M_HDL_CE	Cholesteryl esters in medium HDL	Lipoprotein subclasses	frozen52	0.244336	0.244336	0.520172	False
+F27	watch	3	Albumin	Albumin	Fluid balance	frozen52	-0.231455	0.231455	0.49275	False
+F27	watch	4	ApoA1	Apolipoprotein A1	Apolipoproteins	frozen52	0.228997	0.228997	0.487516	False
+F27	watch	5	Creatinine	Creatinine	Fluid balance	frozen52	0.226141	0.226141	0.481438	False
+F27	watch	6	VLDL_size	Average diameter for VLDL particles	Lipoprotein particle sizes	frozen52	-0.225969	0.225969	0.48107	False
+F27	watch	7	S_HDL_C	Cholesterol in small HDL	Lipoprotein subclasses	frozen52	0.223002	0.223002	0.474755	False
+F27	watch	8	HDL_C	HDL cholesterol	Cholesterol	exp9	0.217693	0.217693	0.463451	False
+F27	watch	9	S_HDL_CE	Cholesteryl esters in small HDL	Lipoprotein subclasses	frozen52	0.211288	0.211288	0.449817	False
+F27	watch	10	S_HDL_L	Total lipids in small HDL	Lipoprotein subclasses	frozen52	0.194566	0.194566	0.414216	False
+F27	watch	11	Sphingomyelins	Sphingomyelins	Other lipids	frozen52	0.186229	0.186229	0.396466	False
+F27	watch	12	Cholines	Total cholines	Other lipids	frozen52	0.159963	0.159963	0.340549	False
+F27	watch	13	Total_TG	Total triglycerides	Triglycerides	exp9	-0.154412	0.154412	0.328732	False
+F27	watch	14	Phosphoglyc	Phosphoglycerides	Other lipids	frozen52	0.152664	0.152664	0.325009	False
+F27	watch	15	Phosphatidylc	Phosphatidylcholines	Other lipids	frozen52	0.15178	0.15178	0.323128	False
+F28	drop	1	S_HDL_CE	Cholesteryl esters in small HDL	Lipoprotein subclasses	frozen52	-0.381028	0.381028	1	False
+F28	drop	2	XS_VLDL_CE	Cholesteryl esters in very small VLDL	Lipoprotein subclasses	frozen52	0.368634	0.368634	0.967472	False
+F28	drop	3	S_HDL_C	Cholesterol in small HDL	Lipoprotein subclasses	frozen52	-0.361066	0.361066	0.947609	False
+F28	drop	4	S_HDL_L	Total lipids in small HDL	Lipoprotein subclasses	frozen52	-0.305956	0.305956	0.802974	False
+F28	drop	5	XS_VLDL_FC	Free cholesterol in very small VLDL	Lipoprotein subclasses	frozen52	0.300355	0.300355	0.788276	True
+F28	drop	6	XS_VLDL_L	Total lipids in very small VLDL	Lipoprotein subclasses	frozen52	0.273114	0.273114	0.716782	True
+F28	drop	7	HDL_size	Average diameter for HDL particles	Lipoprotein particle sizes	frozen52	0.266683	0.266683	0.699904	False
+F28	drop	8	L_HDL_C	Cholesterol in large HDL	Lipoprotein subclasses	frozen52	0.20218	0.20218	0.530617	False
+F28	drop	9	Remnant_C	Remnant cholesterol	Cholesterol	exp9	0.181569	0.181569	0.476523	False
+F28	drop	10	VLDL_C	VLDL cholesterol	Cholesterol	exp9	0.146802	0.146802	0.385278	False
+F28	drop	11	M_HDL_CE	Cholesteryl esters in medium HDL	Lipoprotein subclasses	frozen52	-0.125265	0.125265	0.328756	False
+F28	drop	12	Sphingomyelins	Sphingomyelins	Other lipids	frozen52	0.11593	0.11593	0.304257	False
+F28	drop	13	ApoB	Apolipoprotein B	Apolipoproteins	exp9	0.114709	0.114709	0.30105	False
+F28	drop	14	S_HDL_TG	Triglycerides in small HDL	Lipoprotein subclasses	frozen52	-0.114343	0.114343	0.300091	False
+F29	drop	1	VLDL_size	Average diameter for VLDL particles	Lipoprotein particle sizes	frozen52	0.294076	0.294076	1	False
+F29	drop	2	S_VLDL_TG	Triglycerides in small VLDL	Lipoprotein subclasses	frozen52	0.262828	0.262828	0.893742	False
+F29	drop	3	Total_TG	Total triglycerides	Triglycerides	exp9	0.237749	0.237749	0.80846	False
+F29	drop	4	M_HDL_TG	Triglycerides in medium HDL	Lipoprotein subclasses	frozen52	0.234675	0.234675	0.798006	False
+F29	drop	5	MUFA	Monounsaturated fatty acids	Fatty acids	frozen52	0.233914	0.233914	0.795419	False
+F29	drop	6	S_HDL_TG	Triglycerides in small HDL	Lipoprotein subclasses	frozen52	0.233809	0.233809	0.795063	False
+F29	drop	7	Creatinine	Creatinine	Fluid balance	frozen52	0.205142	0.205142	0.69758	False
+F29	drop	8	S_LDL_TG	Triglycerides in small LDL	Lipoprotein subclasses	frozen52	0.20497	0.20497	0.696996	False
+F29	drop	9	LA	Linoleic acid	Fatty acids	frozen52	0.201261	0.201261	0.684384	False
+F29	drop	10	Total_FA	Total fatty acids	Fatty acids	frozen52	0.190225	0.190225	0.646857	False
+F29	drop	11	S_HDL_L	Total lipids in small HDL	Lipoprotein subclasses	frozen52	0.181304	0.181304	0.61652	False
+F29	drop	12	Omega_6	Omega-6 fatty acids	Fatty acids	frozen52	0.178098	0.178098	0.605617	False
+F29	drop	13	S_VLDL_L	Total lipids in small VLDL	Lipoprotein subclasses	frozen52	0.177287	0.177287	0.602861	False
+F29	drop	14	bOHbutyrate	3-Hydroxybutyrate	Ketone bodies	frozen52	0.168017	0.168017	0.571337	False
+F29	drop	15	XL_HDL_TG	Triglycerides in very large HDL	Lipoprotein subclasses	frozen52	0.162434	0.162434	0.552352	True
+F29	drop	16	GlycA	Glycoprotein acetyls	Inflammation	frozen52	0.158996	0.158996	0.540661	False
+F29	drop	17	XS_VLDL_TG	Triglycerides in very small VLDL	Lipoprotein subclasses	frozen52	0.158966	0.158966	0.54056	False
+F29	drop	18	PUFA	Polyunsaturated fatty acids	Fatty acids	frozen52	0.15813	0.15813	0.537718	False
+F29	drop	19	SFA	Saturated fatty acids	Fatty acids	frozen52	0.14402	0.14402	0.489736	False
+F29	drop	20	M_LDL_TG	Triglycerides in medium LDL	Lipoprotein subclasses	frozen52	0.130075	0.130075	0.442317	False
+F29	drop	21	S_HDL_C	Cholesterol in small HDL	Lipoprotein subclasses	frozen52	0.125804	0.125804	0.427794	False
+F29	drop	22	L_HDL_C	Cholesterol in large HDL	Lipoprotein subclasses	frozen52	-0.124006	0.124006	0.421681	False
+F29	drop	23	S_HDL_CE	Cholesteryl esters in small HDL	Lipoprotein subclasses	frozen52	0.118286	0.118286	0.40223	False
+F29	drop	24	VLDL_C	VLDL cholesterol	Cholesterol	exp9	0.116998	0.116998	0.39785	False
+F29	drop	25	Citrate	Citrate	Glycolysis related metabolites	frozen52	0.116882	0.116882	0.397455	False
+F29	drop	26	LDL_size	Average diameter for LDL particles	Lipoprotein particle sizes	frozen52	-0.112039	0.112039	0.380988	False
+F29	drop	27	Phosphoglyc	Phosphoglycerides	Other lipids	frozen52	0.105838	0.105838	0.3599	False
+F29	drop	28	HDL_size	Average diameter for HDL particles	Lipoprotein particle sizes	frozen52	-0.104799	0.104799	0.356367	False
+F29	drop	29	Phosphatidylc	Phosphatidylcholines	Other lipids	frozen52	0.103311	0.103311	0.351306	False
+F30	drop	1	L_HDL_C	Cholesterol in large HDL	Lipoprotein subclasses	frozen52	-0.308804	0.308804	1	False
+F30	drop	2	bOHbutyrate	3-Hydroxybutyrate	Ketone bodies	frozen52	0.260269	0.260269	0.842828	False
+F30	drop	3	S_VLDL_TG	Triglycerides in small VLDL	Lipoprotein subclasses	frozen52	-0.259916	0.259916	0.841684	False
+F30	drop	4	HDL_size	Average diameter for HDL particles	Lipoprotein particle sizes	frozen52	-0.233316	0.233316	0.755546	False
+F30	drop	5	S_VLDL_L	Total lipids in small VLDL	Lipoprotein subclasses	frozen52	-0.220946	0.220946	0.715489	False
+F30	drop	6	M_HDL_TG	Triglycerides in medium HDL	Lipoprotein subclasses	frozen52	0.208793	0.208793	0.676135	False
+F30	drop	7	Ala	Alanine	Amino acids	frozen52	0.2071	0.2071	0.670652	False
+F30	drop	8	HDL_C	HDL cholesterol	Cholesterol	exp9	-0.199319	0.199319	0.645453	False
+F30	drop	9	Lactate	Lactate	Glycolysis related metabolites	frozen52	-0.197008	0.197008	0.637972	False
+F30	drop	10	S_VLDL_FC	Free cholesterol in small VLDL	Lipoprotein subclasses	frozen52	-0.192014	0.192014	0.621799	False
+F30	drop	11	SFA	Saturated fatty acids	Fatty acids	frozen52	0.183173	0.183173	0.593167	False
+F30	drop	12	Phosphoglyc	Phosphoglycerides	Other lipids	frozen52	0.17795	0.17795	0.576256	False
+F30	drop	13	S_VLDL_CE	Cholesteryl esters in small VLDL	Lipoprotein subclasses	frozen52	-0.174473	0.174473	0.564995	False
+F30	drop	14	Total_FA	Total fatty acids	Fatty acids	frozen52	0.16668	0.16668	0.53976	False
+F30	drop	15	XS_VLDL_TG	Triglycerides in very small VLDL	Lipoprotein subclasses	frozen52	-0.163922	0.163922	0.53083	False
+F30	drop	16	Glucose	Glucose	Glycolysis related metabolites	frozen52	-0.137041	0.137041	0.443779	False
+F30	drop	17	M_LDL_TG	Triglycerides in medium LDL	Lipoprotein subclasses	frozen52	-0.134285	0.134285	0.434853	False
+F30	drop	18	XS_VLDL_CE	Cholesteryl esters in very small VLDL	Lipoprotein subclasses	frozen52	0.13355	0.13355	0.432476	False
+F30	drop	19	S_LDL_TG	Triglycerides in small LDL	Lipoprotein subclasses	frozen52	-0.132952	0.132952	0.430538	False
+F30	drop	20	PUFA	Polyunsaturated fatty acids	Fatty acids	frozen52	0.1327	0.1327	0.429723	False
+F30	drop	21	Phosphatidylc	Phosphatidylcholines	Other lipids	frozen52	0.132474	0.132474	0.428991	False
+F30	drop	22	Cholines	Total cholines	Other lipids	frozen52	0.127055	0.127055	0.411441	False
+F30	drop	23	GlycA	Glycoprotein acetyls	Inflammation	frozen52	-0.120119	0.120119	0.388981	False
+F30	drop	24	DHA	Docosahexaenoic acid	Fatty acids	frozen52	-0.117991	0.117991	0.382091	True
+F30	drop	25	Omega_6	Omega-6 fatty acids	Fatty acids	frozen52	0.117936	0.117936	0.381913	False
+F30	drop	26	S_HDL_CE	Cholesteryl esters in small HDL	Lipoprotein subclasses	frozen52	-0.113799	0.113799	0.368515	False
+F30	drop	27	Omega_3	Omega-3 fatty acids	Fatty acids	frozen52	0.113715	0.113715	0.368243	True
+F30	drop	28	MUFA	Monounsaturated fatty acids	Fatty acids	frozen52	0.104311	0.104311	0.337791	False
+F30	drop	29	S_HDL_C	Cholesterol in small HDL	Lipoprotein subclasses	frozen52	-0.100266	0.100266	0.324692	False
+F30	drop	30	M_HDL_CE	Cholesteryl esters in medium HDL	Lipoprotein subclasses	frozen52	-0.0956418	0.0956418	0.309717	False

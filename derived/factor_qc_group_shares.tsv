@@ -1,0 +1,31 @@
+factor	decision	top_group	top_group_ss_share	exp9_ss_share	group_ss_shares
+F1	drop	Lipoprotein subclasses	0.427337	0.288182	Lipoprotein subclasses=0.43; Cholesterol=0.22; Fatty acids=0.11
+F2	drop	Lipoprotein subclasses	0.49081	0.0680194	Lipoprotein subclasses=0.49; Other lipids=0.16
+F3	drop	Lipoprotein subclasses	0.52262	0.13522	Lipoprotein subclasses=0.52; Other lipids=0.13; Lipoprotein particle sizes=0.12; Cholesterol=0.11
+F4	drop	Lipoprotein subclasses	0.705196	0.0170153	Lipoprotein subclasses=0.71; Lipoprotein particle sizes=0.17
+F5	watch	Lipoprotein subclasses	0.461097	0.103241	Lipoprotein subclasses=0.46; Fatty acids=0.22; Other lipids=0.13
+F6	drop	Lipoprotein subclasses	0.478426	0.102591	Lipoprotein subclasses=0.48; Fatty acids=0.17; Lipoprotein particle sizes=0.16
+F7	watch	Lipoprotein subclasses	0.474533	0.182135	Lipoprotein subclasses=0.47; Cholesterol=0.13
+F8	drop	Fatty acids	0.827558	0.00602195	Fatty acids=0.83
+F9	retain	Lipoprotein subclasses	0.449823	0.348679	Lipoprotein subclasses=0.45; Cholesterol=0.27
+F10	drop	Lipoprotein subclasses	0.744978	0.144898	Lipoprotein subclasses=0.74; Cholesterol=0.13
+F11	retain	Inflammation	0.669608	0.028283	Inflammation=0.67
+F12	drop	Lipoprotein subclasses	0.508645	0.164064	Lipoprotein subclasses=0.51; Cholesterol=0.13; Lipoprotein particle sizes=0.11
+F13	retain	Glycolysis related metabolites	0.881308	0.113483	Glycolysis related metabolites=0.88
+F14	retain	Amino acids	0.372085	0.0901117	Amino acids=0.37; Lipoprotein subclasses=0.26
+F15	retain	Lipoprotein subclasses	0.328994	0.271469	Lipoprotein subclasses=0.33; Cholesterol=0.21; Fatty acids=0.15
+F16	drop	Fatty acids	0.680504	0.0743552	Fatty acids=0.68; Lipoprotein subclasses=0.10
+F17	retain	Amino acids	0.999718	4.25274e-12	Amino acids=1.00
+F18	retain	Amino acids	0.989647	8.33079e-11	Amino acids=0.99
+F19	drop	Fluid balance	0.898644	5.17208e-05	Fluid balance=0.90
+F20	retain	Amino acids	0.950526	0.00775335	Amino acids=0.95
+F21	watch	Glycolysis related metabolites	0.962725	0.803672	Glycolysis related metabolites=0.96
+F22	retain	Glycolysis related metabolites	0.957152	2.38075e-11	Glycolysis related metabolites=0.96
+F23	retain	Amino acids	0.979843	4.69112e-11	Amino acids=0.98
+F24	retain	Fluid balance	0.75791	0.00205272	Fluid balance=0.76; Amino acids=0.16
+F25	retain	Glycolysis related metabolites	0.984962	8.2794e-13	Glycolysis related metabolites=0.98
+F26	retain	Amino acids	1	2.57487e-11	Amino acids=1.00
+F27	watch	Lipoprotein subclasses	0.285212	0.112551	Lipoprotein subclasses=0.29; Ketone bodies=0.22; Other lipids=0.11; Fluid balance=0.10
+F28	drop	Lipoprotein subclasses	0.785545	0.0968158	Lipoprotein subclasses=0.79
+F29	drop	Lipoprotein subclasses	0.418342	0.0756191	Lipoprotein subclasses=0.42; Fatty acids=0.21; Lipoprotein particle sizes=0.11
+F30	drop	Lipoprotein subclasses	0.440507	0.0707601	Lipoprotein subclasses=0.44; Fatty acids=0.13

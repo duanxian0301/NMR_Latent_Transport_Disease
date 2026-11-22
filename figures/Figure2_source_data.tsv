@@ -1,0 +1,839 @@
+panel	record_type	factor	trait	biomarker_name	family	raw_loading	display_loading	leading_trait_share	effective_traits	top3_share	profile_type	rank
+A	loading	F15	ApoA1	Apolipoprotein A1	lipid_lipoprotein	-0.0145989087730347	-0.04815894095794285	NA	NA	NA	NA	NA
+A	loading	F9	ApoA1	Apolipoprotein A1	lipid_lipoprotein	0.139607086226066	0.46140277277530795	NA	NA	NA	NA	NA
+A	loading	F14	ApoA1	Apolipoprotein A1	lipid_lipoprotein	0.0978068541968499	0.23592952738742295	NA	NA	NA	NA	NA
+A	loading	F17	ApoA1	Apolipoprotein A1	lipid_lipoprotein	-1.33902765904286e-06	-1.7339610979201135e-06	NA	NA	NA	NA	NA
+A	loading	F13	ApoA1	Apolipoprotein A1	lipid_lipoprotein	0.000107003881189048	0.00015077815266541342	NA	NA	NA	NA	NA
+A	loading	F11	ApoA1	Apolipoprotein A1	lipid_lipoprotein	-0.0126240651668079	-0.015427267520034824	NA	NA	NA	NA	NA
+A	loading	F24	ApoA1	Apolipoprotein A1	lipid_lipoprotein	0.0138670534112463	0.016074305297943566	NA	NA	NA	NA	NA
+A	loading	F20	ApoA1	Apolipoprotein A1	lipid_lipoprotein	-5.93865357866633e-08	-6.78156890181866e-08	NA	NA	NA	NA	NA
+A	loading	F18	ApoA1	Apolipoprotein A1	lipid_lipoprotein	5.78835310787191e-06	6.502975426837009e-06	NA	NA	NA	NA	NA
+A	loading	F26	ApoA1	Apolipoprotein A1	lipid_lipoprotein	-5.84048184554267e-07	-6.367922963304522e-07	NA	NA	NA	NA	NA
+A	loading	F23	ApoA1	Apolipoprotein A1	lipid_lipoprotein	-3.99146979090812e-06	-4.124121837661605e-06	NA	NA	NA	NA	NA
+A	loading	F22	ApoA1	Apolipoprotein A1	lipid_lipoprotein	-4.49834774432634e-07	-4.599825694263637e-07	NA	NA	NA	NA	NA
+A	loading	F25	ApoA1	Apolipoprotein A1	lipid_lipoprotein	-1.74624672512289e-07	-1.7595269319666685e-07	NA	NA	NA	NA	NA
+A	loading	F15	ApoB	Apolipoprotein B	lipid_lipoprotein	0.242625906652128	0.800375349622675	NA	NA	NA	NA	NA
+A	loading	F9	ApoB	Apolipoprotein B	lipid_lipoprotein	-0.282342020960772	-0.9331431151806463	NA	NA	NA	NA	NA
+A	loading	F14	ApoB	Apolipoprotein B	lipid_lipoprotein	-0.112436270106109	-0.2712185795685605	NA	NA	NA	NA	NA
+A	loading	F17	ApoB	Apolipoprotein B	lipid_lipoprotein	5.35762802629093e-07	6.937809321545641e-07	NA	NA	NA	NA	NA
+A	loading	F13	ApoB	Apolipoprotein B	lipid_lipoprotein	7.70420442327106e-06	1.0855921278642474e-05	NA	NA	NA	NA	NA
+A	loading	F11	ApoB	Apolipoprotein B	lipid_lipoprotein	0.000226397130192205	0.00027666912734469474	NA	NA	NA	NA	NA
+A	loading	F24	ApoB	Apolipoprotein B	lipid_lipoprotein	0.0129767678057001	0.01504231081421943	NA	NA	NA	NA	NA
+A	loading	F20	ApoB	Apolipoprotein B	lipid_lipoprotein	8.25271728291196e-06	9.424084119394914e-06	NA	NA	NA	NA	NA
+A	loading	F18	ApoB	Apolipoprotein B	lipid_lipoprotein	-1.79580134884485e-06	-2.0175085772043122e-06	NA	NA	NA	NA	NA
+A	loading	F26	ApoB	Apolipoprotein B	lipid_lipoprotein	-2.34530789082226e-07	-2.5571075073855823e-07	NA	NA	NA	NA	NA
+A	loading	F23	ApoB	Apolipoprotein B	lipid_lipoprotein	-2.70160665118236e-06	-2.79139153509116e-06	NA	NA	NA	NA	NA
+A	loading	F22	ApoB	Apolipoprotein B	lipid_lipoprotein	1.11943380321231e-06	1.1446870414893584e-06	NA	NA	NA	NA	NA
+A	loading	F25	ApoB	Apolipoprotein B	lipid_lipoprotein	-1.42687001746576e-07	-1.437721364356502e-07	NA	NA	NA	NA	NA
+A	loading	F15	Cholines	Total cholines	lipid_lipoprotein	0.151417030826419	0.49949513083235103	NA	NA	NA	NA	NA
+A	loading	F9	Cholines	Total cholines	lipid_lipoprotein	-0.030526905321077	-0.10089171789307345	NA	NA	NA	NA	NA
+A	loading	F14	Cholines	Total cholines	lipid_lipoprotein	5.58803477301832e-05	0.00013479447977840793	NA	NA	NA	NA	NA
+A	loading	F17	Cholines	Total cholines	lipid_lipoprotein	-3.32676584321273e-07	-4.3079637041579877e-07	NA	NA	NA	NA	NA
+A	loading	F13	Cholines	Total cholines	lipid_lipoprotein	1.11221522815324e-05	1.5672119142202755e-05	NA	NA	NA	NA	NA
+A	loading	F11	Cholines	Total cholines	lipid_lipoprotein	3.44473226588964e-05	4.209642892251704e-05	NA	NA	NA	NA	NA
+A	loading	F24	Cholines	Total cholines	lipid_lipoprotein	-0.000381817168304689	-0.0004425919154784787	NA	NA	NA	NA	NA
+A	loading	F20	Cholines	Total cholines	lipid_lipoprotein	-3.98702189100039e-07	-4.55292825363802e-07	NA	NA	NA	NA	NA
+A	loading	F18	Cholines	Total cholines	lipid_lipoprotein	-3.37703793697129e-06	-3.793962515824219e-06	NA	NA	NA	NA	NA
+A	loading	F26	Cholines	Total cholines	lipid_lipoprotein	1.4354412569134e-06	1.5650728114752367e-06	NA	NA	NA	NA	NA
+A	loading	F23	Cholines	Total cholines	lipid_lipoprotein	-2.25468830706648e-07	-2.329620358263458e-07	NA	NA	NA	NA	NA
+A	loading	F22	Cholines	Total cholines	lipid_lipoprotein	-1.57334099990409e-07	-1.6088339026979967e-07	NA	NA	NA	NA	NA
+A	loading	F25	Cholines	Total cholines	lipid_lipoprotein	8.65803059834141e-07	8.723874923516963e-07	NA	NA	NA	NA	NA
+A	loading	F15	HDL_size	Average diameter for HDL particles	lipid_lipoprotein	0.0261191588807753	0.08616198991076443	NA	NA	NA	NA	NA
+A	loading	F9	HDL_size	Average diameter for HDL particles	lipid_lipoprotein	-0.0251392078442866	-0.0830853255252806	NA	NA	NA	NA	NA
+A	loading	F14	HDL_size	Average diameter for HDL particles	lipid_lipoprotein	0.220922511252752	0.5329089059975424	NA	NA	NA	NA	NA
+A	loading	F17	HDL_size	Average diameter for HDL particles	lipid_lipoprotein	6.06560481988456e-07	7.854597119042718e-07	NA	NA	NA	NA	NA
+A	loading	F13	HDL_size	Average diameter for HDL particles	lipid_lipoprotein	3.81045770844077e-05	5.369279765407127e-05	NA	NA	NA	NA	NA
+A	loading	F11	HDL_size	Average diameter for HDL particles	lipid_lipoprotein	-0.0858232617713352	-0.10488051204532518	NA	NA	NA	NA	NA
+A	loading	F24	HDL_size	Average diameter for HDL particles	lipid_lipoprotein	-2.92219388417736e-05	-3.387326437782055e-05	NA	NA	NA	NA	NA
+A	loading	F20	HDL_size	Average diameter for HDL particles	lipid_lipoprotein	-1.54920306141607e-06	-1.7690924659493052e-06	NA	NA	NA	NA	NA
+A	loading	F18	HDL_size	Average diameter for HDL particles	lipid_lipoprotein	5.18738664799852e-06	5.827814453054142e-06	NA	NA	NA	NA	NA
+A	loading	F26	HDL_size	Average diameter for HDL particles	lipid_lipoprotein	-3.08811172931286e-06	-3.366992332892738e-06	NA	NA	NA	NA	NA
+A	loading	F23	HDL_size	Average diameter for HDL particles	lipid_lipoprotein	1.01085597712012e-05	1.0444506480965651e-05	NA	NA	NA	NA	NA
+A	loading	F22	HDL_size	Average diameter for HDL particles	lipid_lipoprotein	-4.15419704594821e-06	-4.247911321459725e-06	NA	NA	NA	NA	NA
+A	loading	F25	HDL_size	Average diameter for HDL particles	lipid_lipoprotein	3.69529719723398e-07	3.7233999334753596e-07	NA	NA	NA	NA	NA
+A	loading	F15	LDL_size	Average diameter for LDL particles	lipid_lipoprotein	0.303140153887186	1.0	NA	NA	NA	NA	NA
+A	loading	F9	LDL_size	Average diameter for LDL particles	lipid_lipoprotein	-0.131087697225279	-0.4332461095744922	NA	NA	NA	NA	NA
+A	loading	F14	LDL_size	Average diameter for LDL particles	lipid_lipoprotein	3.23887672645006e-07	7.812812932307739e-07	NA	NA	NA	NA	NA
+A	loading	F17	LDL_size	Average diameter for LDL particles	lipid_lipoprotein	-2.51170812497421e-07	-3.252512484430875e-07	NA	NA	NA	NA	NA
+A	loading	F13	LDL_size	Average diameter for LDL particles	lipid_lipoprotein	-2.03489096947996e-07	-2.8673455377908637e-07	NA	NA	NA	NA	NA
+A	loading	F11	LDL_size	Average diameter for LDL particles	lipid_lipoprotein	-0.0535373463728599	-0.06542543577630472	NA	NA	NA	NA	NA
+A	loading	F24	LDL_size	Average diameter for LDL particles	lipid_lipoprotein	-1.54233910479388e-05	-1.7878368899413953e-05	NA	NA	NA	NA	NA
+A	loading	F20	LDL_size	Average diameter for LDL particles	lipid_lipoprotein	0.0402674378320578	0.04598288156406075	NA	NA	NA	NA	NA
+A	loading	F18	LDL_size	Average diameter for LDL particles	lipid_lipoprotein	-0.0262447590569034	-0.029484901845085846	NA	NA	NA	NA	NA
+A	loading	F26	LDL_size	Average diameter for LDL particles	lipid_lipoprotein	-1.28811073149177e-06	-1.404437189134569e-06	NA	NA	NA	NA	NA
+A	loading	F23	LDL_size	Average diameter for LDL particles	lipid_lipoprotein	6.75295586840512e-07	6.977382825016531e-07	NA	NA	NA	NA	NA
+A	loading	F22	LDL_size	Average diameter for LDL particles	lipid_lipoprotein	1.73247496032193e-07	1.771557756335847e-07	NA	NA	NA	NA	NA
+A	loading	F25	LDL_size	Average diameter for LDL particles	lipid_lipoprotein	4.1424977880898e-08	4.1740014849524845e-08	NA	NA	NA	NA	NA
+A	loading	F15	L_HDL_C	Cholesterol in large HDL	lipid_lipoprotein	0.09864102630758	0.3253974277003547	NA	NA	NA	NA	NA
+A	loading	F9	L_HDL_C	Cholesterol in large HDL	lipid_lipoprotein	-0.0716052473019605	-0.23665603619064388	NA	NA	NA	NA	NA
+A	loading	F14	L_HDL_C	Cholesterol in large HDL	lipid_lipoprotein	0.205981271459499	0.4968676727736455	NA	NA	NA	NA	NA
+A	loading	F17	L_HDL_C	Cholesterol in large HDL	lipid_lipoprotein	5.32723778718112e-07	6.898455771216016e-07	NA	NA	NA	NA	NA
+A	loading	F13	L_HDL_C	Cholesterol in large HDL	lipid_lipoprotein	-4.12581317240456e-05	-5.813644154446423e-05	NA	NA	NA	NA	NA
+A	loading	F11	L_HDL_C	Cholesterol in large HDL	lipid_lipoprotein	-0.0859131430291954	-0.104990351640711	NA	NA	NA	NA	NA
+A	loading	F24	L_HDL_C	Cholesterol in large HDL	lipid_lipoprotein	-0.0234870787712515	-0.02722557298436299	NA	NA	NA	NA	NA
+A	loading	F20	L_HDL_C	Cholesterol in large HDL	lipid_lipoprotein	-9.2362947341082e-06	-1.0547267710962559e-05	NA	NA	NA	NA	NA
+A	loading	F18	L_HDL_C	Cholesterol in large HDL	lipid_lipoprotein	5.74576268162242e-07	6.45512684362907e-07	NA	NA	NA	NA	NA
+A	loading	F26	L_HDL_C	Cholesterol in large HDL	lipid_lipoprotein	-2.0033440435642e-07	-2.184261654395481e-07	NA	NA	NA	NA	NA
+A	loading	F23	L_HDL_C	Cholesterol in large HDL	lipid_lipoprotein	4.11475066935472e-07	4.251499818606327e-07	NA	NA	NA	NA	NA
+A	loading	F22	L_HDL_C	Cholesterol in large HDL	lipid_lipoprotein	2.13874001649967e-06	2.1869877209144715e-06	NA	NA	NA	NA	NA
+A	loading	F25	L_HDL_C	Cholesterol in large HDL	lipid_lipoprotein	4.92045607528721e-07	4.957876145146434e-07	NA	NA	NA	NA	NA
+A	loading	F15	M_HDL_CE	Cholesteryl esters in medium HDL	lipid_lipoprotein	-8.41570364799984e-06	-2.7761758183746767e-05	NA	NA	NA	NA	NA
+A	loading	F9	M_HDL_CE	Cholesteryl esters in medium HDL	lipid_lipoprotein	0.179269661727693	0.5924879691401028	NA	NA	NA	NA	NA
+A	loading	F14	M_HDL_CE	Cholesteryl esters in medium HDL	lipid_lipoprotein	0.113852089311462	0.27463381624832	NA	NA	NA	NA	NA
+A	loading	F17	M_HDL_CE	Cholesteryl esters in medium HDL	lipid_lipoprotein	-6.45295111308333e-07	-8.356187507631344e-07	NA	NA	NA	NA	NA
+A	loading	F13	M_HDL_CE	Cholesteryl esters in medium HDL	lipid_lipoprotein	-2.09697878945435e-06	-2.9548328952094417e-06	NA	NA	NA	NA	NA
+A	loading	F11	M_HDL_CE	Cholesteryl esters in medium HDL	lipid_lipoprotein	-0.0253529589078163	-0.0309826410373507	NA	NA	NA	NA	NA
+A	loading	F24	M_HDL_CE	Cholesteryl esters in medium HDL	lipid_lipoprotein	8.86270600011837e-05	0.00010273404002055777	NA	NA	NA	NA	NA
+A	loading	F20	M_HDL_CE	Cholesteryl esters in medium HDL	lipid_lipoprotein	9.173231589376e-06	1.047525356575242e-05	NA	NA	NA	NA	NA
+A	loading	F18	M_HDL_CE	Cholesteryl esters in medium HDL	lipid_lipoprotein	-3.05599966826192e-06	-3.4332892926146426e-06	NA	NA	NA	NA	NA
+A	loading	F26	M_HDL_CE	Cholesteryl esters in medium HDL	lipid_lipoprotein	1.30924298175936e-06	1.4274778466186743e-06	NA	NA	NA	NA	NA
+A	loading	F23	M_HDL_CE	Cholesteryl esters in medium HDL	lipid_lipoprotein	7.49557469520811e-07	7.744681760274175e-07	NA	NA	NA	NA	NA
+A	loading	F22	M_HDL_CE	Cholesteryl esters in medium HDL	lipid_lipoprotein	-5.16804573774481e-07	-5.284631363502622e-07	NA	NA	NA	NA	NA
+A	loading	F25	M_HDL_CE	Cholesteryl esters in medium HDL	lipid_lipoprotein	-6.24010941903595e-07	-6.287565452951648e-07	NA	NA	NA	NA	NA
+A	loading	F15	M_HDL_TG	Triglycerides in medium HDL	lipid_lipoprotein	-0.124924794608756	-0.41210243185152867	NA	NA	NA	NA	NA
+A	loading	F9	M_HDL_TG	Triglycerides in medium HDL	lipid_lipoprotein	0.184727797526908	0.6105271608460591	NA	NA	NA	NA	NA
+A	loading	F14	M_HDL_TG	Triglycerides in medium HDL	lipid_lipoprotein	-0.0612073179599739	-0.14764418830897705	NA	NA	NA	NA	NA
+A	loading	F17	M_HDL_TG	Triglycerides in medium HDL	lipid_lipoprotein	1.86463552873009e-07	2.4145919965004913e-07	NA	NA	NA	NA	NA
+A	loading	F13	M_HDL_TG	Triglycerides in medium HDL	lipid_lipoprotein	0.0209886990862447	0.029574976532702923	NA	NA	NA	NA	NA
+A	loading	F11	M_HDL_TG	Triglycerides in medium HDL	lipid_lipoprotein	0.0603833529162186	0.07379161362731855	NA	NA	NA	NA	NA
+A	loading	F24	M_HDL_TG	Triglycerides in medium HDL	lipid_lipoprotein	0.0187677219485737	0.021755024906994765	NA	NA	NA	NA	NA
+A	loading	F20	M_HDL_TG	Triglycerides in medium HDL	lipid_lipoprotein	4.89241115746595e-06	5.586825855538909e-06	NA	NA	NA	NA	NA
+A	loading	F18	M_HDL_TG	Triglycerides in medium HDL	lipid_lipoprotein	6.83064964891149e-05	7.673952502274887e-05	NA	NA	NA	NA	NA
+A	loading	F26	M_HDL_TG	Triglycerides in medium HDL	lipid_lipoprotein	4.04819869394878e-07	4.4137826475549267e-07	NA	NA	NA	NA	NA
+A	loading	F23	M_HDL_TG	Triglycerides in medium HDL	lipid_lipoprotein	-2.37549910020944e-06	-2.454446163374398e-06	NA	NA	NA	NA	NA
+A	loading	F22	M_HDL_TG	Triglycerides in medium HDL	lipid_lipoprotein	-5.39487553536861e-07	-5.51657820057198e-07	NA	NA	NA	NA	NA
+A	loading	F25	M_HDL_TG	Triglycerides in medium HDL	lipid_lipoprotein	-2.30312231163311e-07	-2.3206375574714986e-07	NA	NA	NA	NA	NA
+A	loading	F15	M_LDL_TG	Triglycerides in medium LDL	lipid_lipoprotein	0.1233859389182	0.40702604830146727	NA	NA	NA	NA	NA
+A	loading	F9	M_LDL_TG	Triglycerides in medium LDL	lipid_lipoprotein	-0.212844837916506	-0.7034542517889084	NA	NA	NA	NA	NA
+A	loading	F14	M_LDL_TG	Triglycerides in medium LDL	lipid_lipoprotein	-0.153535751146884	-0.3703586778514751	NA	NA	NA	NA	NA
+A	loading	F17	M_LDL_TG	Triglycerides in medium LDL	lipid_lipoprotein	4.0665530581957e-06	5.265944103484507e-06	NA	NA	NA	NA	NA
+A	loading	F13	M_LDL_TG	Triglycerides in medium LDL	lipid_lipoprotein	0.0136554252250884	0.019241729986054484	NA	NA	NA	NA	NA
+A	loading	F11	M_LDL_TG	Triglycerides in medium LDL	lipid_lipoprotein	0.0293256809448815	0.03583751502910464	NA	NA	NA	NA	NA
+A	loading	F24	M_LDL_TG	Triglycerides in medium LDL	lipid_lipoprotein	-0.0167064014406616	-0.019365599109137883	NA	NA	NA	NA	NA
+A	loading	F20	M_LDL_TG	Triglycerides in medium LDL	lipid_lipoprotein	-2.21191659235831e-06	-2.5258696398860324e-06	NA	NA	NA	NA	NA
+A	loading	F18	M_LDL_TG	Triglycerides in medium LDL	lipid_lipoprotein	-3.64015563236964e-06	-4.089564369348757e-06	NA	NA	NA	NA	NA
+A	loading	F26	M_LDL_TG	Triglycerides in medium LDL	lipid_lipoprotein	-1.10682824577673e-06	-1.206783479362192e-06	NA	NA	NA	NA	NA
+A	loading	F23	M_LDL_TG	Triglycerides in medium LDL	lipid_lipoprotein	7.79857482185166e-06	8.057751758186046e-06	NA	NA	NA	NA	NA
+A	loading	F22	M_LDL_TG	Triglycerides in medium LDL	lipid_lipoprotein	-4.2038526070031e-07	-4.2986870592606635e-07	NA	NA	NA	NA	NA
+A	loading	F25	M_LDL_TG	Triglycerides in medium LDL	lipid_lipoprotein	2.06073657155252e-07	2.0764084737683024e-07	NA	NA	NA	NA	NA
+A	loading	F15	Phosphatidylc	Phosphatidylcholines	lipid_lipoprotein	0.154566875250231	0.509885850713638	NA	NA	NA	NA	NA
+A	loading	F9	Phosphatidylc	Phosphatidylcholines	lipid_lipoprotein	-0.0062321314012173	-0.020597254670621724	NA	NA	NA	NA	NA
+A	loading	F14	Phosphatidylc	Phosphatidylcholines	lipid_lipoprotein	-2.18638992932086e-05	-5.2740060698721995e-05	NA	NA	NA	NA	NA
+A	loading	F17	Phosphatidylc	Phosphatidylcholines	lipid_lipoprotein	-3.39013812332277e-07	-4.3900270339594435e-07	NA	NA	NA	NA	NA
+A	loading	F13	Phosphatidylc	Phosphatidylcholines	lipid_lipoprotein	9.99552727185673e-06	1.4084602541702684e-05	NA	NA	NA	NA	NA
+A	loading	F11	Phosphatidylc	Phosphatidylcholines	lipid_lipoprotein	0.0487796663682389	0.05961130211680872	NA	NA	NA	NA	NA
+A	loading	F24	Phosphatidylc	Phosphatidylcholines	lipid_lipoprotein	0.000699444555239291	0.0008107768093532024	NA	NA	NA	NA	NA
+A	loading	F20	Phosphatidylc	Phosphatidylcholines	lipid_lipoprotein	-3.78844987734704e-06	-4.326171502343312e-06	NA	NA	NA	NA	NA
+A	loading	F18	Phosphatidylc	Phosphatidylcholines	lipid_lipoprotein	1.32112040491993e-05	1.4842241599607295e-05	NA	NA	NA	NA	NA
+A	loading	F26	Phosphatidylc	Phosphatidylcholines	lipid_lipoprotein	-1.22636613823044e-06	-1.3371165769510398e-06	NA	NA	NA	NA	NA
+A	loading	F23	Phosphatidylc	Phosphatidylcholines	lipid_lipoprotein	-5.24488383468883e-06	-5.419191699235501e-06	NA	NA	NA	NA	NA
+A	loading	F22	Phosphatidylc	Phosphatidylcholines	lipid_lipoprotein	4.0162119308294e-06	4.1068134086205115e-06	NA	NA	NA	NA	NA
+A	loading	F25	Phosphatidylc	Phosphatidylcholines	lipid_lipoprotein	1.04979234886427e-06	1.0577760199774985e-06	NA	NA	NA	NA	NA
+A	loading	F15	Phosphoglyc	Phosphoglycerides	lipid_lipoprotein	0.138864503028247	0.45808679994246354	NA	NA	NA	NA	NA
+A	loading	F9	Phosphoglyc	Phosphoglycerides	lipid_lipoprotein	0.00866514050333674	0.028638373329080428	NA	NA	NA	NA	NA
+A	loading	F14	Phosphoglyc	Phosphoglycerides	lipid_lipoprotein	-0.00584395038268944	-0.014096767176342487	NA	NA	NA	NA	NA
+A	loading	F17	Phosphoglyc	Phosphoglycerides	lipid_lipoprotein	-4.11040900271432e-09	-5.322734940622395e-09	NA	NA	NA	NA	NA
+A	loading	F13	Phosphoglyc	Phosphoglycerides	lipid_lipoprotein	-6.78180388561393e-06	-9.556175441948832e-06	NA	NA	NA	NA	NA
+A	loading	F11	Phosphoglyc	Phosphoglycerides	lipid_lipoprotein	0.00749943710104165	0.00916470414867944	NA	NA	NA	NA	NA
+A	loading	F24	Phosphoglyc	Phosphoglycerides	lipid_lipoprotein	0.0150468497845367	0.017441892667174885	NA	NA	NA	NA	NA
+A	loading	F20	Phosphoglyc	Phosphoglycerides	lipid_lipoprotein	7.75251169694727e-07	8.852880798413205e-07	NA	NA	NA	NA	NA
+A	loading	F18	Phosphoglyc	Phosphoglycerides	lipid_lipoprotein	3.3949064053527e-07	3.8140370013702885e-07	NA	NA	NA	NA	NA
+A	loading	F26	Phosphoglyc	Phosphoglycerides	lipid_lipoprotein	2.05162298912485e-06	2.236900565740513e-06	NA	NA	NA	NA	NA
+A	loading	F23	Phosphoglyc	Phosphoglycerides	lipid_lipoprotein	-2.66801054935156e-08	-2.75667890428626e-08	NA	NA	NA	NA	NA
+A	loading	F22	Phosphoglyc	Phosphoglycerides	lipid_lipoprotein	-4.6204616364878e-07	-4.7246943462035153e-07	NA	NA	NA	NA	NA
+A	loading	F25	Phosphoglyc	Phosphoglycerides	lipid_lipoprotein	1.01118985896757e-05	1.0188799581340984e-05	NA	NA	NA	NA	NA
+A	loading	F15	S_HDL_C	Cholesterol in small HDL	lipid_lipoprotein	0.0755395126743769	0.2491900584786568	NA	NA	NA	NA	NA
+A	loading	F9	S_HDL_C	Cholesterol in small HDL	lipid_lipoprotein	0.0931453424890193	0.3078462595082433	NA	NA	NA	NA	NA
+A	loading	F14	S_HDL_C	Cholesterol in small HDL	lipid_lipoprotein	-0.0874465044599201	-0.21093830936825694	NA	NA	NA	NA	NA
+A	loading	F17	S_HDL_C	Cholesterol in small HDL	lipid_lipoprotein	6.77152103142132e-07	8.768716585455256e-07	NA	NA	NA	NA	NA
+A	loading	F13	S_HDL_C	Cholesterol in small HDL	lipid_lipoprotein	-3.82468594944019e-06	-5.389328644660214e-06	NA	NA	NA	NA	NA
+A	loading	F11	S_HDL_C	Cholesterol in small HDL	lipid_lipoprotein	0.0495709569106909	0.06057830052209082	NA	NA	NA	NA	NA
+A	loading	F24	S_HDL_C	Cholesterol in small HDL	lipid_lipoprotein	-0.000330808797683748	-0.00038346442113662414	NA	NA	NA	NA	NA
+A	loading	F20	S_HDL_C	Cholesterol in small HDL	lipid_lipoprotein	-2.77729916776415e-06	-3.1715009837947044e-06	NA	NA	NA	NA	NA
+A	loading	F18	S_HDL_C	Cholesterol in small HDL	lipid_lipoprotein	-8.26621072954018e-07	-9.286746030429932e-07	NA	NA	NA	NA	NA
+A	loading	F26	S_HDL_C	Cholesterol in small HDL	lipid_lipoprotein	-1.27619473007391e-06	-1.3914450797390969e-06	NA	NA	NA	NA	NA
+A	loading	F23	S_HDL_C	Cholesterol in small HDL	lipid_lipoprotein	2.76919857095144e-07	2.861229796927463e-07	NA	NA	NA	NA	NA
+A	loading	F22	S_HDL_C	Cholesterol in small HDL	lipid_lipoprotein	4.52421164761474e-07	4.626273059754663e-07	NA	NA	NA	NA	NA
+A	loading	F25	S_HDL_C	Cholesterol in small HDL	lipid_lipoprotein	1.00942967211288e-07	1.0171063850578753e-07	NA	NA	NA	NA	NA
+A	loading	F15	S_HDL_CE	Cholesteryl esters in small HDL	lipid_lipoprotein	0.0694598790794932	0.2291345378987397	NA	NA	NA	NA	NA
+A	loading	F9	S_HDL_CE	Cholesteryl esters in small HDL	lipid_lipoprotein	0.12175263730435	0.4023936460787239	NA	NA	NA	NA	NA
+A	loading	F14	S_HDL_CE	Cholesteryl esters in small HDL	lipid_lipoprotein	-0.0887032748143072	-0.21396988868015576	NA	NA	NA	NA	NA
+A	loading	F17	S_HDL_CE	Cholesteryl esters in small HDL	lipid_lipoprotein	1.41087839084025e-07	1.8270035178823871e-07	NA	NA	NA	NA	NA
+A	loading	F13	S_HDL_CE	Cholesteryl esters in small HDL	lipid_lipoprotein	-2.8573278318163e-05	-4.0262335090404936e-05	NA	NA	NA	NA	NA
+A	loading	F11	S_HDL_CE	Cholesteryl esters in small HDL	lipid_lipoprotein	0.0502063731428303	0.06135481237229587	NA	NA	NA	NA	NA
+A	loading	F24	S_HDL_CE	Cholesteryl esters in small HDL	lipid_lipoprotein	-1.47065027648468e-05	-1.704737180254017e-05	NA	NA	NA	NA	NA
+A	loading	F20	S_HDL_CE	Cholesteryl esters in small HDL	lipid_lipoprotein	-4.16110921129609e-06	-4.751725024973417e-06	NA	NA	NA	NA	NA
+A	loading	F18	S_HDL_CE	Cholesteryl esters in small HDL	lipid_lipoprotein	5.11454628109188e-07	5.745981312046989e-07	NA	NA	NA	NA	NA
+A	loading	F26	S_HDL_CE	Cholesteryl esters in small HDL	lipid_lipoprotein	5.62235032919469e-07	6.130092467686626e-07	NA	NA	NA	NA	NA
+A	loading	F23	S_HDL_CE	Cholesteryl esters in small HDL	lipid_lipoprotein	5.20345115096222e-07	5.376382046475743e-07	NA	NA	NA	NA	NA
+A	loading	F22	S_HDL_CE	Cholesteryl esters in small HDL	lipid_lipoprotein	4.6535330776082e-07	4.7585118439289435e-07	NA	NA	NA	NA	NA
+A	loading	F25	S_HDL_CE	Cholesteryl esters in small HDL	lipid_lipoprotein	1.55871807069939e-07	1.570572122072667e-07	NA	NA	NA	NA	NA
+A	loading	F15	S_HDL_L	Total lipids in small HDL	lipid_lipoprotein	0.0316616273354646	0.10444550789285247	NA	NA	NA	NA	NA
+A	loading	F9	S_HDL_L	Total lipids in small HDL	lipid_lipoprotein	0.191929171021002	0.6343277700256322	NA	NA	NA	NA	NA
+A	loading	F14	S_HDL_L	Total lipids in small HDL	lipid_lipoprotein	-0.0870590029262035	-0.21000357882751533	NA	NA	NA	NA	NA
+A	loading	F17	S_HDL_L	Total lipids in small HDL	lipid_lipoprotein	-1.62578795485796e-07	-2.1052986083990748e-07	NA	NA	NA	NA	NA
+A	loading	F13	S_HDL_L	Total lipids in small HDL	lipid_lipoprotein	6.30938223095875e-06	8.890490575413948e-06	NA	NA	NA	NA	NA
+A	loading	F11	S_HDL_L	Total lipids in small HDL	lipid_lipoprotein	0.0582416198313734	0.07117430384478587	NA	NA	NA	NA	NA
+A	loading	F24	S_HDL_L	Total lipids in small HDL	lipid_lipoprotein	0.00370112999185645	0.004290247659118883	NA	NA	NA	NA	NA
+A	loading	F20	S_HDL_L	Total lipids in small HDL	lipid_lipoprotein	-4.27003927551115e-07	-4.876116307638512e-07	NA	NA	NA	NA	NA
+A	loading	F18	S_HDL_L	Total lipids in small HDL	lipid_lipoprotein	4.0155808830674e-06	4.511339118470658e-06	NA	NA	NA	NA	NA
+A	loading	F26	S_HDL_L	Total lipids in small HDL	lipid_lipoprotein	-1.32698733769669e-07	-1.4468246564591344e-07	NA	NA	NA	NA	NA
+A	loading	F23	S_HDL_L	Total lipids in small HDL	lipid_lipoprotein	1.21893744458537e-05	1.2594474710565772e-05	NA	NA	NA	NA	NA
+A	loading	F22	S_HDL_L	Total lipids in small HDL	lipid_lipoprotein	-2.35902052655133e-06	-2.412237525436391e-06	NA	NA	NA	NA	NA
+A	loading	F25	S_HDL_L	Total lipids in small HDL	lipid_lipoprotein	-7.0848537813962e-08	-7.138734096429144e-08	NA	NA	NA	NA	NA
+A	loading	F15	S_HDL_TG	Triglycerides in small HDL	lipid_lipoprotein	-0.0414884156683364	-0.13686215810188038	NA	NA	NA	NA	NA
+A	loading	F9	S_HDL_TG	Triglycerides in small HDL	lipid_lipoprotein	0.0722249699876062	0.23870422567184016	NA	NA	NA	NA	NA
+A	loading	F14	S_HDL_TG	Triglycerides in small HDL	lipid_lipoprotein	-0.153143919978387	-0.3694135033730781	NA	NA	NA	NA	NA
+A	loading	F17	S_HDL_TG	Triglycerides in small HDL	lipid_lipoprotein	3.16429983658673e-06	4.097579898176502e-06	NA	NA	NA	NA	NA
+A	loading	F13	S_HDL_TG	Triglycerides in small HDL	lipid_lipoprotein	0.0165880228195868	0.023374025402781485	NA	NA	NA	NA	NA
+A	loading	F11	S_HDL_TG	Triglycerides in small HDL	lipid_lipoprotein	0.070163854983535	0.0857438984008054	NA	NA	NA	NA	NA
+A	loading	F24	S_HDL_TG	Triglycerides in small HDL	lipid_lipoprotein	-3.76925708465679e-06	-4.369218703381673e-06	NA	NA	NA	NA	NA
+A	loading	F20	S_HDL_TG	Triglycerides in small HDL	lipid_lipoprotein	-1.52204306965663e-07	-1.7380774634660604e-07	NA	NA	NA	NA	NA
+A	loading	F18	S_HDL_TG	Triglycerides in small HDL	lipid_lipoprotein	-3.15946407074546e-06	-3.5495272715983055e-06	NA	NA	NA	NA	NA
+A	loading	F26	S_HDL_TG	Triglycerides in small HDL	lipid_lipoprotein	-2.12854905744942e-06	-2.3207736587344778e-06	NA	NA	NA	NA	NA
+A	loading	F23	S_HDL_TG	Triglycerides in small HDL	lipid_lipoprotein	-1.69115419234187e-06	-1.7473578157541985e-06	NA	NA	NA	NA	NA
+A	loading	F22	S_HDL_TG	Triglycerides in small HDL	lipid_lipoprotein	2.95687457910561e-06	3.0235785307704853e-06	NA	NA	NA	NA	NA
+A	loading	F25	S_HDL_TG	Triglycerides in small HDL	lipid_lipoprotein	-6.15770813608439e-07	-6.204537508219684e-07	NA	NA	NA	NA	NA
+A	loading	F15	S_LDL_TG	Triglycerides in small LDL	lipid_lipoprotein	0.0935578695022301	0.3086290888967741	NA	NA	NA	NA	NA
+A	loading	F9	S_LDL_TG	Triglycerides in small LDL	lipid_lipoprotein	-0.0712202473250322	-0.23538360753623092	NA	NA	NA	NA	NA
+A	loading	F14	S_LDL_TG	Triglycerides in small LDL	lipid_lipoprotein	-0.141141891821849	-0.3404622314615667	NA	NA	NA	NA	NA
+A	loading	F17	S_LDL_TG	Triglycerides in small LDL	lipid_lipoprotein	-7.90312105792656e-07	-1.0234071248680066e-06	NA	NA	NA	NA	NA
+A	loading	F13	S_LDL_TG	Triglycerides in small LDL	lipid_lipoprotein	0.0159221406558813	0.02243573717042305	NA	NA	NA	NA	NA
+A	loading	F11	S_LDL_TG	Triglycerides in small LDL	lipid_lipoprotein	0.0459518132143269	0.05615551774495049	NA	NA	NA	NA	NA
+A	loading	F24	S_LDL_TG	Triglycerides in small LDL	lipid_lipoprotein	-2.79159839167523e-05	-3.2359437499998014e-05	NA	NA	NA	NA	NA
+A	loading	F20	S_LDL_TG	Triglycerides in small LDL	lipid_lipoprotein	-8.92629660556191e-06	-1.0193269344106543e-05	NA	NA	NA	NA	NA
+A	loading	F18	S_LDL_TG	Triglycerides in small LDL	lipid_lipoprotein	-6.4207862305226e-06	-7.2134878954219235e-06	NA	NA	NA	NA	NA
+A	loading	F26	S_LDL_TG	Triglycerides in small LDL	lipid_lipoprotein	4.00505166016477e-06	4.366739099693998e-06	NA	NA	NA	NA	NA
+A	loading	F23	S_LDL_TG	Triglycerides in small LDL	lipid_lipoprotein	3.77445747783252e-07	3.8998973623980917e-07	NA	NA	NA	NA	NA
+A	loading	F22	S_LDL_TG	Triglycerides in small LDL	lipid_lipoprotein	-7.12156654807059e-07	-7.28222152956946e-07	NA	NA	NA	NA	NA
+A	loading	F25	S_LDL_TG	Triglycerides in small LDL	lipid_lipoprotein	1.70784650783456e-07	1.7208346810148828e-07	NA	NA	NA	NA	NA
+A	loading	F15	S_VLDL_CE	Cholesteryl esters in small VLDL	lipid_lipoprotein	0.170009550851642	0.5608282131931333	NA	NA	NA	NA	NA
+A	loading	F9	S_VLDL_CE	Cholesteryl esters in small VLDL	lipid_lipoprotein	-0.196393029931761	-0.6490808669806594	NA	NA	NA	NA	NA
+A	loading	F14	S_VLDL_CE	Cholesteryl esters in small VLDL	lipid_lipoprotein	-0.14789190893076	-0.3567446112542672	NA	NA	NA	NA	NA
+A	loading	F17	S_VLDL_CE	Cholesteryl esters in small VLDL	lipid_lipoprotein	-1.06843536495174e-05	-1.3835601870932652e-05	NA	NA	NA	NA	NA
+A	loading	F13	S_VLDL_CE	Cholesteryl esters in small VLDL	lipid_lipoprotein	0.000538565277286355	0.0007588872169553049	NA	NA	NA	NA	NA
+A	loading	F11	S_VLDL_CE	Cholesteryl esters in small VLDL	lipid_lipoprotein	-1.80867664815228e-05	-2.2102974073398746e-05	NA	NA	NA	NA	NA
+A	loading	F24	S_VLDL_CE	Cholesteryl esters in small VLDL	lipid_lipoprotein	0.0165848567225804	0.019224707829076527	NA	NA	NA	NA	NA
+A	loading	F20	S_VLDL_CE	Cholesteryl esters in small VLDL	lipid_lipoprotein	-4.60178030980463e-06	-5.254943705435144e-06	NA	NA	NA	NA	NA
+A	loading	F18	S_VLDL_CE	Cholesteryl esters in small VLDL	lipid_lipoprotein	2.59882537912544e-05	2.919672878302761e-05	NA	NA	NA	NA	NA
+A	loading	F26	S_VLDL_CE	Cholesteryl esters in small VLDL	lipid_lipoprotein	-6.21446643405726e-07	-6.775681280529934e-07	NA	NA	NA	NA	NA
+A	loading	F23	S_VLDL_CE	Cholesteryl esters in small VLDL	lipid_lipoprotein	4.80495102786644e-07	4.96463821624216e-07	NA	NA	NA	NA	NA
+A	loading	F22	S_VLDL_CE	Cholesteryl esters in small VLDL	lipid_lipoprotein	-2.96583209123669e-07	-3.0327381148664875e-07	NA	NA	NA	NA	NA
+A	loading	F25	S_VLDL_CE	Cholesteryl esters in small VLDL	lipid_lipoprotein	1.6460658472575e-06	1.6585841784964724e-06	NA	NA	NA	NA	NA
+A	loading	F15	S_VLDL_FC	Free cholesterol in small VLDL	lipid_lipoprotein	0.22640356419415	0.7468610188751384	NA	NA	NA	NA	NA
+A	loading	F9	S_VLDL_FC	Free cholesterol in small VLDL	lipid_lipoprotein	-0.222774659682874	-0.7362724089471183	NA	NA	NA	NA	NA
+A	loading	F14	S_VLDL_FC	Free cholesterol in small VLDL	lipid_lipoprotein	-0.129902785405031	-0.31335127807337126	NA	NA	NA	NA	NA
+A	loading	F17	S_VLDL_FC	Free cholesterol in small VLDL	lipid_lipoprotein	-5.03592555169823e-06	-6.521223769872193e-06	NA	NA	NA	NA	NA
+A	loading	F13	S_VLDL_FC	Free cholesterol in small VLDL	lipid_lipoprotein	2.43230088488763e-05	3.427332075010223e-05	NA	NA	NA	NA	NA
+A	loading	F11	S_VLDL_FC	Free cholesterol in small VLDL	lipid_lipoprotein	6.11967454198051e-05	7.478562178442257e-05	NA	NA	NA	NA	NA
+A	loading	F24	S_VLDL_FC	Free cholesterol in small VLDL	lipid_lipoprotein	0.000993887783873861	0.0011520872672869547	NA	NA	NA	NA	NA
+A	loading	F20	S_VLDL_FC	Free cholesterol in small VLDL	lipid_lipoprotein	-9.57029477322319e-08	-1.0928674750195363e-07	NA	NA	NA	NA	NA
+A	loading	F18	S_VLDL_FC	Free cholesterol in small VLDL	lipid_lipoprotein	2.42464647166369e-06	2.723990076305647e-06	NA	NA	NA	NA	NA
+A	loading	F26	S_VLDL_FC	Free cholesterol in small VLDL	lipid_lipoprotein	4.30367851184172e-08	4.69233428799242e-08	NA	NA	NA	NA	NA
+A	loading	F23	S_VLDL_FC	Free cholesterol in small VLDL	lipid_lipoprotein	8.71920622719723e-07	9.008979321493979e-07	NA	NA	NA	NA	NA
+A	loading	F22	S_VLDL_FC	Free cholesterol in small VLDL	lipid_lipoprotein	3.39263449604537e-07	3.4691687288599553e-07	NA	NA	NA	NA	NA
+A	loading	F25	S_VLDL_FC	Free cholesterol in small VLDL	lipid_lipoprotein	1.56769781199799e-06	1.5796201543064097e-06	NA	NA	NA	NA	NA
+A	loading	F15	S_VLDL_L	Total lipids in small VLDL	lipid_lipoprotein	0.150719706428324	0.49719479420866997	NA	NA	NA	NA	NA
+A	loading	F9	S_VLDL_L	Total lipids in small VLDL	lipid_lipoprotein	-0.114291362626093	-0.37773406096703926	NA	NA	NA	NA	NA
+A	loading	F14	S_VLDL_L	Total lipids in small VLDL	lipid_lipoprotein	-0.159988783514615	-0.38592467155648025	NA	NA	NA	NA	NA
+A	loading	F17	S_VLDL_L	Total lipids in small VLDL	lipid_lipoprotein	-1.93189185161657e-07	-2.5016849304565164e-07	NA	NA	NA	NA	NA
+A	loading	F13	S_VLDL_L	Total lipids in small VLDL	lipid_lipoprotein	6.38476339573072e-06	8.996709458727202e-06	NA	NA	NA	NA	NA
+A	loading	F11	S_VLDL_L	Total lipids in small VLDL	lipid_lipoprotein	0.0255779454720895	0.031257586379409154	NA	NA	NA	NA	NA
+A	loading	F24	S_VLDL_L	Total lipids in small VLDL	lipid_lipoprotein	-8.84475004580148e-05	-0.00010252589955765918	NA	NA	NA	NA	NA
+A	loading	F20	S_VLDL_L	Total lipids in small VLDL	lipid_lipoprotein	2.97159596672268e-06	3.393375708778408e-06	NA	NA	NA	NA	NA
+A	loading	F18	S_VLDL_L	Total lipids in small VLDL	lipid_lipoprotein	4.80270899676193e-06	5.395645014420047e-06	NA	NA	NA	NA	NA
+A	loading	F26	S_VLDL_L	Total lipids in small VLDL	lipid_lipoprotein	7.04663554922884e-07	7.683001765037243e-07	NA	NA	NA	NA	NA
+A	loading	F23	S_VLDL_L	Total lipids in small VLDL	lipid_lipoprotein	5.24436114011906e-07	5.418651633494674e-07	NA	NA	NA	NA	NA
+A	loading	F22	S_VLDL_L	Total lipids in small VLDL	lipid_lipoprotein	-4.1830174185983e-07	-4.2773818511228314e-07	NA	NA	NA	NA	NA
+A	loading	F25	S_VLDL_L	Total lipids in small VLDL	lipid_lipoprotein	2.22495100104691e-08	2.241871754045943e-08	NA	NA	NA	NA	NA
+A	loading	F15	S_VLDL_TG	Triglycerides in small VLDL	lipid_lipoprotein	0.0593133867716741	0.19566324688793177	NA	NA	NA	NA	NA
+A	loading	F9	S_VLDL_TG	Triglycerides in small VLDL	lipid_lipoprotein	0.0257571318861939	0.0851275704714925	NA	NA	NA	NA	NA
+A	loading	F14	S_VLDL_TG	Triglycerides in small VLDL	lipid_lipoprotein	-0.14576460359821	-0.3516131289482609	NA	NA	NA	NA	NA
+A	loading	F17	S_VLDL_TG	Triglycerides in small VLDL	lipid_lipoprotein	-1.12887790542697e-06	-1.461829678493036e-06	NA	NA	NA	NA	NA
+A	loading	F13	S_VLDL_TG	Triglycerides in small VLDL	lipid_lipoprotein	-2.98638421059613e-06	-4.208085626607443e-06	NA	NA	NA	NA	NA
+A	loading	F11	S_VLDL_TG	Triglycerides in small VLDL	lipid_lipoprotein	0.0515455017809587	0.06299129756713351	NA	NA	NA	NA	NA
+A	loading	F24	S_VLDL_TG	Triglycerides in small VLDL	lipid_lipoprotein	-0.0349793144784381	-0.04054705519365688	NA	NA	NA	NA	NA
+A	loading	F20	S_VLDL_TG	Triglycerides in small VLDL	lipid_lipoprotein	4.10337924720918e-07	4.685801036653691e-07	NA	NA	NA	NA	NA
+A	loading	F18	S_VLDL_TG	Triglycerides in small VLDL	lipid_lipoprotein	-7.69256622008875e-08	-8.642280138459823e-08	NA	NA	NA	NA	NA
+A	loading	F26	S_VLDL_TG	Triglycerides in small VLDL	lipid_lipoprotein	4.18727956384792e-06	4.5654236060595776e-06	NA	NA	NA	NA	NA
+A	loading	F23	S_VLDL_TG	Triglycerides in small VLDL	lipid_lipoprotein	6.79581012630848e-07	7.021661296385299e-07	NA	NA	NA	NA	NA
+A	loading	F22	S_VLDL_TG	Triglycerides in small VLDL	lipid_lipoprotein	4.72480274856662e-07	4.831389283008601e-07	NA	NA	NA	NA	NA
+A	loading	F25	S_VLDL_TG	Triglycerides in small VLDL	lipid_lipoprotein	-1.22654011302062e-06	-1.2358679509307864e-06	NA	NA	NA	NA	NA
+A	loading	F15	Sphingomyelins	Sphingomyelins	lipid_lipoprotein	0.164101975034864	0.5413402775269909	NA	NA	NA	NA	NA
+A	loading	F9	Sphingomyelins	Sphingomyelins	lipid_lipoprotein	-0.245575035118584	-0.8116278706986751	NA	NA	NA	NA	NA
+A	loading	F14	Sphingomyelins	Sphingomyelins	lipid_lipoprotein	0.0190309242333361	0.04590636307635637	NA	NA	NA	NA	NA
+A	loading	F17	Sphingomyelins	Sphingomyelins	lipid_lipoprotein	2.77962758627295e-07	3.599452235921743e-07	NA	NA	NA	NA	NA
+A	loading	F13	Sphingomyelins	Sphingomyelins	lipid_lipoprotein	0.0100915846856034	0.014219956131064098	NA	NA	NA	NA	NA
+A	loading	F11	Sphingomyelins	Sphingomyelins	lipid_lipoprotein	-0.157359673990016	-0.1923017471339059	NA	NA	NA	NA	NA
+A	loading	F24	Sphingomyelins	Sphingomyelins	lipid_lipoprotein	-0.0506648584382284	-0.05872930450766766	NA	NA	NA	NA	NA
+A	loading	F20	Sphingomyelins	Sphingomyelins	lipid_lipoprotein	2.74060934369707e-06	3.1296035121522543e-06	NA	NA	NA	NA	NA
+A	loading	F18	Sphingomyelins	Sphingomyelins	lipid_lipoprotein	4.35904930450593e-07	4.897211691011492e-07	NA	NA	NA	NA	NA
+A	loading	F26	Sphingomyelins	Sphingomyelins	lipid_lipoprotein	1.98434673496833e-06	2.1635487404873674e-06	NA	NA	NA	NA	NA
+A	loading	F23	Sphingomyelins	Sphingomyelins	lipid_lipoprotein	2.27582744643286e-06	2.351462033349874e-06	NA	NA	NA	NA	NA
+A	loading	F22	Sphingomyelins	Sphingomyelins	lipid_lipoprotein	2.71812496150974e-06	2.779442975243849e-06	NA	NA	NA	NA	NA
+A	loading	F25	Sphingomyelins	Sphingomyelins	lipid_lipoprotein	-7.52181918550929e-07	-7.579022622565433e-07	NA	NA	NA	NA	NA
+A	loading	F15	VLDL_size	Average diameter for VLDL particles	lipid_lipoprotein	3.56787791795999e-06	1.1769730509828071e-05	NA	NA	NA	NA	NA
+A	loading	F9	VLDL_size	Average diameter for VLDL particles	lipid_lipoprotein	0.162435885491113	0.5368521755582517	NA	NA	NA	NA	NA
+A	loading	F14	VLDL_size	Average diameter for VLDL particles	lipid_lipoprotein	-0.144772267454555	-0.34921941738985846	NA	NA	NA	NA	NA
+A	loading	F17	VLDL_size	Average diameter for VLDL particles	lipid_lipoprotein	1.7216377467833e-06	2.2294183824156007e-06	NA	NA	NA	NA	NA
+A	loading	F13	VLDL_size	Average diameter for VLDL particles	lipid_lipoprotein	-3.92748731656145e-05	-5.534185074667998e-05	NA	NA	NA	NA	NA
+A	loading	F11	VLDL_size	Average diameter for VLDL particles	lipid_lipoprotein	0.115385204847296	0.1410067517485227	NA	NA	NA	NA	NA
+A	loading	F24	VLDL_size	Average diameter for VLDL particles	lipid_lipoprotein	6.36575505689153e-06	7.379007435957234e-06	NA	NA	NA	NA	NA
+A	loading	F20	VLDL_size	Average diameter for VLDL particles	lipid_lipoprotein	-1.43959871372748e-06	-1.6439311939634784e-06	NA	NA	NA	NA	NA
+A	loading	F18	VLDL_size	Average diameter for VLDL particles	lipid_lipoprotein	-2.40169492212829e-06	-2.6982049592170646e-06	NA	NA	NA	NA	NA
+A	loading	F26	VLDL_size	Average diameter for VLDL particles	lipid_lipoprotein	6.47245739428419e-07	7.056970839063166e-07	NA	NA	NA	NA	NA
+A	loading	F23	VLDL_size	Average diameter for VLDL particles	lipid_lipoprotein	1.71238548931043e-06	1.7692947111979183e-06	NA	NA	NA	NA	NA
+A	loading	F22	VLDL_size	Average diameter for VLDL particles	lipid_lipoprotein	-5.28472928071531e-06	-5.403947163338323e-06	NA	NA	NA	NA	NA
+A	loading	F25	VLDL_size	Average diameter for VLDL particles	lipid_lipoprotein	2.21112075786604e-07	2.227936331861729e-07	NA	NA	NA	NA	NA
+A	loading	F15	XL_HDL_TG	Triglycerides in very large HDL	lipid_lipoprotein	-0.0482414420307507	-0.15913906954307286	NA	NA	NA	NA	NA
+A	loading	F9	XL_HDL_TG	Triglycerides in very large HDL	lipid_lipoprotein	-0.111770666270152	-0.36940313508500733	NA	NA	NA	NA	NA
+A	loading	F14	XL_HDL_TG	Triglycerides in very large HDL	lipid_lipoprotein	-0.0327475727300955	-0.0789936392570893	NA	NA	NA	NA	NA
+A	loading	F17	XL_HDL_TG	Triglycerides in very large HDL	lipid_lipoprotein	-1.41384863030541e-06	-1.8308498011531718e-06	NA	NA	NA	NA	NA
+A	loading	F13	XL_HDL_TG	Triglycerides in very large HDL	lipid_lipoprotein	0.0336004311151697	0.04734604834899482	NA	NA	NA	NA	NA
+A	loading	F11	XL_HDL_TG	Triglycerides in very large HDL	lipid_lipoprotein	0.0246899940824096	0.03017246336615063	NA	NA	NA	NA	NA
+A	loading	F24	XL_HDL_TG	Triglycerides in very large HDL	lipid_lipoprotein	0.0181301714651229	0.021015993996107214	NA	NA	NA	NA	NA
+A	loading	F20	XL_HDL_TG	Triglycerides in very large HDL	lipid_lipoprotein	-1.23408101783608e-05	-1.4092429103704926e-05	NA	NA	NA	NA	NA
+A	loading	F18	XL_HDL_TG	Triglycerides in very large HDL	lipid_lipoprotein	9.55085759225147e-06	1.0729993673531328e-05	NA	NA	NA	NA	NA
+A	loading	F26	XL_HDL_TG	Triglycerides in very large HDL	lipid_lipoprotein	-1.21284684520753e-06	-1.3223763861988104e-06	NA	NA	NA	NA	NA
+A	loading	F23	XL_HDL_TG	Triglycerides in very large HDL	lipid_lipoprotein	-1.97929226322319e-05	-2.045071834056459e-05	NA	NA	NA	NA	NA
+A	loading	F22	XL_HDL_TG	Triglycerides in very large HDL	lipid_lipoprotein	-6.55145491255628e-06	-6.699248780754082e-06	NA	NA	NA	NA	NA
+A	loading	F25	XL_HDL_TG	Triglycerides in very large HDL	lipid_lipoprotein	-1.00480787896027e-06	-1.0124494431670183e-06	NA	NA	NA	NA	NA
+A	loading	F15	XS_VLDL_CE	Cholesteryl esters in very small VLDL	lipid_lipoprotein	0.220795002205337	0.7283594712678879	NA	NA	NA	NA	NA
+A	loading	F9	XS_VLDL_CE	Cholesteryl esters in very small VLDL	lipid_lipoprotein	-0.221981066702404	-0.7336495764567178	NA	NA	NA	NA	NA
+A	loading	F14	XS_VLDL_CE	Cholesteryl esters in very small VLDL	lipid_lipoprotein	-2.05968246092668e-05	-4.968362530059235e-05	NA	NA	NA	NA	NA
+A	loading	F17	XS_VLDL_CE	Cholesteryl esters in very small VLDL	lipid_lipoprotein	4.57949968604103e-07	5.930179447681111e-07	NA	NA	NA	NA	NA
+A	loading	F13	XS_VLDL_CE	Cholesteryl esters in very small VLDL	lipid_lipoprotein	-3.34961995036968e-05	-4.7199176575255536e-05	NA	NA	NA	NA	NA
+A	loading	F11	XS_VLDL_CE	Cholesteryl esters in very small VLDL	lipid_lipoprotein	-0.0377399362372629	-0.046120174827054654	NA	NA	NA	NA	NA
+A	loading	F24	XS_VLDL_CE	Cholesteryl esters in very small VLDL	lipid_lipoprotein	-0.000163008617852293	-0.00018895508741810472	NA	NA	NA	NA	NA
+A	loading	F20	XS_VLDL_CE	Cholesteryl esters in very small VLDL	lipid_lipoprotein	4.01416303085537e-07	4.583921728431978e-07	NA	NA	NA	NA	NA
+A	loading	F18	XS_VLDL_CE	Cholesteryl esters in very small VLDL	lipid_lipoprotein	-2.38852196928831e-06	-2.6834056912697144e-06	NA	NA	NA	NA	NA
+A	loading	F26	XS_VLDL_CE	Cholesteryl esters in very small VLDL	lipid_lipoprotein	1.21085743832645e-06	1.320207320341504e-06	NA	NA	NA	NA	NA
+A	loading	F23	XS_VLDL_CE	Cholesteryl esters in very small VLDL	lipid_lipoprotein	4.01625522271089e-06	4.1497309856467684e-06	NA	NA	NA	NA	NA
+A	loading	F22	XS_VLDL_CE	Cholesteryl esters in very small VLDL	lipid_lipoprotein	1.70478405812179e-07	1.7432421767770636e-07	NA	NA	NA	NA	NA
+A	loading	F25	XS_VLDL_CE	Cholesteryl esters in very small VLDL	lipid_lipoprotein	-1.32714807187791e-06	-1.337241033343948e-06	NA	NA	NA	NA	NA
+A	loading	F15	XS_VLDL_FC	Free cholesterol in very small VLDL	lipid_lipoprotein	0.222399532518193	0.7336525025350461	NA	NA	NA	NA	NA
+A	loading	F9	XS_VLDL_FC	Free cholesterol in very small VLDL	lipid_lipoprotein	-0.22287099906922	-0.7365908115525244	NA	NA	NA	NA	NA
+A	loading	F14	XS_VLDL_FC	Free cholesterol in very small VLDL	lipid_lipoprotein	-0.0527672016375246	-0.12728495406714543	NA	NA	NA	NA	NA
+A	loading	F17	XS_VLDL_FC	Free cholesterol in very small VLDL	lipid_lipoprotein	1.81365637190254e-07	2.3485770235111162e-07	NA	NA	NA	NA	NA
+A	loading	F13	XS_VLDL_FC	Free cholesterol in very small VLDL	lipid_lipoprotein	-0.000111175913764714	-0.00015665692414200573	NA	NA	NA	NA	NA
+A	loading	F11	XS_VLDL_FC	Free cholesterol in very small VLDL	lipid_lipoprotein	-0.0433664855667669	-0.05299611221916806	NA	NA	NA	NA	NA
+A	loading	F24	XS_VLDL_FC	Free cholesterol in very small VLDL	lipid_lipoprotein	-6.95127946239015e-05	-8.057731154274249e-05	NA	NA	NA	NA	NA
+A	loading	F20	XS_VLDL_FC	Free cholesterol in very small VLDL	lipid_lipoprotein	-8.78935267616234e-06	-1.0036887989207319e-05	NA	NA	NA	NA	NA
+A	loading	F18	XS_VLDL_FC	Free cholesterol in very small VLDL	lipid_lipoprotein	2.95255609932031e-07	3.3170747192540815e-07	NA	NA	NA	NA	NA
+A	loading	F26	XS_VLDL_FC	Free cholesterol in very small VLDL	lipid_lipoprotein	-2.99383561153476e-06	-3.264202345496658e-06	NA	NA	NA	NA	NA
+A	loading	F23	XS_VLDL_FC	Free cholesterol in very small VLDL	lipid_lipoprotein	1.81922211300181e-06	1.8796819309211598e-06	NA	NA	NA	NA	NA
+A	loading	F22	XS_VLDL_FC	Free cholesterol in very small VLDL	lipid_lipoprotein	1.07005576103678e-09	1.0941950830991004e-09	NA	NA	NA	NA	NA
+A	loading	F25	XS_VLDL_FC	Free cholesterol in very small VLDL	lipid_lipoprotein	2.36902571303028e-07	2.387042154255135e-07	NA	NA	NA	NA	NA
+A	loading	F15	XS_VLDL_L	Total lipids in very small VLDL	lipid_lipoprotein	0.216143201915322	0.7130140931305324	NA	NA	NA	NA	NA
+A	loading	F9	XS_VLDL_L	Total lipids in very small VLDL	lipid_lipoprotein	-0.206521603740952	-0.6825559015663144	NA	NA	NA	NA	NA
+A	loading	F14	XS_VLDL_L	Total lipids in very small VLDL	lipid_lipoprotein	-0.0633775805005207	-0.1528792919190707	NA	NA	NA	NA	NA
+A	loading	F17	XS_VLDL_L	Total lipids in very small VLDL	lipid_lipoprotein	7.15604543942421e-07	9.266652800719372e-07	NA	NA	NA	NA	NA
+A	loading	F13	XS_VLDL_L	Total lipids in very small VLDL	lipid_lipoprotein	-1.64682065691032e-05	-2.320519346223443e-05	NA	NA	NA	NA	NA
+A	loading	F11	XS_VLDL_L	Total lipids in very small VLDL	lipid_lipoprotein	-0.03307404887599	-0.04041821657592281	NA	NA	NA	NA	NA
+A	loading	F24	XS_VLDL_L	Total lipids in very small VLDL	lipid_lipoprotein	0.000544011645352154	0.0006306032733626866	NA	NA	NA	NA	NA
+A	loading	F20	XS_VLDL_L	Total lipids in very small VLDL	lipid_lipoprotein	3.11708590701087e-06	3.559516070649359e-06	NA	NA	NA	NA	NA
+A	loading	F18	XS_VLDL_L	Total lipids in very small VLDL	lipid_lipoprotein	-5.7343461162851e-06	-6.442300804432099e-06	NA	NA	NA	NA	NA
+A	loading	F26	XS_VLDL_L	Total lipids in very small VLDL	lipid_lipoprotein	-8.33266834947439e-07	-9.085173369507923e-07	NA	NA	NA	NA	NA
+A	loading	F23	XS_VLDL_L	Total lipids in very small VLDL	lipid_lipoprotein	1.29603678498404e-06	1.3391091220433228e-06	NA	NA	NA	NA	NA
+A	loading	F22	XS_VLDL_L	Total lipids in very small VLDL	lipid_lipoprotein	-1.07897614327667e-06	-1.1033166996929824e-06	NA	NA	NA	NA	NA
+A	loading	F25	XS_VLDL_L	Total lipids in very small VLDL	lipid_lipoprotein	-4.00419867770493e-07	-4.0346506097936006e-07	NA	NA	NA	NA	NA
+A	loading	F15	XS_VLDL_TG	Triglycerides in very small VLDL	lipid_lipoprotein	0.113016887364924	0.3728205779264181	NA	NA	NA	NA	NA
+A	loading	F9	XS_VLDL_TG	Triglycerides in very small VLDL	lipid_lipoprotein	-0.0805573634194586	-0.2662428667053326	NA	NA	NA	NA	NA
+A	loading	F14	XS_VLDL_TG	Triglycerides in very small VLDL	lipid_lipoprotein	-0.12694340267829	-0.3062126600919231	NA	NA	NA	NA	NA
+A	loading	F17	XS_VLDL_TG	Triglycerides in very small VLDL	lipid_lipoprotein	2.04477412878031e-06	2.6478607588083158e-06	NA	NA	NA	NA	NA
+A	loading	F13	XS_VLDL_TG	Triglycerides in very small VLDL	lipid_lipoprotein	-6.22180873988873e-06	-8.76709160091628e-06	NA	NA	NA	NA	NA
+A	loading	F11	XS_VLDL_TG	Triglycerides in very small VLDL	lipid_lipoprotein	0.0099963892800091	0.012216110232271855	NA	NA	NA	NA	NA
+A	loading	F24	XS_VLDL_TG	Triglycerides in very small VLDL	lipid_lipoprotein	-0.0212558666113943	-0.02463921347608117	NA	NA	NA	NA	NA
+A	loading	F20	XS_VLDL_TG	Triglycerides in very small VLDL	lipid_lipoprotein	1.82830245530232e-06	2.0878064210610783e-06	NA	NA	NA	NA	NA
+A	loading	F18	XS_VLDL_TG	Triglycerides in very small VLDL	lipid_lipoprotein	-1.99363306330616e-05	-2.2397643300610887e-05	NA	NA	NA	NA	NA
+A	loading	F26	XS_VLDL_TG	Triglycerides in very small VLDL	lipid_lipoprotein	1.53573701939205e-06	1.674426064494481e-06	NA	NA	NA	NA	NA
+A	loading	F23	XS_VLDL_TG	Triglycerides in very small VLDL	lipid_lipoprotein	3.94615171484223e-06	4.077297665881609e-06	NA	NA	NA	NA	NA
+A	loading	F22	XS_VLDL_TG	Triglycerides in very small VLDL	lipid_lipoprotein	8.87384506864431e-07	9.074029593454113e-07	NA	NA	NA	NA	NA
+A	loading	F25	XS_VLDL_TG	Triglycerides in very small VLDL	lipid_lipoprotein	2.99251359225549e-07	3.015271658980096e-07	NA	NA	NA	NA	NA
+A	loading	F15	DHA	Docosahexaenoic acid	fatty_acid	0.115845848386538	0.3821527663064068	NA	NA	NA	NA	NA
+A	loading	F9	DHA	Docosahexaenoic acid	fatty_acid	-0.0509592977916514	-0.16842097299900902	NA	NA	NA	NA	NA
+A	loading	F14	DHA	Docosahexaenoic acid	fatty_acid	0.0571079053578735	0.13775559220064068	NA	NA	NA	NA	NA
+A	loading	F17	DHA	Docosahexaenoic acid	fatty_acid	7.62624442958428e-06	9.875532499142978e-06	NA	NA	NA	NA	NA
+A	loading	F13	DHA	Docosahexaenoic acid	fatty_acid	1.53193695849604e-05	2.1586378179481068e-05	NA	NA	NA	NA	NA
+A	loading	F11	DHA	Docosahexaenoic acid	fatty_acid	-5.34509480094137e-05	-6.531985245995094e-05	NA	NA	NA	NA	NA
+A	loading	F24	DHA	Docosahexaenoic acid	fatty_acid	0.029819119286077	0.034565499454373254	NA	NA	NA	NA	NA
+A	loading	F20	DHA	Docosahexaenoic acid	fatty_acid	-7.93328058296173e-05	-9.059307497592276e-05	NA	NA	NA	NA	NA
+A	loading	F18	DHA	Docosahexaenoic acid	fatty_acid	-5.87163386623347e-06	-6.596537916039173e-06	NA	NA	NA	NA	NA
+A	loading	F26	DHA	Docosahexaenoic acid	fatty_acid	-2.07578457091085e-06	-2.2632441270345614e-06	NA	NA	NA	NA	NA
+A	loading	F23	DHA	Docosahexaenoic acid	fatty_acid	9.50121394473083e-06	9.816976193334634e-06	NA	NA	NA	NA	NA
+A	loading	F22	DHA	Docosahexaenoic acid	fatty_acid	-1.81752181099318e-07	-1.858523173677632e-07	NA	NA	NA	NA	NA
+A	loading	F25	DHA	Docosahexaenoic acid	fatty_acid	1.56582727939296e-06	1.5777353963003837e-06	NA	NA	NA	NA	NA
+A	loading	F15	LA	Linoleic acid	fatty_acid	0.147155052639926	0.4854356994708459	NA	NA	NA	NA	NA
+A	loading	F9	LA	Linoleic acid	fatty_acid	-0.0729271660892293	-0.24102499059201235	NA	NA	NA	NA	NA
+A	loading	F14	LA	Linoleic acid	fatty_acid	-0.0991271316752828	-0.2391142984759605	NA	NA	NA	NA	NA
+A	loading	F17	LA	Linoleic acid	fatty_acid	1.64973968770621e-07	2.1363146764437988e-07	NA	NA	NA	NA	NA
+A	loading	F13	LA	Linoleic acid	fatty_acid	2.13998697524251e-05	3.0154353213137144e-05	NA	NA	NA	NA	NA
+A	loading	F11	LA	Linoleic acid	fatty_acid	-0.0315522167890666	-0.03855845821636764	NA	NA	NA	NA	NA
+A	loading	F24	LA	Linoleic acid	fatty_acid	0.0450134904340857	0.052178394811455905	NA	NA	NA	NA	NA
+A	loading	F20	LA	Linoleic acid	fatty_acid	-7.31122611050135e-06	-8.348960411372457e-06	NA	NA	NA	NA	NA
+A	loading	F18	LA	Linoleic acid	fatty_acid	-3.38906292154792e-06	-3.8074720888845725e-06	NA	NA	NA	NA	NA
+A	loading	F26	LA	Linoleic acid	fatty_acid	-1.31706218020171e-06	-1.4360031797388648e-06	NA	NA	NA	NA	NA
+A	loading	F23	LA	Linoleic acid	fatty_acid	4.25889516856267e-06	4.400434799478887e-06	NA	NA	NA	NA	NA
+A	loading	F22	LA	Linoleic acid	fatty_acid	-1.4102089769917e-07	-1.4420217945198215e-07	NA	NA	NA	NA	NA
+A	loading	F25	LA	Linoleic acid	fatty_acid	2.31119576821427e-07	2.3287724126922665e-07	NA	NA	NA	NA	NA
+A	loading	F15	MUFA	Monounsaturated fatty acids	fatty_acid	0.12993931029374	0.4286443370418591	NA	NA	NA	NA	NA
+A	loading	F9	MUFA	Monounsaturated fatty acids	fatty_acid	-1.25484490793063e-05	-4.1472745802072753e-05	NA	NA	NA	NA	NA
+A	loading	F14	MUFA	Monounsaturated fatty acids	fatty_acid	-0.121374307533171	-0.292778898252297	NA	NA	NA	NA	NA
+A	loading	F17	MUFA	Monounsaturated fatty acids	fatty_acid	1.17577779794531e-06	1.5225622470656419e-06	NA	NA	NA	NA	NA
+A	loading	F13	MUFA	Monounsaturated fatty acids	fatty_acid	1.36082152880445e-06	1.9175206912163793e-06	NA	NA	NA	NA	NA
+A	loading	F11	MUFA	Monounsaturated fatty acids	fatty_acid	-0.0683824302856063	-0.08356690430115497	NA	NA	NA	NA	NA
+A	loading	F24	MUFA	Monounsaturated fatty acids	fatty_acid	0.0612328775670971	0.07097946038679438	NA	NA	NA	NA	NA
+A	loading	F20	MUFA	Monounsaturated fatty acids	fatty_acid	0.0105828229683646	0.012084918270621019	NA	NA	NA	NA	NA
+A	loading	F18	MUFA	Monounsaturated fatty acids	fatty_acid	0.000323962820137944	0.00036395883583895675	NA	NA	NA	NA	NA
+A	loading	F26	MUFA	Monounsaturated fatty acids	fatty_acid	6.50285358119858e-07	7.090112039013434e-07	NA	NA	NA	NA	NA
+A	loading	F23	MUFA	Monounsaturated fatty acids	fatty_acid	-1.43068163264271e-05	-1.4782287410424692e-05	NA	NA	NA	NA	NA
+A	loading	F22	MUFA	Monounsaturated fatty acids	fatty_acid	1.10213156957927e-05	1.126994487832565e-05	NA	NA	NA	NA	NA
+A	loading	F25	MUFA	Monounsaturated fatty acids	fatty_acid	-2.27525842768862e-06	-2.292561768681645e-06	NA	NA	NA	NA	NA
+A	loading	F15	Omega_3	Omega-3 fatty acids	fatty_acid	0.0956033756662592	0.31537681313521443	NA	NA	NA	NA	NA
+A	loading	F9	Omega_3	Omega-3 fatty acids	fatty_acid	0.015525068105669	0.05131050052775699	NA	NA	NA	NA	NA
+A	loading	F14	Omega_3	Omega-3 fatty acids	fatty_acid	-8.35571151869246e-06	-2.0155633117727355e-05	NA	NA	NA	NA	NA
+A	loading	F17	Omega_3	Omega-3 fatty acids	fatty_acid	-9.67288505387589e-07	-1.252581025851449e-06	NA	NA	NA	NA	NA
+A	loading	F13	Omega_3	Omega-3 fatty acids	fatty_acid	-9.31194207733822e-07	-1.3121369136768232e-06	NA	NA	NA	NA	NA
+A	loading	F11	Omega_3	Omega-3 fatty acids	fatty_acid	0.00013576789220803	0.00016591546114888672	NA	NA	NA	NA	NA
+A	loading	F24	Omega_3	Omega-3 fatty acids	fatty_acid	0.12728999555861	0.1475510470251434	NA	NA	NA	NA	NA
+A	loading	F20	Omega_3	Omega-3 fatty acids	fatty_acid	1.59210643596808e-06	1.8180854214721177e-06	NA	NA	NA	NA	NA
+A	loading	F18	Omega_3	Omega-3 fatty acids	fatty_acid	1.25803447261759e-06	1.4133497229842945e-06	NA	NA	NA	NA	NA
+A	loading	F26	Omega_3	Omega-3 fatty acids	fatty_acid	4.14414209250793e-07	4.5183904842060346e-07	NA	NA	NA	NA	NA
+A	loading	F23	Omega_3	Omega-3 fatty acids	fatty_acid	-4.06415708584495e-06	-4.199224813776408e-06	NA	NA	NA	NA	NA
+A	loading	F22	Omega_3	Omega-3 fatty acids	fatty_acid	2.95481113152037e-07	3.021468533998154e-07	NA	NA	NA	NA	NA
+A	loading	F25	Omega_3	Omega-3 fatty acids	fatty_acid	-2.06249940026808e-07	-2.0781847087967482e-07	NA	NA	NA	NA	NA
+A	loading	F15	Omega_6	Omega-6 fatty acids	fatty_acid	0.174784414546223	0.5765795534011283	NA	NA	NA	NA	NA
+A	loading	F9	Omega_6	Omega-6 fatty acids	fatty_acid	-0.0643915701689925	-0.2128147633653693	NA	NA	NA	NA	NA
+A	loading	F14	Omega_6	Omega-6 fatty acids	fatty_acid	-0.0978680871063783	-0.2360772333076698	NA	NA	NA	NA	NA
+A	loading	F17	Omega_6	Omega-6 fatty acids	fatty_acid	1.52611624930798e-07	1.9762296837806316e-07	NA	NA	NA	NA	NA
+A	loading	F13	Omega_6	Omega-6 fatty acids	fatty_acid	-4.43305444712166e-05	-6.246574916486413e-05	NA	NA	NA	NA	NA
+A	loading	F11	Omega_6	Omega-6 fatty acids	fatty_acid	-0.0494195402689201	-0.06039326147098347	NA	NA	NA	NA	NA
+A	loading	F24	Omega_6	Omega-6 fatty acids	fatty_acid	0.088792525376855	0.10292584291378254	NA	NA	NA	NA	NA
+A	loading	F20	Omega_6	Omega-6 fatty acids	fatty_acid	1.26325213084911e-06	1.4425544868448739e-06	NA	NA	NA	NA	NA
+A	loading	F18	Omega_6	Omega-6 fatty acids	fatty_acid	3.91772762306499e-06	4.401405026100556e-06	NA	NA	NA	NA	NA
+A	loading	F26	Omega_6	Omega-6 fatty acids	fatty_acid	-1.29341751861368e-07	-1.4102232205731854e-07	NA	NA	NA	NA	NA
+A	loading	F23	Omega_6	Omega-6 fatty acids	fatty_acid	-2.80829348495301e-07	-2.9016239867927195e-07	NA	NA	NA	NA	NA
+A	loading	F22	Omega_6	Omega-6 fatty acids	fatty_acid	8.06937367794435e-07	8.251410182158279e-07	NA	NA	NA	NA	NA
+A	loading	F25	Omega_6	Omega-6 fatty acids	fatty_acid	-2.42251089527696e-07	-2.440934091328091e-07	NA	NA	NA	NA	NA
+A	loading	F15	PUFA	Polyunsaturated fatty acids	fatty_acid	0.174304773955416	0.5749973130259864	NA	NA	NA	NA	NA
+A	loading	F9	PUFA	Polyunsaturated fatty acids	fatty_acid	-0.0519630999651932	-0.17173854890944723	NA	NA	NA	NA	NA
+A	loading	F14	PUFA	Polyunsaturated fatty acids	fatty_acid	-0.0839591839829304	-0.20252620084333967	NA	NA	NA	NA	NA
+A	loading	F17	PUFA	Polyunsaturated fatty acids	fatty_acid	3.83429047902322e-07	4.96517789147396e-07	NA	NA	NA	NA	NA
+A	loading	F13	PUFA	Polyunsaturated fatty acids	fatty_acid	-2.07944617490737e-05	-2.9301278545752804e-05	NA	NA	NA	NA	NA
+A	loading	F11	PUFA	Polyunsaturated fatty acids	fatty_acid	-0.0415118671438274	-0.05072967156156589	NA	NA	NA	NA	NA
+A	loading	F24	PUFA	Polyunsaturated fatty acids	fatty_acid	0.109782843800075	0.12725724026473306	NA	NA	NA	NA	NA
+A	loading	F20	PUFA	Polyunsaturated fatty acids	fatty_acid	5.4609942509647e-06	6.236111989827435e-06	NA	NA	NA	NA	NA
+A	loading	F18	PUFA	Polyunsaturated fatty acids	fatty_acid	3.77645864479094e-07	4.242695169053104e-07	NA	NA	NA	NA	NA
+A	loading	F26	PUFA	Polyunsaturated fatty acids	fatty_acid	1.80312963144144e-06	1.9659663174252868e-06	NA	NA	NA	NA	NA
+A	loading	F23	PUFA	Polyunsaturated fatty acids	fatty_acid	-1.43609858111063e-06	-1.4838257157511152e-06	NA	NA	NA	NA	NA
+A	loading	F22	PUFA	Polyunsaturated fatty acids	fatty_acid	4.85564075049496e-07	4.965178851370711e-07	NA	NA	NA	NA	NA
+A	loading	F25	PUFA	Polyunsaturated fatty acids	fatty_acid	-9.28080961400718e-07	-9.351390173774912e-07	NA	NA	NA	NA	NA
+A	loading	F15	SFA	Saturated fatty acids	fatty_acid	0.098636519174016	0.3253825595494146	NA	NA	NA	NA	NA
+A	loading	F9	SFA	Saturated fatty acids	fatty_acid	-0.0170513882461441	-0.05635500338212942	NA	NA	NA	NA	NA
+A	loading	F14	SFA	Saturated fatty acids	fatty_acid	-0.0802560938692754	-0.19359361316774298	NA	NA	NA	NA	NA
+A	loading	F17	SFA	Saturated fatty acids	fatty_acid	-8.02064077257817e-06	-1.0386252282483522e-05	NA	NA	NA	NA	NA
+A	loading	F13	SFA	Saturated fatty acids	fatty_acid	6.07739263182813e-07	8.563596234705821e-07	NA	NA	NA	NA	NA
+A	loading	F11	SFA	Saturated fatty acids	fatty_acid	0.000218717117454167	0.0002672837503285409	NA	NA	NA	NA	NA
+A	loading	F24	SFA	Saturated fatty acids	fatty_acid	-2.9646684983985e-05	-3.436561837412756e-05	NA	NA	NA	NA	NA
+A	loading	F20	SFA	Saturated fatty acids	fatty_acid	-4.69937124330416e-06	-5.366386413946943e-06	NA	NA	NA	NA	NA
+A	loading	F18	SFA	Saturated fatty acids	fatty_acid	-3.44697939982784e-05	-3.872538857971458e-05	NA	NA	NA	NA	NA
+A	loading	F26	SFA	Saturated fatty acids	fatty_acid	-3.67940635845009e-06	-4.011685484337975e-06	NA	NA	NA	NA	NA
+A	loading	F23	SFA	Saturated fatty acids	fatty_acid	2.03854568469789e-05	2.1062944769076228e-05	NA	NA	NA	NA	NA
+A	loading	F22	SFA	Saturated fatty acids	fatty_acid	-5.16471584251742e-07	-5.281226349373718e-07	NA	NA	NA	NA	NA
+A	loading	F25	SFA	Saturated fatty acids	fatty_acid	1.10186102006137e-06	1.1102406734339378e-06	NA	NA	NA	NA	NA
+A	loading	F15	Total_FA	Total fatty acids	fatty_acid	0.136108951735032	0.44899677587973097	NA	NA	NA	NA	NA
+A	loading	F9	Total_FA	Total fatty acids	fatty_acid	-0.0227622378417804	-0.07522941663406474	NA	NA	NA	NA	NA
+A	loading	F14	Total_FA	Total fatty acids	fatty_acid	-0.101778629774214	-0.24551023768171848	NA	NA	NA	NA	NA
+A	loading	F17	Total_FA	Total fatty acids	fatty_acid	4.40327193049741e-08	5.7019749961727415e-08	NA	NA	NA	NA	NA
+A	loading	F13	Total_FA	Total fatty acids	fatty_acid	-1.27120364198702e-06	-1.7912409780886163e-06	NA	NA	NA	NA	NA
+A	loading	F11	Total_FA	Total fatty acids	fatty_acid	-0.0334405998481325	-0.04086616102426418	NA	NA	NA	NA	NA
+A	loading	F24	Total_FA	Total fatty acids	fatty_acid	0.059922217977939	0.06946017999225013	NA	NA	NA	NA	NA
+A	loading	F20	Total_FA	Total fatty acids	fatty_acid	0.000122925841249635	0.00014037357983686839	NA	NA	NA	NA	NA
+A	loading	F18	Total_FA	Total fatty acids	fatty_acid	7.14527478542559e-07	8.02742083658123e-07	NA	NA	NA	NA	NA
+A	loading	F26	Total_FA	Total fatty acids	fatty_acid	1.63654393390702e-07	1.7843366305704054e-07	NA	NA	NA	NA	NA
+A	loading	F23	Total_FA	Total fatty acids	fatty_acid	-8.4091855032392e-07	-8.688655404546063e-07	NA	NA	NA	NA	NA
+A	loading	F22	Total_FA	Total fatty acids	fatty_acid	9.75364912731032e-07	9.973681097736693e-07	NA	NA	NA	NA	NA
+A	loading	F25	Total_FA	Total fatty acids	fatty_acid	-2.8348475801179e-07	-2.856406596775126e-07	NA	NA	NA	NA	NA
+A	loading	F15	Ala	Alanine	amino_acid	1.368587940016e-05	4.514703586662827e-05	NA	NA	NA	NA	NA
+A	loading	F9	Ala	Alanine	amino_acid	0.021669798382278	0.07161889363462795	NA	NA	NA	NA	NA
+A	loading	F14	Ala	Alanine	amino_acid	0.312041503766913	0.7527059848057115	NA	NA	NA	NA	NA
+A	loading	F17	Ala	Alanine	amino_acid	0.259133368600727	0.33556228453700065	NA	NA	NA	NA	NA
+A	loading	F13	Ala	Alanine	amino_acid	0.146747933426309	0.20678111918570868	NA	NA	NA	NA	NA
+A	loading	F11	Ala	Alanine	amino_acid	0.12591560000404	0.1538754450757647	NA	NA	NA	NA	NA
+A	loading	F24	Ala	Alanine	amino_acid	0.262285300738487	0.3040338761379636	NA	NA	NA	NA	NA
+A	loading	F20	Ala	Alanine	amino_acid	-0.353931932299367	-0.4041680077222153	NA	NA	NA	NA	NA
+A	loading	F18	Ala	Alanine	amino_acid	-0.127321213758825	-0.14304012021358928	NA	NA	NA	NA	NA
+A	loading	F26	Ala	Alanine	amino_acid	8.72430005678505e-08	9.512172478159375e-08	NA	NA	NA	NA	NA
+A	loading	F23	Ala	Alanine	amino_acid	5.14611246932017e-07	5.317137777700028e-07	NA	NA	NA	NA	NA
+A	loading	F22	Ala	Alanine	amino_acid	-0.187058947987063	-0.191278799283152	NA	NA	NA	NA	NA
+A	loading	F25	Ala	Alanine	amino_acid	8.42988720451775e-07	8.493996499118053e-07	NA	NA	NA	NA	NA
+A	loading	F15	Gln	Glutamine	amino_acid	0.0526045537615609	0.17353212066105156	NA	NA	NA	NA	NA
+A	loading	F9	Gln	Glutamine	amino_acid	-8.82850481198668e-07	-2.9178293952175056e-06	NA	NA	NA	NA	NA
+A	loading	F14	Gln	Glutamine	amino_acid	0.414559615661163	1.0	NA	NA	NA	NA	NA
+A	loading	F17	Gln	Glutamine	amino_acid	3.34028161705227e-07	4.325465826603166e-07	NA	NA	NA	NA	NA
+A	loading	F13	Gln	Glutamine	amino_acid	-0.0442140631414576	-0.06230161642943518	NA	NA	NA	NA	NA
+A	loading	F11	Gln	Glutamine	amino_acid	0.165942878726761	0.2027908719842078	NA	NA	NA	NA	NA
+A	loading	F24	Gln	Glutamine	amino_acid	0.248549412308626	0.28811161366358606	NA	NA	NA	NA	NA
+A	loading	F20	Gln	Glutamine	amino_acid	0.875704968075119	1.0	NA	NA	NA	NA	NA
+A	loading	F18	Gln	Glutamine	amino_acid	-0.119436875071128	-0.1341823916356235	NA	NA	NA	NA	NA
+A	loading	F26	Gln	Glutamine	amino_acid	-1.55223360106142e-06	-1.6924124163069743e-06	NA	NA	NA	NA	NA
+A	loading	F23	Gln	Glutamine	amino_acid	0.207696843809016	0.21459941676554	NA	NA	NA	NA	NA
+A	loading	F22	Gln	Glutamine	amino_acid	9.04283292880227e-07	9.246829640349914e-07	NA	NA	NA	NA	NA
+A	loading	F25	Gln	Glutamine	amino_acid	-0.122630427750565	-0.12356303218866577	NA	NA	NA	NA	NA
+A	loading	F15	His	Histidine	amino_acid	7.25968371803853e-06	2.394827483244015e-05	NA	NA	NA	NA	NA
+A	loading	F9	His	Histidine	amino_acid	0.0086662017139381	0.02864188064040109	NA	NA	NA	NA	NA
+A	loading	F14	His	Histidine	amino_acid	0.196393669592701	0.47374047585286694	NA	NA	NA	NA	NA
+A	loading	F17	His	Histidine	amino_acid	1.56985099886812e-07	2.032863580662768e-07	NA	NA	NA	NA	NA
+A	loading	F13	His	Histidine	amino_acid	-2.41970517800361e-06	-3.4095835840734103e-06	NA	NA	NA	NA	NA
+A	loading	F11	His	Histidine	amino_acid	0.191488680742338	0.2340091773795532	NA	NA	NA	NA	NA
+A	loading	F24	His	Histidine	amino_acid	3.90680743880493e-05	4.5286632746865116e-05	NA	NA	NA	NA	NA
+A	loading	F20	His	Histidine	amino_acid	0.117341048367749	0.13399609759628925	NA	NA	NA	NA	NA
+A	loading	F18	His	Histidine	amino_acid	-0.0671299177411049	-0.07541768743899084	NA	NA	NA	NA	NA
+A	loading	F26	His	Histidine	amino_acid	5.30165110520257e-07	5.780431599494404e-07	NA	NA	NA	NA	NA
+A	loading	F23	His	Histidine	amino_acid	-0.967835080539546	-1.0	NA	NA	NA	NA	NA
+A	loading	F22	His	Histidine	amino_acid	-0.0112634831658043	-0.011517575389390328	NA	NA	NA	NA	NA
+A	loading	F25	His	Histidine	amino_acid	-3.02883249354504e-07	-3.0518667655243357e-07	NA	NA	NA	NA	NA
+A	loading	F15	Ile	Isoleucine	amino_acid	-3.12279886086386e-05	-0.00010301501865787181	NA	NA	NA	NA	NA
+A	loading	F9	Ile	Isoleucine	amino_acid	0.0223513793494117	0.07387152533555122	NA	NA	NA	NA	NA
+A	loading	F14	Ile	Isoleucine	amino_acid	0.0182489151499896	0.04402000209519976	NA	NA	NA	NA	NA
+A	loading	F17	Ile	Isoleucine	amino_acid	-0.342429714918298	-0.4434260938751813	NA	NA	NA	NA	NA
+A	loading	F13	Ile	Isoleucine	amino_acid	0.000102519427786633	0.00014445915196920815	NA	NA	NA	NA	NA
+A	loading	F11	Ile	Isoleucine	amino_acid	0.0002483941948701	0.0003035506902134963	NA	NA	NA	NA	NA
+A	loading	F24	Ile	Isoleucine	amino_acid	0.0441922384306952	0.051226422172600955	NA	NA	NA	NA	NA
+A	loading	F20	Ile	Isoleucine	amino_acid	-0.0949899709152759	-0.10847257281647345	NA	NA	NA	NA	NA
+A	loading	F18	Ile	Isoleucine	amino_acid	-0.162933488173428	-0.1830490383110345	NA	NA	NA	NA	NA
+A	loading	F26	Ile	Isoleucine	amino_acid	-0.0636679530817379	-0.06941766641483717	NA	NA	NA	NA	NA
+A	loading	F23	Ile	Isoleucine	amino_acid	1.07527700197268e-05	1.1110126338603448e-05	NA	NA	NA	NA	NA
+A	loading	F22	Ile	Isoleucine	amino_acid	-2.85922458681725e-05	-2.9237256583154434e-05	NA	NA	NA	NA	NA
+A	loading	F25	Ile	Isoleucine	amino_acid	-5.1294880021773e-07	-5.168497759900282e-07	NA	NA	NA	NA	NA
+A	loading	F15	Leu	Leucine	amino_acid	-1.50366163636149e-05	-4.960285257759286e-05	NA	NA	NA	NA	NA
+A	loading	F9	Leu	Leucine	amino_acid	0.0247712373929455	0.08186917961795011	NA	NA	NA	NA	NA
+A	loading	F14	Leu	Leucine	amino_acid	-1.40565027444009e-06	-3.390707201902143e-06	NA	NA	NA	NA	NA
+A	loading	F17	Leu	Leucine	amino_acid	-0.46463852573385	-0.6016792280402488	NA	NA	NA	NA	NA
+A	loading	F13	Leu	Leucine	amino_acid	0.0419776816565583	0.059150352520114816	NA	NA	NA	NA	NA
+A	loading	F11	Leu	Leucine	amino_acid	0.0513400310046746	0.06274020153812865	NA	NA	NA	NA	NA
+A	loading	F24	Leu	Leucine	amino_acid	-8.56757048494719e-05	-9.931291064690158e-05	NA	NA	NA	NA	NA
+A	loading	F20	Leu	Leucine	amino_acid	-0.0914476165127969	-0.10442742686935677	NA	NA	NA	NA	NA
+A	loading	F18	Leu	Leucine	amino_acid	-0.237967427264158	-0.2673465669849883	NA	NA	NA	NA	NA
+A	loading	F26	Leu	Leucine	amino_acid	-0.076693986993383	-0.08362005290629644	NA	NA	NA	NA	NA
+A	loading	F23	Leu	Leucine	amino_acid	1.2320932543178e-06	1.2730404994525885e-06	NA	NA	NA	NA	NA
+A	loading	F22	Leu	Leucine	amino_acid	6.20545945145046e-06	6.345448029333632e-06	NA	NA	NA	NA	NA
+A	loading	F25	Leu	Leucine	amino_acid	1.9406297058117e-07	1.9553881952791873e-07	NA	NA	NA	NA	NA
+A	loading	F15	Phe	Phenylalanine	amino_acid	-0.0346436826811648	-0.11428272446565257	NA	NA	NA	NA	NA
+A	loading	F9	Phe	Phenylalanine	amino_acid	8.69509073721214e-06	2.873735914225757e-05	NA	NA	NA	NA	NA
+A	loading	F14	Phe	Phenylalanine	amino_acid	0.0551225790980252	0.13296659157239088	NA	NA	NA	NA	NA
+A	loading	F17	Phe	Phenylalanine	amino_acid	-4.71590999255218e-07	-6.10682267326972e-07	NA	NA	NA	NA	NA
+A	loading	F13	Phe	Phenylalanine	amino_acid	1.02751831571885e-05	1.4478662993564597e-05	NA	NA	NA	NA	NA
+A	loading	F11	Phe	Phenylalanine	amino_acid	-0.0100663295541968	-0.012301580903253116	NA	NA	NA	NA	NA
+A	loading	F24	Phe	Phenylalanine	amino_acid	0.0917062698369799	0.10630337501258116	NA	NA	NA	NA	NA
+A	loading	F20	Phe	Phenylalanine	amino_acid	-6.44074789727686e-06	-7.354929036698539e-06	NA	NA	NA	NA	NA
+A	loading	F18	Phe	Phenylalanine	amino_acid	0.21297419587551	0.2392677047371764	NA	NA	NA	NA	NA
+A	loading	F26	Phe	Phenylalanine	amino_acid	0.917172189299202	1.0	NA	NA	NA	NA	NA
+A	loading	F23	Phe	Phenylalanine	amino_acid	-3.0658983723729e-06	-3.1677900853353356e-06	NA	NA	NA	NA	NA
+A	loading	F22	Phe	Phenylalanine	amino_acid	-9.0299306703336e-07	-9.23363632062645e-07	NA	NA	NA	NA	NA
+A	loading	F25	Phe	Phenylalanine	amino_acid	-2.94000245202404e-07	-2.9623611715121736e-07	NA	NA	NA	NA	NA
+A	loading	F15	Tyr	Tyrosine	amino_acid	3.62206852436678e-06	1.194849470754949e-05	NA	NA	NA	NA	NA
+A	loading	F9	Tyr	Tyrosine	amino_acid	-2.24845636970245e-06	-7.4311700894973095e-06	NA	NA	NA	NA	NA
+A	loading	F14	Tyr	Tyrosine	amino_acid	0.233617081882231	0.563530727684715	NA	NA	NA	NA	NA
+A	loading	F17	Tyr	Tyrosine	amino_acid	0.0554272070358005	0.07177493318931197	NA	NA	NA	NA	NA
+A	loading	F13	Tyr	Tyrosine	amino_acid	-5.17697689718696e-06	-7.294828975131293e-06	NA	NA	NA	NA	NA
+A	loading	F11	Tyr	Tyrosine	amino_acid	-0.0478516740703946	-0.058477247020751584	NA	NA	NA	NA	NA
+A	loading	F24	Tyr	Tyrosine	amino_acid	0.135343401239784	0.15688633245084144	NA	NA	NA	NA	NA
+A	loading	F20	Tyr	Tyrosine	amino_acid	-0.134838256011141	-0.15397680831653612	NA	NA	NA	NA	NA
+A	loading	F18	Tyr	Tyrosine	amino_acid	0.890108408526974	1.0	NA	NA	NA	NA	NA
+A	loading	F26	Tyr	Tyrosine	amino_acid	-0.385823230282485	-0.4206660807904424	NA	NA	NA	NA	NA
+A	loading	F23	Tyr	Tyrosine	amino_acid	8.21186306157103e-07	8.484775171605789e-07	NA	NA	NA	NA	NA
+A	loading	F22	Tyr	Tyrosine	amino_acid	-0.0489350301096375	-0.050038952442433844	NA	NA	NA	NA	NA
+A	loading	F25	Tyr	Tyrosine	amino_acid	-6.32834398990623e-07	-6.37647104775862e-07	NA	NA	NA	NA	NA
+A	loading	F15	Val	Valine	amino_acid	-0.0181415402935219	-0.05984538854682147	NA	NA	NA	NA	NA
+A	loading	F9	Val	Valine	amino_acid	0.0202699671800291	0.06699243794677588	NA	NA	NA	NA	NA
+A	loading	F14	Val	Valine	amino_acid	0.0796043845364537	0.1920215610232467	NA	NA	NA	NA	NA
+A	loading	F17	Val	Valine	amino_acid	-0.77223627487896	-1.0	NA	NA	NA	NA	NA
+A	loading	F13	Val	Valine	amino_acid	-5.89195239665735e-05	-8.302294160629728e-05	NA	NA	NA	NA	NA
+A	loading	F11	Val	Valine	amino_acid	0.000160667968238821	0.00019634465563738067	NA	NA	NA	NA	NA
+A	loading	F24	Val	Valine	amino_acid	0.00598198119608213	0.00693414737657232	NA	NA	NA	NA	NA
+A	loading	F20	Val	Valine	amino_acid	-0.0952003747922537	-0.10871284081157262	NA	NA	NA	NA	NA
+A	loading	F18	Val	Valine	amino_acid	-0.183951170547424	-0.20666153558962755	NA	NA	NA	NA	NA
+A	loading	F26	Val	Valine	amino_acid	-0.000184692429423481	-0.00020137159802523214	NA	NA	NA	NA	NA
+A	loading	F23	Val	Valine	amino_acid	-2.18530239158517e-06	-2.2579284792683003e-06	NA	NA	NA	NA	NA
+A	loading	F22	Val	Valine	amino_acid	-0.00138029631932286	-0.001411434339047446	NA	NA	NA	NA	NA
+A	loading	F25	Val	Valine	amino_acid	0.000115508993262006	0.00011638743918878539	NA	NA	NA	NA	NA
+A	loading	F15	Acetate	Acetate	energy_ketone	-3.88222406955575e-06	-1.2806696901659965e-05	NA	NA	NA	NA	NA
+A	loading	F9	Acetate	Acetate	energy_ketone	-0.00893619837681965	-0.029534222227502904	NA	NA	NA	NA	NA
+A	loading	F14	Acetate	Acetate	energy_ketone	0.1099737149561	0.26527840822292287	NA	NA	NA	NA	NA
+A	loading	F17	Acetate	Acetate	energy_ketone	1.40270354907369e-07	1.8164175844932295e-07	NA	NA	NA	NA	NA
+A	loading	F13	Acetate	Acetate	energy_ketone	-0.244828913438703	-0.3449860965524149	NA	NA	NA	NA	NA
+A	loading	F11	Acetate	Acetate	energy_ketone	0.108990134931391	0.13319164202765457	NA	NA	NA	NA	NA
+A	loading	F24	Acetate	Acetate	energy_ketone	-2.11796841343898e-05	-2.4550904852943482e-05	NA	NA	NA	NA	NA
+A	loading	F20	Acetate	Acetate	energy_ketone	-7.72479996938457e-07	-8.82123574834159e-07	NA	NA	NA	NA	NA
+A	loading	F18	Acetate	Acetate	energy_ketone	-1.86119127094589e-06	-2.090971451472911e-06	NA	NA	NA	NA	NA
+A	loading	F26	Acetate	Acetate	energy_ketone	-4.93947967824091e-08	-5.385553264556675e-08	NA	NA	NA	NA	NA
+A	loading	F23	Acetate	Acetate	energy_ketone	2.14858705580592e-07	2.2199929502536029e-07	NA	NA	NA	NA	NA
+A	loading	F22	Acetate	Acetate	energy_ketone	4.5549376883058e-07	4.657692247306801e-07	NA	NA	NA	NA	NA
+A	loading	F25	Acetate	Acetate	energy_ketone	-2.59477145461416e-07	-2.6145046922682966e-07	NA	NA	NA	NA	NA
+A	loading	F15	Acetone	Acetone	energy_ketone	1.95015223302901e-05	6.433170294406994e-05	NA	NA	NA	NA	NA
+A	loading	F9	Acetone	Acetone	energy_ketone	-0.00488408679272234	-0.016141954176940573	NA	NA	NA	NA	NA
+A	loading	F14	Acetone	Acetone	energy_ketone	0.028796455051551	0.0694627599112007	NA	NA	NA	NA	NA
+A	loading	F17	Acetone	Acetone	energy_ketone	-9.9727359038213e-07	-1.2914099257231113e-06	NA	NA	NA	NA	NA
+A	loading	F13	Acetone	Acetone	energy_ketone	1.12996943249733e-06	1.5922291949328943e-06	NA	NA	NA	NA	NA
+A	loading	F11	Acetone	Acetone	energy_ketone	6.03030585632889e-06	7.369348973088529e-06	NA	NA	NA	NA	NA
+A	loading	F24	Acetone	Acetone	energy_ketone	7.28418049289643e-06	8.44362083391002e-06	NA	NA	NA	NA	NA
+A	loading	F20	Acetone	Acetone	energy_ketone	-1.3496654667608e-06	-1.541233081876297e-06	NA	NA	NA	NA	NA
+A	loading	F18	Acetone	Acetone	energy_ketone	3.74444124858097e-07	4.2067249480067093e-07	NA	NA	NA	NA	NA
+A	loading	F26	Acetone	Acetone	energy_ketone	1.71248953009703e-06	1.8671407071397558e-06	NA	NA	NA	NA	NA
+A	loading	F23	Acetone	Acetone	energy_ketone	2.91981371651709e-08	3.01685046887261e-08	NA	NA	NA	NA	NA
+A	loading	F22	Acetone	Acetone	energy_ketone	-1.40950452328069e-06	-1.4413014490808967e-06	NA	NA	NA	NA	NA
+A	loading	F25	Acetone	Acetone	energy_ketone	5.37001956122353e-07	5.410858561521821e-07	NA	NA	NA	NA	NA
+A	loading	F15	Citrate	Citrate	energy_ketone	-0.0481601180312182	-0.15887079759529663	NA	NA	NA	NA	NA
+A	loading	F9	Citrate	Citrate	energy_ketone	0.0265285477828838	0.08767710748510302	NA	NA	NA	NA	NA
+A	loading	F14	Citrate	Citrate	energy_ketone	0.170593233595755	0.4115047080108932	NA	NA	NA	NA	NA
+A	loading	F17	Citrate	Citrate	energy_ketone	4.10991966329536e-07	5.322101275208222e-07	NA	NA	NA	NA	NA
+A	loading	F13	Citrate	Citrate	energy_ketone	0.152372624618909	0.21470681812213613	NA	NA	NA	NA	NA
+A	loading	F11	Citrate	Citrate	energy_ketone	0.0578659236677424	0.07071518349440735	NA	NA	NA	NA	NA
+A	loading	F24	Citrate	Citrate	energy_ketone	0.0890885179461717	0.1032689493246413	NA	NA	NA	NA	NA
+A	loading	F20	Citrate	Citrate	energy_ketone	-0.192901901516104	-0.2202818398302802	NA	NA	NA	NA	NA
+A	loading	F18	Citrate	Citrate	energy_ketone	-0.0231734092269188	-0.0260343672803497	NA	NA	NA	NA	NA
+A	loading	F26	Citrate	Citrate	energy_ketone	1.51189703248843e-06	1.6484331406119594e-06	NA	NA	NA	NA	NA
+A	loading	F23	Citrate	Citrate	energy_ketone	-2.29329981656768e-06	-2.369515078218923e-06	NA	NA	NA	NA	NA
+A	loading	F22	Citrate	Citrate	energy_ketone	0.977938740143165	1.0	NA	NA	NA	NA	NA
+A	loading	F25	Citrate	Citrate	energy_ketone	-2.42501604119584e-07	-2.4434582888824004e-07	NA	NA	NA	NA	NA
+A	loading	F15	Glucose	Glucose	energy_ketone	-9.84071571217186e-07	-3.24625939057684e-06	NA	NA	NA	NA	NA
+A	loading	F9	Glucose	Glucose	energy_ketone	-7.22478728122758e-06	-2.3877991972930242e-05	NA	NA	NA	NA	NA
+A	loading	F14	Glucose	Glucose	energy_ketone	0.173492065871567	0.4184972662975676	NA	NA	NA	NA	NA
+A	loading	F17	Glucose	Glucose	energy_ketone	-5.65916955976005e-07	-7.328287654768699e-07	NA	NA	NA	NA	NA
+A	loading	F13	Glucose	Glucose	energy_ketone	-0.490881669945173	-0.6916966987476136	NA	NA	NA	NA	NA
+A	loading	F11	Glucose	Glucose	energy_ketone	-5.39701711508143e-07	-6.595437027961817e-07	NA	NA	NA	NA	NA
+A	loading	F24	Glucose	Glucose	energy_ketone	-8.26422132488382e-06	-9.579657097031336e-06	NA	NA	NA	NA	NA
+A	loading	F20	Glucose	Glucose	energy_ketone	1.31186523394652e-07	1.4980675932787294e-07	NA	NA	NA	NA	NA
+A	loading	F18	Glucose	Glucose	energy_ketone	-2.66116569350026e-06	-2.9897096443613876e-06	NA	NA	NA	NA	NA
+A	loading	F26	Glucose	Glucose	energy_ketone	4.08038497553114e-07	4.44887560170016e-07	NA	NA	NA	NA	NA
+A	loading	F23	Glucose	Glucose	energy_ketone	0.0722233683496827	0.07462363144495632	NA	NA	NA	NA	NA
+A	loading	F22	Glucose	Glucose	energy_ketone	-3.69411493029329e-07	-3.7774502416710595e-07	NA	NA	NA	NA	NA
+A	loading	F25	Glucose	Glucose	energy_ketone	0.992452399220207	1.0	NA	NA	NA	NA	NA
+A	loading	F15	Lactate	Lactate	energy_ketone	-6.0418263754642e-06	-1.9930801967306098e-05	NA	NA	NA	NA	NA
+A	loading	F9	Lactate	Lactate	energy_ketone	1.03870386088048e-05	3.432926325291277e-05	NA	NA	NA	NA	NA
+A	loading	F14	Lactate	Lactate	energy_ketone	-0.0874155343504361	-0.21086360332281978	NA	NA	NA	NA	NA
+A	loading	F17	Lactate	Lactate	energy_ketone	-0.0167865479046967	-0.021737580130288255	NA	NA	NA	NA	NA
+A	loading	F13	Lactate	Lactate	energy_ketone	0.709677624360451	1.0	NA	NA	NA	NA	NA
+A	loading	F11	Lactate	Lactate	energy_ketone	-0.0586150938575037	-0.07163070862698279	NA	NA	NA	NA	NA
+A	loading	F24	Lactate	Lactate	energy_ketone	-0.0478059402413423	-0.055415325498881014	NA	NA	NA	NA	NA
+A	loading	F20	Lactate	Lactate	energy_ketone	1.23490326758513e-06	1.4101818678721926e-06	NA	NA	NA	NA	NA
+A	loading	F18	Lactate	Lactate	energy_ketone	-7.86330216595086e-07	-8.834094915431381e-07	NA	NA	NA	NA	NA
+A	loading	F26	Lactate	Lactate	energy_ketone	1.09954407411854e-06	1.1988414901226843e-06	NA	NA	NA	NA	NA
+A	loading	F23	Lactate	Lactate	energy_ketone	-1.05469045246702e-06	-1.089741913342358e-06	NA	NA	NA	NA	NA
+A	loading	F22	Lactate	Lactate	energy_ketone	-0.0280698229490217	-0.028703048357520255	NA	NA	NA	NA	NA
+A	loading	F25	Lactate	Lactate	energy_ketone	1.44330817408834e-08	1.4542845331648963e-08	NA	NA	NA	NA	NA
+A	loading	F15	Pyruvate	Pyruvate	energy_ketone	6.83492791139407e-06	2.254708861148661e-05	NA	NA	NA	NA	NA
+A	loading	F9	Pyruvate	Pyruvate	energy_ketone	4.19509536221369e-07	1.3864830822755405e-06	NA	NA	NA	NA	NA
+A	loading	F14	Pyruvate	Pyruvate	energy_ketone	0.0461503068147309	0.11132369162666218	NA	NA	NA	NA	NA
+A	loading	F17	Pyruvate	Pyruvate	energy_ketone	4.21223127113817e-07	5.454588716126283e-07	NA	NA	NA	NA	NA
+A	loading	F13	Pyruvate	Pyruvate	energy_ketone	0.336872450328918	0.4746837701590233	NA	NA	NA	NA	NA
+A	loading	F11	Pyruvate	Pyruvate	energy_ketone	-0.138880549632305	-0.1697192912264413	NA	NA	NA	NA	NA
+A	loading	F24	Pyruvate	Pyruvate	energy_ketone	4.25197931880824e-05	4.928776984130981e-05	NA	NA	NA	NA	NA
+A	loading	F20	Pyruvate	Pyruvate	energy_ketone	-0.088053112318118	-0.1005511165611712	NA	NA	NA	NA	NA
+A	loading	F18	Pyruvate	Pyruvate	energy_ketone	-1.59613725323105e-06	-1.7931942198731408e-06	NA	NA	NA	NA	NA
+A	loading	F26	Pyruvate	Pyruvate	energy_ketone	-1.12190887317116e-06	-1.2232260051718255e-06	NA	NA	NA	NA	NA
+A	loading	F23	Pyruvate	Pyruvate	energy_ketone	5.55955866554501e-07	5.74432439713353e-07	NA	NA	NA	NA	NA
+A	loading	F22	Pyruvate	Pyruvate	energy_ketone	-1.01452330989687e-07	-1.0374098788113755e-07	NA	NA	NA	NA	NA
+A	loading	F25	Pyruvate	Pyruvate	energy_ketone	-1.26306680775496e-07	-1.2726724311890233e-07	NA	NA	NA	NA	NA
+A	loading	F15	bOHbutyrate	3-Hydroxybutyrate	energy_ketone	-0.107632918192485	-0.35505991803560516	NA	NA	NA	NA	NA
+A	loading	F9	bOHbutyrate	3-Hydroxybutyrate	energy_ketone	-0.0791951582377603	-0.2617407653799979	NA	NA	NA	NA	NA
+A	loading	F14	bOHbutyrate	3-Hydroxybutyrate	energy_ketone	2.18314880168117e-05	5.266187827290802e-05	NA	NA	NA	NA	NA
+A	loading	F17	bOHbutyrate	3-Hydroxybutyrate	energy_ketone	-3.00311548935149e-07	-3.8888557648009963e-07	NA	NA	NA	NA	NA
+A	loading	F13	bOHbutyrate	3-Hydroxybutyrate	energy_ketone	0.165478592355033	0.23317431277921352	NA	NA	NA	NA	NA
+A	loading	F11	bOHbutyrate	3-Hydroxybutyrate	energy_ketone	-0.15410817883708	-0.18832825009459017	NA	NA	NA	NA	NA
+A	loading	F24	bOHbutyrate	3-Hydroxybutyrate	energy_ketone	0.132919433833834	0.1540765363853049	NA	NA	NA	NA	NA
+A	loading	F20	bOHbutyrate	3-Hydroxybutyrate	energy_ketone	-1.61983234449332e-06	-1.8497466653111061e-06	NA	NA	NA	NA	NA
+A	loading	F18	bOHbutyrate	3-Hydroxybutyrate	energy_ketone	-0.0498413495309771	-0.055994695762349604	NA	NA	NA	NA	NA
+A	loading	F26	bOHbutyrate	3-Hydroxybutyrate	energy_ketone	-1.72979912415215e-06	-1.886013492705077e-06	NA	NA	NA	NA	NA
+A	loading	F23	bOHbutyrate	3-Hydroxybutyrate	energy_ketone	2.97055169215111e-07	3.069274664537986e-07	NA	NA	NA	NA	NA
+A	loading	F22	bOHbutyrate	3-Hydroxybutyrate	energy_ketone	-0.0318693548720262	-0.03258829368735377	NA	NA	NA	NA	NA
+A	loading	F25	bOHbutyrate	3-Hydroxybutyrate	energy_ketone	1.98147664959811e-07	1.9965457800847703e-07	NA	NA	NA	NA	NA
+A	loading	F15	Albumin	Albumin	inflammation_other	-2.10935276721593e-05	-6.95834167848621e-05	NA	NA	NA	NA	NA
+A	loading	F9	Albumin	Albumin	inflammation_other	-0.0313546684923529	-0.103627483195198	NA	NA	NA	NA	NA
+A	loading	F14	Albumin	Albumin	inflammation_other	0.196756748429409	0.4746162940054116	NA	NA	NA	NA	NA
+A	loading	F17	Albumin	Albumin	inflammation_other	-1.33546639336186e-07	-1.7293494708872368e-07	NA	NA	NA	NA	NA
+A	loading	F13	Albumin	Albumin	inflammation_other	0.0610673375456701	0.08604940532076506	NA	NA	NA	NA	NA
+A	loading	F11	Albumin	Albumin	inflammation_other	0.274902055877759	0.3359446819859945	NA	NA	NA	NA	NA
+A	loading	F24	Albumin	Albumin	inflammation_other	-0.862684461581077	-1.0	NA	NA	NA	NA	NA
+A	loading	F20	Albumin	Albumin	inflammation_other	-0.0526865017829687	-0.06016467155459736	NA	NA	NA	NA	NA
+A	loading	F18	Albumin	Albumin	inflammation_other	-0.0666947378957272	-0.07492878087299416	NA	NA	NA	NA	NA
+A	loading	F26	Albumin	Albumin	inflammation_other	-1.65505320165013e-06	-1.8045174297257447e-06	NA	NA	NA	NA	NA
+A	loading	F23	Albumin	Albumin	inflammation_other	2.80352673672331e-07	2.896698821002033e-07	NA	NA	NA	NA	NA
+A	loading	F22	Albumin	Albumin	inflammation_other	-0.0198455594483674	-0.02029325420267339	NA	NA	NA	NA	NA
+A	loading	F25	Albumin	Albumin	inflammation_other	-2.34017802043938e-08	-2.357975074953834e-08	NA	NA	NA	NA	NA
+A	loading	F15	Creatinine	Creatinine	inflammation_other	-3.61761015013992e-06	-1.1933787404113473e-05	NA	NA	NA	NA	NA
+A	loading	F9	Creatinine	Creatinine	inflammation_other	0.0520026022769997	0.1718691044327467	NA	NA	NA	NA	NA
+A	loading	F14	Creatinine	Creatinine	inflammation_other	0.0733603621300727	0.17695974079161925	NA	NA	NA	NA	NA
+A	loading	F17	Creatinine	Creatinine	inflammation_other	3.37270673196428e-07	4.367454419947984e-07	NA	NA	NA	NA	NA
+A	loading	F13	Creatinine	Creatinine	inflammation_other	-1.8813220917813e-06	-2.6509530908160087e-06	NA	NA	NA	NA	NA
+A	loading	F11	Creatinine	Creatinine	inflammation_other	-0.0287520422377816	-0.03513649854373785	NA	NA	NA	NA	NA
+A	loading	F24	Creatinine	Creatinine	inflammation_other	-0.116983606116128	-0.1356041650521065	NA	NA	NA	NA	NA
+A	loading	F20	Creatinine	Creatinine	inflammation_other	2.06296791906499e-06	2.3557796224447435e-06	NA	NA	NA	NA	NA
+A	loading	F18	Creatinine	Creatinine	inflammation_other	-0.0468467965147383	-0.052630439243085345	NA	NA	NA	NA	NA
+A	loading	F26	Creatinine	Creatinine	inflammation_other	1.68411399650937e-07	1.8362026412904833e-07	NA	NA	NA	NA	NA
+A	loading	F23	Creatinine	Creatinine	inflammation_other	0.108092683168798	0.11168502293648913	NA	NA	NA	NA	NA
+A	loading	F22	Creatinine	Creatinine	inflammation_other	-0.0626413916142545	-0.06405451491274815	NA	NA	NA	NA	NA
+A	loading	F25	Creatinine	Creatinine	inflammation_other	-4.97413964272981e-07	-5.011967976134782e-07	NA	NA	NA	NA	NA
+A	loading	F15	GlycA	Glycoprotein acetyls	inflammation_other	-0.00901662146162866	-0.02974406836576393	NA	NA	NA	NA	NA
+A	loading	F9	GlycA	Glycoprotein acetyls	inflammation_other	0.0255864291854387	0.08456339639138068	NA	NA	NA	NA	NA
+A	loading	F14	GlycA	Glycoprotein acetyls	inflammation_other	-0.114156674965775	-0.27536853724575056	NA	NA	NA	NA	NA
+A	loading	F17	GlycA	Glycoprotein acetyls	inflammation_other	-3.30592392412435e-07	-4.280974659785982e-07	NA	NA	NA	NA	NA
+A	loading	F13	GlycA	Glycoprotein acetyls	inflammation_other	-3.79423099023888e-06	-5.346414850909488e-06	NA	NA	NA	NA	NA
+A	loading	F11	GlycA	Glycoprotein acetyls	inflammation_other	-0.818295602277817	-1.0	NA	NA	NA	NA	NA
+A	loading	F24	GlycA	Glycoprotein acetyls	inflammation_other	-1.5969576677218e-05	-1.851149219489813e-05	NA	NA	NA	NA	NA
+A	loading	F20	GlycA	Glycoprotein acetyls	inflammation_other	-2.75754165047927e-08	-3.148939141615929e-08	NA	NA	NA	NA	NA
+A	loading	F18	GlycA	Glycoprotein acetyls	inflammation_other	-2.91375438854661e-06	-3.2734826012581265e-06	NA	NA	NA	NA	NA
+A	loading	F26	GlycA	Glycoprotein acetyls	inflammation_other	-1.15120657220202e-06	-1.255169515204817e-06	NA	NA	NA	NA	NA
+A	loading	F23	GlycA	Glycoprotein acetyls	inflammation_other	0.0570704224709836	0.05896709431029111	NA	NA	NA	NA	NA
+A	loading	F22	GlycA	Glycoprotein acetyls	inflammation_other	-8.59145352008051e-07	-8.785267591324552e-07	NA	NA	NA	NA	NA
+A	loading	F25	GlycA	Glycoprotein acetyls	inflammation_other	7.41436653581552e-07	7.470752795440025e-07	NA	NA	NA	NA	NA
+A	loading	F15	HDL_C	HDL cholesterol	inflammation_other	0.0552900763325786	0.18239113368384338	NA	NA	NA	NA	NA
+A	loading	F9	HDL_C	HDL cholesterol	inflammation_other	0.0400297941765966	0.13229885764393273	NA	NA	NA	NA	NA
+A	loading	F14	HDL_C	HDL cholesterol	inflammation_other	0.145921031951319	0.35199046515564697	NA	NA	NA	NA	NA
+A	loading	F17	HDL_C	HDL cholesterol	inflammation_other	-1.86244353861835e-07	-2.4117534998084214e-07	NA	NA	NA	NA	NA
+A	loading	F13	HDL_C	HDL cholesterol	inflammation_other	-7.16388181241298e-06	-1.0094557819642327e-05	NA	NA	NA	NA	NA
+A	loading	F11	HDL_C	HDL cholesterol	inflammation_other	-0.0504857313120097	-0.061696202657666795	NA	NA	NA	NA	NA
+A	loading	F24	HDL_C	HDL cholesterol	inflammation_other	-0.0113113353145685	-0.01311178747074887	NA	NA	NA	NA	NA
+A	loading	F20	HDL_C	HDL cholesterol	inflammation_other	1.41171458734771e-06	1.61208927528502e-06	NA	NA	NA	NA	NA
+A	loading	F18	HDL_C	HDL cholesterol	inflammation_other	-4.56178332809334e-06	-5.124974985510542e-06	NA	NA	NA	NA	NA
+A	loading	F26	HDL_C	HDL cholesterol	inflammation_other	-2.0031103046159e-06	-2.1840068069949305e-06	NA	NA	NA	NA	NA
+A	loading	F23	HDL_C	HDL cholesterol	inflammation_other	-2.96830980124641e-06	-3.0669582668894837e-06	NA	NA	NA	NA	NA
+A	loading	F22	HDL_C	HDL cholesterol	inflammation_other	1.85885711667852e-07	1.9007909599801654e-07	NA	NA	NA	NA	NA
+A	loading	F25	HDL_C	HDL cholesterol	inflammation_other	-2.6447616073427e-07	-2.664875020122628e-07	NA	NA	NA	NA	NA
+A	loading	F15	LDL_C	LDL cholesterol	inflammation_other	0.220005488599517	0.7257550205024713	NA	NA	NA	NA	NA
+A	loading	F9	LDL_C	LDL cholesterol	inflammation_other	-0.302570973699049	-1.0	NA	NA	NA	NA	NA
+A	loading	F14	LDL_C	LDL cholesterol	inflammation_other	-0.102313793935435	-0.24680115976144756	NA	NA	NA	NA	NA
+A	loading	F17	LDL_C	LDL cholesterol	inflammation_other	1.66057106760052e-06	2.1503406685483625e-06	NA	NA	NA	NA	NA
+A	loading	F13	LDL_C	LDL cholesterol	inflammation_other	4.39562075105146e-05	6.193827450897464e-05	NA	NA	NA	NA	NA
+A	loading	F11	LDL_C	LDL cholesterol	inflammation_other	0.020644905132122	0.025229153223669545	NA	NA	NA	NA	NA
+A	loading	F24	LDL_C	LDL cholesterol	inflammation_other	-0.00115946953817057	-0.001344025063399847	NA	NA	NA	NA	NA
+A	loading	F20	LDL_C	LDL cholesterol	inflammation_other	3.46358775627377e-06	3.955199390825724e-06	NA	NA	NA	NA	NA
+A	loading	F18	LDL_C	LDL cholesterol	inflammation_other	1.15511680329578e-06	1.2977259761059487e-06	NA	NA	NA	NA	NA
+A	loading	F26	LDL_C	LDL cholesterol	inflammation_other	-9.82534410972504e-07	-1.071264940690411e-06	NA	NA	NA	NA	NA
+A	loading	F23	LDL_C	LDL cholesterol	inflammation_other	-5.24302875444479e-07	-5.417274967468549e-07	NA	NA	NA	NA	NA
+A	loading	F22	LDL_C	LDL cholesterol	inflammation_other	9.05160716868277e-07	9.255801817767914e-07	NA	NA	NA	NA	NA
+A	loading	F25	LDL_C	LDL cholesterol	inflammation_other	-5.28794502648087e-07	-5.32815984991898e-07	NA	NA	NA	NA	NA
+A	loading	F15	Remnant_C	Remnant cholesterol	inflammation_other	0.201145741205021	0.6635404073848878	NA	NA	NA	NA	NA
+A	loading	F9	Remnant_C	Remnant cholesterol	inflammation_other	-0.209375383356394	-0.691987670848587	NA	NA	NA	NA	NA
+A	loading	F14	Remnant_C	Remnant cholesterol	inflammation_other	-0.0792822685134349	-0.1912445533002318	NA	NA	NA	NA	NA
+A	loading	F17	Remnant_C	Remnant cholesterol	inflammation_other	-1.1627574457385e-08	-1.5057016661393563e-08	NA	NA	NA	NA	NA
+A	loading	F13	Remnant_C	Remnant cholesterol	inflammation_other	4.88714807620739e-06	6.88643393627015e-06	NA	NA	NA	NA	NA
+A	loading	F11	Remnant_C	Remnant cholesterol	inflammation_other	6.50479693276928e-05	7.949201871136119e-05	NA	NA	NA	NA	NA
+A	loading	F24	Remnant_C	Remnant cholesterol	inflammation_other	0.0215177386483292	0.02494276830823261	NA	NA	NA	NA	NA
+A	loading	F20	Remnant_C	Remnant cholesterol	inflammation_other	-2.23756775268307e-06	-2.555161651762068e-06	NA	NA	NA	NA	NA
+A	loading	F18	Remnant_C	Remnant cholesterol	inflammation_other	5.25686673137625e-07	5.905872454430302e-07	NA	NA	NA	NA	NA
+A	loading	F26	Remnant_C	Remnant cholesterol	inflammation_other	1.27796028529561e-06	1.39337007838417e-06	NA	NA	NA	NA	NA
+A	loading	F23	Remnant_C	Remnant cholesterol	inflammation_other	-4.89315543049471e-06	-5.055773993816061e-06	NA	NA	NA	NA	NA
+A	loading	F22	Remnant_C	Remnant cholesterol	inflammation_other	-4.71862906500459e-07	-4.825076327699021e-07	NA	NA	NA	NA	NA
+A	loading	F25	Remnant_C	Remnant cholesterol	inflammation_other	-3.68209053570161e-07	-3.7100928352782607e-07	NA	NA	NA	NA	NA
+A	loading	F15	Total_C	Total cholesterol	inflammation_other	0.21187886717547	0.6989468879610089	NA	NA	NA	NA	NA
+A	loading	F9	Total_C	Total cholesterol	inflammation_other	-0.227431227720886	-0.7516624114350756	NA	NA	NA	NA	NA
+A	loading	F14	Total_C	Total cholesterol	inflammation_other	-0.0405749726485021	-0.09787488003092354	NA	NA	NA	NA	NA
+A	loading	F17	Total_C	Total cholesterol	inflammation_other	3.37823751212916e-07	4.374616450980192e-07	NA	NA	NA	NA	NA
+A	loading	F13	Total_C	Total cholesterol	inflammation_other	-1.1180229694155e-05	-1.5753955472712597e-05	NA	NA	NA	NA	NA
+A	loading	F11	Total_C	Total cholesterol	inflammation_other	-3.0574294790691e-05	-3.7363386416331754e-05	NA	NA	NA	NA	NA
+A	loading	F24	Total_C	Total cholesterol	inflammation_other	0.000439668490543654	0.0005096515703294987	NA	NA	NA	NA	NA
+A	loading	F20	Total_C	Total cholesterol	inflammation_other	-6.03859270970701e-07	-6.895693104243086e-07	NA	NA	NA	NA	NA
+A	loading	F18	Total_C	Total cholesterol	inflammation_other	4.91023143283244e-07	5.516442026380026e-07	NA	NA	NA	NA	NA
+A	loading	F26	Total_C	Total cholesterol	inflammation_other	4.80762548533229e-07	5.241791608406407e-07	NA	NA	NA	NA	NA
+A	loading	F23	Total_C	Total cholesterol	inflammation_other	-5.16279181572339e-07	-5.334371443578229e-07	NA	NA	NA	NA	NA
+A	loading	F22	Total_C	Total cholesterol	inflammation_other	-3.12394743853783e-06	-3.1944203765570233e-06	NA	NA	NA	NA	NA
+A	loading	F25	Total_C	Total cholesterol	inflammation_other	-1.56953869573544e-07	-1.5814750379652095e-07	NA	NA	NA	NA	NA
+A	loading	F15	Total_CE	Total esterified cholesterol	inflammation_other	0.212481966819583	0.7009363955744986	NA	NA	NA	NA	NA
+A	loading	F9	Total_CE	Total esterified cholesterol	inflammation_other	-0.217145213271994	-0.7176670340096026	NA	NA	NA	NA	NA
+A	loading	F14	Total_CE	Total esterified cholesterol	inflammation_other	-0.0343187070484999	-0.0827835267884608	NA	NA	NA	NA	NA
+A	loading	F17	Total_CE	Total esterified cholesterol	inflammation_other	2.96571025819631e-07	3.8404182174181783e-07	NA	NA	NA	NA	NA
+A	loading	F13	Total_CE	Total esterified cholesterol	inflammation_other	-8.01668137100837e-06	-1.1296229577807053e-05	NA	NA	NA	NA	NA
+A	loading	F11	Total_CE	Total esterified cholesterol	inflammation_other	-6.25247319883381e-06	-7.640849078779545e-06	NA	NA	NA	NA	NA
+A	loading	F24	Total_CE	Total esterified cholesterol	inflammation_other	0.0016444194112507	0.0019061655616665512	NA	NA	NA	NA	NA
+A	loading	F20	Total_CE	Total esterified cholesterol	inflammation_other	1.05987209517824e-06	1.2103072767851682e-06	NA	NA	NA	NA	NA
+A	loading	F18	Total_CE	Total esterified cholesterol	inflammation_other	1.22039782658218e-06	1.3710665070581645e-06	NA	NA	NA	NA	NA
+A	loading	F26	Total_CE	Total esterified cholesterol	inflammation_other	5.75013645843205e-07	6.269418682249455e-07	NA	NA	NA	NA	NA
+A	loading	F23	Total_CE	Total esterified cholesterol	inflammation_other	-1.9433108760334e-07	-2.007894645594008e-07	NA	NA	NA	NA	NA
+A	loading	F22	Total_CE	Total esterified cholesterol	inflammation_other	-2.31870514735052e-06	-2.371012674077186e-06	NA	NA	NA	NA	NA
+A	loading	F25	Total_CE	Total esterified cholesterol	inflammation_other	-1.51635938375179e-07	-1.527891297298721e-07	NA	NA	NA	NA	NA
+A	loading	F15	Total_FC	Total free cholesterol	inflammation_other	0.206684143797362	0.6818105128833568	NA	NA	NA	NA	NA
+A	loading	F9	Total_FC	Total free cholesterol	inflammation_other	-0.248806540146635	-0.8223080261297947	NA	NA	NA	NA	NA
+A	loading	F14	Total_FC	Total free cholesterol	inflammation_other	-0.0548088331327713	-0.13220977408848444	NA	NA	NA	NA	NA
+A	loading	F17	Total_FC	Total free cholesterol	inflammation_other	4.01653734813646e-07	5.20117673670019e-07	NA	NA	NA	NA	NA
+A	loading	F13	Total_FC	Total free cholesterol	inflammation_other	-1.51230552761488e-05	-2.130975355151916e-05	NA	NA	NA	NA	NA
+A	loading	F11	Total_FC	Total free cholesterol	inflammation_other	-0.000171308800605374	-0.00020934830900779238	NA	NA	NA	NA	NA
+A	loading	F24	Total_FC	Total free cholesterol	inflammation_other	4.11072985066964e-05	4.76504450206016e-05	NA	NA	NA	NA	NA
+A	loading	F20	Total_FC	Total free cholesterol	inflammation_other	-9.38763474971784e-06	-1.0720088490936318e-05	NA	NA	NA	NA	NA
+A	loading	F18	Total_FC	Total free cholesterol	inflammation_other	-1.08205274212836e-06	-1.2156415238443053e-06	NA	NA	NA	NA	NA
+A	loading	F26	Total_FC	Total free cholesterol	inflammation_other	4.85180274057752e-07	5.28995841477129e-07	NA	NA	NA	NA	NA
+A	loading	F23	Total_FC	Total free cholesterol	inflammation_other	-1.70368065778478e-06	-1.760300584305145e-06	NA	NA	NA	NA	NA
+A	loading	F22	Total_FC	Total free cholesterol	inflammation_other	-3.20349021422973e-06	-3.2757575528307185e-06	NA	NA	NA	NA	NA
+A	loading	F25	Total_FC	Total free cholesterol	inflammation_other	-1.80556324268585e-07	-1.819294551662652e-07	NA	NA	NA	NA	NA
+A	loading	F15	Total_TG	Total triglycerides	inflammation_other	0.0637892258284493	0.2104281633774869	NA	NA	NA	NA	NA
+A	loading	F9	Total_TG	Total triglycerides	inflammation_other	0.0480742717693221	0.158885934039195	NA	NA	NA	NA	NA
+A	loading	F14	Total_TG	Total triglycerides	inflammation_other	-0.131374459031612	-0.31690124669304465	NA	NA	NA	NA	NA
+A	loading	F17	Total_TG	Total triglycerides	inflammation_other	1.48200248477469e-07	1.9191049850733553e-07	NA	NA	NA	NA	NA
+A	loading	F13	Total_TG	Total triglycerides	inflammation_other	3.15141447745803e-06	4.440628208192458e-06	NA	NA	NA	NA	NA
+A	loading	F11	Total_TG	Total triglycerides	inflammation_other	0.0763083217072543	0.09325275792127147	NA	NA	NA	NA	NA
+A	loading	F24	Total_TG	Total triglycerides	inflammation_other	-0.0188952967096292	-0.02190290604631851	NA	NA	NA	NA	NA
+A	loading	F20	Total_TG	Total triglycerides	inflammation_other	-7.22710278422516e-06	-8.252896863324875e-06	NA	NA	NA	NA	NA
+A	loading	F18	Total_TG	Total triglycerides	inflammation_other	-7.10788561186889e-06	-7.985415645754449e-06	NA	NA	NA	NA	NA
+A	loading	F26	Total_TG	Total triglycerides	inflammation_other	-4.04616444580272e-06	-4.4115646909162566e-06	NA	NA	NA	NA	NA
+A	loading	F23	Total_TG	Total triglycerides	inflammation_other	-1.21265049909046e-06	-1.2529515859400703e-06	NA	NA	NA	NA	NA
+A	loading	F22	Total_TG	Total triglycerides	inflammation_other	9.19504683876625e-07	9.402477334541573e-07	NA	NA	NA	NA	NA
+A	loading	F25	Total_TG	Total triglycerides	inflammation_other	1.71630767044192e-07	1.7293601907662906e-07	NA	NA	NA	NA	NA
+A	loading	F15	VLDL_C	VLDL cholesterol	inflammation_other	0.170302155210282	0.5617934576679675	NA	NA	NA	NA	NA
+A	loading	F9	VLDL_C	VLDL cholesterol	inflammation_other	-0.126616329745616	-0.4184681967264792	NA	NA	NA	NA	NA
+A	loading	F14	VLDL_C	VLDL cholesterol	inflammation_other	-0.124030504288987	-0.29918617155020316	NA	NA	NA	NA	NA
+A	loading	F17	VLDL_C	VLDL cholesterol	inflammation_other	-8.35784425937816e-07	-1.0822910722094952e-06	NA	NA	NA	NA	NA
+A	loading	F13	VLDL_C	VLDL cholesterol	inflammation_other	3.34660895813457e-05	4.71567489696533e-05	NA	NA	NA	NA	NA
+A	loading	F11	VLDL_C	VLDL cholesterol	inflammation_other	0.0140395080349429	0.017157012693044378	NA	NA	NA	NA	NA
+A	loading	F24	VLDL_C	VLDL cholesterol	inflammation_other	0.0305744124753804	0.035441014457760635	NA	NA	NA	NA	NA
+A	loading	F20	VLDL_C	VLDL cholesterol	inflammation_other	3.56475149517218e-06	4.07072201840745e-06	NA	NA	NA	NA	NA
+A	loading	F18	VLDL_C	VLDL cholesterol	inflammation_other	1.78350459812916e-06	2.003693686121506e-06	NA	NA	NA	NA	NA
+A	loading	F26	VLDL_C	VLDL cholesterol	inflammation_other	-9.92999234407761e-07	-1.0826748193995038e-06	NA	NA	NA	NA	NA
+A	loading	F23	VLDL_C	VLDL cholesterol	inflammation_other	-1.27870526397222e-06	-1.3212016072607855e-06	NA	NA	NA	NA	NA
+A	loading	F22	VLDL_C	VLDL cholesterol	inflammation_other	-7.7500312147359e-07	-7.924863691974547e-07	NA	NA	NA	NA	NA
+A	loading	F25	VLDL_C	VLDL cholesterol	inflammation_other	4.6881266054067e-07	4.7237798095810647e-07	NA	NA	NA	NA	NA
+B	factor_metric	F9	LDL_C	NA	NA	NA	NA	0.0915491941251904	20.9257521561618	0.233170905345142	Multi-trait	NA
+B	factor_metric	F11	GlycA	NA	NA	NA	NA	0.669607692707216	2.18044914935822	0.781846747885475	Multi-trait	NA
+B	factor_metric	F13	Lactate	NA	NA	NA	NA	0.503642330517894	3.03061421149981	0.858090192196665	Multi-trait	NA
+B	factor_metric	F14	Gln	NA	NA	NA	NA	0.171859674937131	17.2868897289567	0.323806515957416	Multi-trait	NA
+B	factor_metric	F15	LDL_size	NA	NA	NA	NA	0.0918939528987466	24.8992920044485	0.202019857357328	Multi-trait	NA
+B	factor_metric	F17	Val	NA	NA	NA	NA	0.596348864238931	2.37807531185267	0.929495933494085	Multi-trait	NA
+B	factor_metric	F18	Tyr	NA	NA	NA	NA	0.792292978930421	1.57391036140622	0.894279483477964	Multi-trait	NA
+B	factor_metric	F20	Gln	NA	NA	NA	NA	0.766859191111445	1.65023633617499	0.929338147421138	Multi-trait	NA
+B	factor_metric	F22	Citrate	NA	NA	NA	NA	0.956364179472801	1.09184636450789	0.995279173438198	Single-trait	NA
+B	factor_metric	F23	His	NA	NA	NA	NA	0.93670474312299	1.13707302173235	0.991526750205847	Single-trait	NA
+B	factor_metric	F24	Albumin	NA	NA	NA	NA	0.744224480253433	1.77333621071087	0.874794869595875	Multi-trait	NA
+B	factor_metric	F25	Glucose	NA	NA	NA	NA	0.984961764717945	1.03052855721729	0.999999999870559	Single-trait	NA
+B	factor_metric	F26	Phe	NA	NA	NA	NA	0.841204824823891	1.37017128968245	0.995946357490444	Multi-trait	NA
+C	representative_loading	F9	LDL_C	LDL cholesterol	inflammation_other	-0.302570973699049	-1.0	NA	NA	NA	NA	1.0
+C	representative_loading	F9	ApoB	Apolipoprotein B	lipid_lipoprotein	-0.282342020960772	-0.9331431151806463	NA	NA	NA	NA	2.0
+C	representative_loading	F9	Total_FC	Total free cholesterol	inflammation_other	-0.248806540146635	-0.8223080261297947	NA	NA	NA	NA	3.0
+C	representative_loading	F9	Sphingomyelins	Sphingomyelins	lipid_lipoprotein	-0.245575035118584	-0.8116278706986751	NA	NA	NA	NA	4.0
+C	representative_loading	F9	Total_C	Total cholesterol	inflammation_other	-0.227431227720886	-0.7516624114350756	NA	NA	NA	NA	5.0
+C	representative_loading	F9	XS_VLDL_FC	Free cholesterol in very small VLDL	lipid_lipoprotein	-0.22287099906922	-0.7365908115525244	NA	NA	NA	NA	6.0
+C	representative_loading	F9	S_VLDL_FC	Free cholesterol in small VLDL	lipid_lipoprotein	-0.222774659682874	-0.7362724089471183	NA	NA	NA	NA	7.0
+C	representative_loading	F9	XS_VLDL_CE	Cholesteryl esters in very small VLDL	lipid_lipoprotein	-0.221981066702404	-0.7336495764567178	NA	NA	NA	NA	8.0
+C	representative_loading	F14	Gln	Glutamine	amino_acid	0.414559615661163	1.0	NA	NA	NA	NA	1.0
+C	representative_loading	F14	Ala	Alanine	amino_acid	0.312041503766913	0.7527059848057115	NA	NA	NA	NA	2.0
+C	representative_loading	F14	Tyr	Tyrosine	amino_acid	0.233617081882231	0.563530727684715	NA	NA	NA	NA	3.0
+C	representative_loading	F14	HDL_size	Average diameter for HDL particles	lipid_lipoprotein	0.220922511252752	0.5329089059975424	NA	NA	NA	NA	4.0
+C	representative_loading	F14	L_HDL_C	Cholesterol in large HDL	lipid_lipoprotein	0.205981271459499	0.4968676727736455	NA	NA	NA	NA	5.0
+C	representative_loading	F14	Albumin	Albumin	inflammation_other	0.196756748429409	0.4746162940054116	NA	NA	NA	NA	6.0
+C	representative_loading	F14	His	Histidine	amino_acid	0.196393669592701	0.47374047585286694	NA	NA	NA	NA	7.0
+C	representative_loading	F14	Glucose	Glucose	energy_ketone	0.173492065871567	0.4184972662975676	NA	NA	NA	NA	8.0
+C	representative_loading	F15	LDL_size	Average diameter for LDL particles	lipid_lipoprotein	0.303140153887186	1.0	NA	NA	NA	NA	1.0
+C	representative_loading	F15	ApoB	Apolipoprotein B	lipid_lipoprotein	0.242625906652128	0.800375349622675	NA	NA	NA	NA	2.0
+C	representative_loading	F15	S_VLDL_FC	Free cholesterol in small VLDL	lipid_lipoprotein	0.22640356419415	0.7468610188751384	NA	NA	NA	NA	3.0
+C	representative_loading	F15	XS_VLDL_FC	Free cholesterol in very small VLDL	lipid_lipoprotein	0.222399532518193	0.7336525025350461	NA	NA	NA	NA	4.0
+C	representative_loading	F15	XS_VLDL_CE	Cholesteryl esters in very small VLDL	lipid_lipoprotein	0.220795002205337	0.7283594712678879	NA	NA	NA	NA	5.0
+C	representative_loading	F15	LDL_C	LDL cholesterol	inflammation_other	0.220005488599517	0.7257550205024713	NA	NA	NA	NA	6.0
+C	representative_loading	F15	XS_VLDL_L	Total lipids in very small VLDL	lipid_lipoprotein	0.216143201915322	0.7130140931305324	NA	NA	NA	NA	7.0
+C	representative_loading	F15	Total_CE	Total esterified cholesterol	inflammation_other	0.212481966819583	0.7009363955744986	NA	NA	NA	NA	8.0
+C	representative_loading	F17	Val	Valine	amino_acid	-0.77223627487896	-1.0	NA	NA	NA	NA	1.0
+C	representative_loading	F17	Leu	Leucine	amino_acid	-0.46463852573385	-0.6016792280402488	NA	NA	NA	NA	2.0
+C	representative_loading	F17	Ile	Isoleucine	amino_acid	-0.342429714918298	-0.4434260938751813	NA	NA	NA	NA	3.0
+C	representative_loading	F17	Ala	Alanine	amino_acid	0.259133368600727	0.33556228453700065	NA	NA	NA	NA	4.0
+C	representative_loading	F17	Tyr	Tyrosine	amino_acid	0.0554272070358005	0.07177493318931197	NA	NA	NA	NA	5.0
+C	representative_loading	F17	Lactate	Lactate	energy_ketone	-0.0167865479046967	-0.021737580130288255	NA	NA	NA	NA	6.0
+C	representative_loading	F17	S_VLDL_CE	Cholesteryl esters in small VLDL	lipid_lipoprotein	-1.06843536495174e-05	-1.3835601870932652e-05	NA	NA	NA	NA	7.0
+C	representative_loading	F17	SFA	Saturated fatty acids	fatty_acid	-8.02064077257817e-06	-1.0386252282483522e-05	NA	NA	NA	NA	8.0

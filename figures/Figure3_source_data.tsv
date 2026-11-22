@@ -1,0 +1,544 @@
+panel	record_type	trait	biomarker_name	family	estimate	se	ci_low	ci_high	usable	reason	factor	entity	difference_factor_minus_trait	independent_abs_cosine	independent_congruence	karj_factor	is_unique_match	locked_class	comparison	null_mean	p_value	prespecified	k
+A	trait_rg	Ala	Alanine	amino_acid	0.8929	0.0271	0.839784	0.946016	True	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+A	trait_rg	Gln	Glutamine	amino_acid	0.9285	0.0325	0.8648	0.9922	True	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+A	trait_rg	His	Histidine	amino_acid	0.9434	0.0657	0.814628	1.072172	True	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+A	trait_rg	Ile	Isoleucine	amino_acid	0.8808	0.0332	0.815728	0.945872	True	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+A	trait_rg	Leu	Leucine	amino_acid	0.8562	0.0306	0.796224	0.916176	True	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+A	trait_rg	Phe	Phenylalanine	amino_acid	0.6627	0.058	0.54902	0.77638	True	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+A	trait_rg	Tyr	Tyrosine	amino_acid	0.949	0.0292	0.891768	1.006232	True	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+A	trait_rg	Val	Valine	amino_acid	0.8698	0.0343	0.802572	0.937028	True	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+A	trait_rg	DHA	Docosahexaenoic acid	fatty_acid	0.7993	0.0281	0.744224	0.854376	True	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+A	trait_rg	LA	Linoleic acid	fatty_acid	0.911	0.0257	0.860628	0.961372	True	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+A	trait_rg	MUFA	Monounsaturated fatty acids	fatty_acid	0.9372	0.0204	0.897216	0.977184	True	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+A	trait_rg	Omega_3	Omega-3 fatty acids	fatty_acid	0.8855	0.0238	0.838852	0.932148	True	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+A	trait_rg	Omega_6	Omega-6 fatty acids	fatty_acid	0.9023	0.0264	0.850556	0.954044	True	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+A	trait_rg	PUFA	Polyunsaturated fatty acids	fatty_acid	0.9015	0.0251	0.852304	0.950696	True	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+A	trait_rg	SFA	Saturated fatty acids	fatty_acid	0.9107	0.0268	0.858172	0.963228	True	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+A	trait_rg	Total_FA	Total fatty acids	fatty_acid	0.9246	0.0225	0.8805	0.9687	True	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+A	trait_rg	Albumin	Albumin	inflammation_other	0.7187	0.044	0.63246	0.80494	True	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+A	trait_rg	Creatinine	Creatinine	inflammation_other	0.9299	0.0185	0.89364	0.96616	True	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+A	trait_rg	Citrate	Citrate	energy_ketone	0.8991	0.0549	0.791496	1.006704	True	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+A	trait_rg	Glucose	Glucose	energy_ketone	0.7565	0.0527	0.653208	0.859792	True	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+A	trait_rg	Lactate	Lactate	energy_ketone	0.7976	0.0625	0.6751	0.9201	True	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+A	trait_rg	GlycA	Glycoprotein acetyls	inflammation_other	0.9369	0.0205	0.89672	0.97708	True	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+A	trait_rg	Acetate	Acetate	energy_ketone	0.6756	0.0742	0.530168	0.821032	True	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+A	trait_rg	Acetone	Acetone	energy_ketone	0.7884	0.0708	0.649632	0.927168	True	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+A	trait_rg	bOHbutyrate	3-Hydroxybutyrate	energy_ketone	0.8322	0.0755	0.68422	0.98018	True	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+A	trait_rg	ApoA1	Apolipoprotein A1	lipid_lipoprotein	0.945	0.0354	0.875616	1.014384	True	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+A	trait_rg	Total_CE	Total esterified cholesterol	lipid_lipoprotein	0.8491	0.0481	0.754824	0.943376	True	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+A	trait_rg	Cholines	Total cholines	lipid_lipoprotein	0.9036	0.0271	0.850484	0.956716	True	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+A	trait_rg	Phosphatidylc	Phosphatidylcholines	lipid_lipoprotein	0.9068	0.0266	0.854664	0.958936	True	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+A	trait_rg	Phosphoglyc	Phosphoglycerides	lipid_lipoprotein	0.9231	0.0265	0.87116	0.97504	True	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+A	trait_rg	Sphingomyelins	Sphingomyelins	lipid_lipoprotein	0.8288	0.0447	0.741188	0.916412	True	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+A	trait_rg	HDL_size	Average diameter for HDL particles	lipid_lipoprotein	0.9537	0.018	0.91842	0.98898	True	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+A	trait_rg	LDL_size	Average diameter for LDL particles	lipid_lipoprotein	0.4436	0.246	-0.03856	0.92576	False	rg/SE<2	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+A	trait_rg	VLDL_size	Average diameter for VLDL particles	lipid_lipoprotein	0.923	0.0208	0.882232	0.963768	True	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+A	trait_rg	L_HDL_C	Cholesterol in large HDL	lipid_lipoprotein	0.9824	0.0344	0.914976	1.049824	True	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+A	trait_rg	M_HDL_CE	Cholesteryl esters in medium HDL	lipid_lipoprotein	0.8904	0.037	0.81788	0.96292	True	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+A	trait_rg	M_HDL_TG	Triglycerides in medium HDL	lipid_lipoprotein	0.9	0.0326	0.836104	0.963896	True	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+A	trait_rg	S_HDL_C	Cholesterol in small HDL	lipid_lipoprotein	0.8048	0.0575	0.6921	0.9175	True	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+A	trait_rg	S_HDL_CE	Cholesteryl esters in small HDL	lipid_lipoprotein	0.6516	0.0727	0.509108	0.794092	True	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+A	trait_rg	S_HDL_L	Total lipids in small HDL	lipid_lipoprotein	0.8793	0.0285	0.82344	0.93516	True	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+A	trait_rg	S_HDL_TG	Triglycerides in small HDL	lipid_lipoprotein	0.9322	0.0231	0.886924	0.977476	True	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+A	trait_rg	M_LDL_TG	Triglycerides in medium LDL	lipid_lipoprotein	0.8191	0.0385	0.74364	0.89456	True	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+A	trait_rg	S_LDL_TG	Triglycerides in small LDL	lipid_lipoprotein	0.894	0.036	0.82344	0.96456	True	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+A	trait_rg	S_VLDL_CE	Cholesteryl esters in small VLDL	lipid_lipoprotein	0.9006	0.0352	0.831608	0.969592	True	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+A	trait_rg	S_VLDL_FC	Free cholesterol in small VLDL	lipid_lipoprotein	0.8882	0.0791	0.733164	1.043236	True	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+A	trait_rg	S_VLDL_L	Total lipids in small VLDL	lipid_lipoprotein	0.9479	0.0188	0.911052	0.984748	True	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+A	trait_rg	S_VLDL_TG	Triglycerides in small VLDL	lipid_lipoprotein	0.9524	0.0186	0.915944	0.988856	True	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+A	trait_rg	XL_HDL_TG	Triglycerides in very large HDL	lipid_lipoprotein	0.855	0.049	0.75896	0.95104	True	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+A	trait_rg	XS_VLDL_CE	Cholesteryl esters in very small VLDL	lipid_lipoprotein	0.7175	0.0857	0.549528	0.885472	True	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+A	trait_rg	XS_VLDL_FC	Free cholesterol in very small VLDL	lipid_lipoprotein	0.8497	0.0464	0.758756	0.940644	True	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+A	trait_rg	XS_VLDL_L	Total lipids in very small VLDL	lipid_lipoprotein	0.8743	0.0367	0.802368	0.946232	True	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+A	trait_rg	XS_VLDL_TG	Triglycerides in very small VLDL	lipid_lipoprotein	0.96	0.0204	0.920016	0.999984	True	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+A	trait_rg	ApoB	Apolipoprotein B	lipid_lipoprotein	0.876	0.0393	0.798972	0.953028	True	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+A	trait_rg	Remnant_C	Remnant cholesterol	lipid_lipoprotein	0.8565	0.0423	0.773592	0.939408	True	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+A	trait_rg	Total_C	Total cholesterol	lipid_lipoprotein	0.8603	0.0459	0.770336	0.950264	True	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+A	trait_rg	Total_TG	Total triglycerides	lipid_lipoprotein	0.9518	0.0186	0.915344	0.988256	True	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+A	trait_rg	HDL_C	HDL cholesterol	lipid_lipoprotein	0.9591	0.0216	0.916764	1.001436	True	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+A	trait_rg	LDL_C	LDL cholesterol	lipid_lipoprotein	0.8334	0.0577	0.720308	0.946492	True	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+A	trait_rg	VLDL_C	VLDL cholesterol	lipid_lipoprotein	0.9335	0.0233	0.887832	0.979168	True	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+A	trait_rg	Pyruvate	Pyruvate	energy_ketone	0.7471	0.0632	0.623228	0.870972	True	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+A	trait_rg	Total_FC	Total free cholesterol	lipid_lipoprotein	0.8673	0.0413	0.786352	0.948248	True	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+B	factor_trait_rg	LDL_C	NA	NA	0.824471	0.221419	0.39048976	1.25845224	True	NA	F9	Projected factor	-0.008929	0.7438008248	poor_to_borderline	NA	NA	NA	NA	NA	NA	NA	NA
+B	factor_trait_rg	LDL_C	NA	NA	0.8334	0.0577	0.720308	0.946492	True	NA	F9	Dominant metabolite	-0.008929	0.7438008248	poor_to_borderline	NA	NA	NA	NA	NA	NA	NA	NA
+B	factor_trait_rg	GlycA	NA	NA	0.669057	0.10878	0.4558482	0.8822658	True	NA	F11	Projected factor	-0.267843	0.1387132078	no_adequate_correspondence	NA	NA	NA	NA	NA	NA	NA	NA
+B	factor_trait_rg	GlycA	NA	NA	0.9369	0.0205	0.89672	0.97708	True	NA	F11	Dominant metabolite	-0.267843	0.1387132078	no_adequate_correspondence	NA	NA	NA	NA	NA	NA	NA	NA
+B	factor_trait_rg	Lactate	NA	NA	-5.44616	105.285	-211.80476	200.91244	False	NA	F13	Projected factor	-6.24376	0.02630795966	no_adequate_correspondence	NA	NA	NA	NA	NA	NA	NA	NA
+B	factor_trait_rg	Lactate	NA	NA	0.7976	0.0625	0.6751	0.9201	True	NA	F13	Dominant metabolite	-6.24376	0.02630795966	no_adequate_correspondence	NA	NA	NA	NA	NA	NA	NA	NA
+B	factor_trait_rg	Gln	NA	NA	0.883669	0.154806	0.58024924	1.18708876	True	NA	F14	Projected factor	-0.044831	0.3932206688	no_adequate_correspondence	NA	NA	NA	NA	NA	NA	NA	NA
+B	factor_trait_rg	Gln	NA	NA	0.9285	0.0325	0.8648	0.9922	True	NA	F14	Dominant metabolite	-0.044831	0.3932206688	no_adequate_correspondence	NA	NA	NA	NA	NA	NA	NA	NA
+B	factor_trait_rg	LDL_size	NA	NA	1.10469	7.30784	-13.2186764	15.4280564	False	NA	F15	Projected factor	0.66109	0.6995390253	no_adequate_correspondence	NA	NA	NA	NA	NA	NA	NA	NA
+B	factor_trait_rg	LDL_size	NA	NA	0.4436	0.246	-0.03856	0.92576	False	NA	F15	Dominant metabolite	0.66109	0.6995390253	no_adequate_correspondence	NA	NA	NA	NA	NA	NA	NA	NA
+B	factor_trait_rg	Val	NA	NA	0.808895	0.21173	0.3939042	1.2238858	True	NA	F17	Projected factor	-0.060905	0.9946864513	almost_identical	NA	NA	NA	NA	NA	NA	NA	NA
+B	factor_trait_rg	Val	NA	NA	0.8698	0.0343	0.802572	0.937028	True	NA	F17	Dominant metabolite	-0.060905	0.9946864513	almost_identical	NA	NA	NA	NA	NA	NA	NA	NA
+B	factor_trait_rg	Tyr	NA	NA	0.623598	3.91748	-7.0546628	8.3018588	False	NA	F18	Projected factor	-0.325402	0.8901094589	fair_similarity	NA	NA	NA	NA	NA	NA	NA	NA
+B	factor_trait_rg	Tyr	NA	NA	0.949	0.0292	0.891768	1.006232	True	NA	F18	Dominant metabolite	-0.325402	0.8901094589	fair_similarity	NA	NA	NA	NA	NA	NA	NA	NA
+B	factor_trait_rg	Gln	NA	NA	0.801481	0.191485	0.4261704	1.1767916	True	NA	F20	Projected factor	-0.127019	0.9349338037	fair_similarity	NA	NA	NA	NA	NA	NA	NA	NA
+B	factor_trait_rg	Gln	NA	NA	0.9285	0.0325	0.8648	0.9922	True	NA	F20	Dominant metabolite	-0.127019	0.9349338037	fair_similarity	NA	NA	NA	NA	NA	NA	NA	NA
+B	factor_trait_rg	Citrate	NA	NA	0.634499	0.228117	0.18738968	1.08160832	True	NA	F22	Projected factor	-0.264601	0.06264029016	no_adequate_correspondence	NA	NA	NA	NA	NA	NA	NA	NA
+B	factor_trait_rg	Citrate	NA	NA	0.8991	0.0549	0.791496	1.006704	True	NA	F22	Dominant metabolite	-0.264601	0.06264029016	no_adequate_correspondence	NA	NA	NA	NA	NA	NA	NA	NA
+B	factor_trait_rg	His	NA	NA	0.92681	0.217401	0.50070404	1.35291596	True	NA	F23	Projected factor	-0.01659	0.9678348805	almost_identical	NA	NA	NA	NA	NA	NA	NA	NA
+B	factor_trait_rg	His	NA	NA	0.9434	0.0657	0.814628	1.072172	True	NA	F23	Dominant metabolite	-0.01659	0.9678348805	almost_identical	NA	NA	NA	NA	NA	NA	NA	NA
+B	factor_trait_rg	Albumin	NA	NA	0.62494	0.0823905	0.46345462	0.78642538	True	NA	F24	Projected factor	-0.09376	0.09822751953	no_adequate_correspondence	NA	NA	NA	NA	NA	NA	NA	NA
+B	factor_trait_rg	Albumin	NA	NA	0.7187	0.044	0.63246	0.80494	True	NA	F24	Dominant metabolite	-0.09376	0.09822751953	no_adequate_correspondence	NA	NA	NA	NA	NA	NA	NA	NA
+B	factor_trait_rg	Glucose	NA	NA	0.751359	0.130363	0.49584752	1.00687048	True	NA	F25	Projected factor	-0.005141	0.04263168853	no_adequate_correspondence	NA	NA	NA	NA	NA	NA	NA	NA
+B	factor_trait_rg	Glucose	NA	NA	0.7565	0.0527	0.653208	0.859792	True	NA	F25	Dominant metabolite	-0.005141	0.04263168853	no_adequate_correspondence	NA	NA	NA	NA	NA	NA	NA	NA
+B	factor_trait_rg	Phe	NA	NA	0.667111	3.51834	-6.2288354	7.5630574	False	NA	F26	Projected factor	0.004411	0.4690153731	no_adequate_correspondence	NA	NA	NA	NA	NA	NA	NA	NA
+B	factor_trait_rg	Phe	NA	NA	0.6627	0.058	0.54902	0.77638	True	NA	F26	Dominant metabolite	0.004411	0.4690153731	no_adequate_correspondence	NA	NA	NA	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.0713461411108176	NA	NA	NA	NA	NA	F1	NA	NA	NA	NA	Karj_F1	False	Intercept-only	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.14414589039183562	NA	NA	NA	NA	NA	F2	NA	NA	NA	NA	Karj_F1	True	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.11143428090215803	NA	NA	NA	NA	NA	F3	NA	NA	NA	NA	Karj_F1	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.04667452245180091	NA	NA	NA	NA	NA	F4	NA	NA	NA	NA	Karj_F1	False	Intercept-only	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.07893906096699006	NA	NA	NA	NA	NA	F5	NA	NA	NA	NA	Karj_F1	False	Watch	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.015314526517656822	NA	NA	NA	NA	NA	F6	NA	NA	NA	NA	Karj_F1	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.03041792386302563	NA	NA	NA	NA	NA	F7	NA	NA	NA	NA	Karj_F1	False	Watch	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.05627750792079478	NA	NA	NA	NA	NA	F8	NA	NA	NA	NA	Karj_F1	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.009362332678780522	NA	NA	NA	NA	NA	F9	NA	NA	NA	NA	Karj_F1	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.03131832237480223	NA	NA	NA	NA	NA	F10	NA	NA	NA	NA	Karj_F1	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.060808637686556026	NA	NA	NA	NA	NA	F11	NA	NA	NA	NA	Karj_F1	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.01920738720529253	NA	NA	NA	NA	NA	F12	NA	NA	NA	NA	Karj_F1	False	Intercept-only	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.0068462137386503235	NA	NA	NA	NA	NA	F13	NA	NA	NA	NA	Karj_F1	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.015593766822491896	NA	NA	NA	NA	NA	F14	NA	NA	NA	NA	Karj_F1	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.0023312857655247918	NA	NA	NA	NA	NA	F15	NA	NA	NA	NA	Karj_F1	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.058816399017677504	NA	NA	NA	NA	NA	F16	NA	NA	NA	NA	Karj_F1	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.01632942938127177	NA	NA	NA	NA	NA	F17	NA	NA	NA	NA	Karj_F1	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.0039128378493427565	NA	NA	NA	NA	NA	F18	NA	NA	NA	NA	Karj_F1	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.014232397546197938	NA	NA	NA	NA	NA	F19	NA	NA	NA	NA	Karj_F1	False	Intercept-only	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.0021096230343474603	NA	NA	NA	NA	NA	F20	NA	NA	NA	NA	Karj_F1	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.005286823427788744	NA	NA	NA	NA	NA	F21	NA	NA	NA	NA	Karj_F1	False	Watch	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.00012295834728933902	NA	NA	NA	NA	NA	F22	NA	NA	NA	NA	Karj_F1	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.01254381639180768	NA	NA	NA	NA	NA	F23	NA	NA	NA	NA	Karj_F1	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.0556666942559091	NA	NA	NA	NA	NA	F24	NA	NA	NA	NA	Karj_F1	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.01763118803348528	NA	NA	NA	NA	NA	F25	NA	NA	NA	NA	Karj_F1	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.0024673735039056656	NA	NA	NA	NA	NA	F26	NA	NA	NA	NA	Karj_F1	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.022949275126500336	NA	NA	NA	NA	NA	F27	NA	NA	NA	NA	Karj_F1	False	Watch	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.018317705996747768	NA	NA	NA	NA	NA	F28	NA	NA	NA	NA	Karj_F1	False	Intercept-only	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.03214495554801945	NA	NA	NA	NA	NA	F29	NA	NA	NA	NA	Karj_F1	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.11183558378252204	NA	NA	NA	NA	NA	F30	NA	NA	NA	NA	Karj_F1	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.1302418666860515	NA	NA	NA	NA	NA	F1	NA	NA	NA	NA	Karj_F2	False	Intercept-only	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.0970752529287032	NA	NA	NA	NA	NA	F2	NA	NA	NA	NA	Karj_F2	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.24695430715728278	NA	NA	NA	NA	NA	F3	NA	NA	NA	NA	Karj_F2	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.04864529203525086	NA	NA	NA	NA	NA	F4	NA	NA	NA	NA	Karj_F2	False	Intercept-only	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.10310545726172557	NA	NA	NA	NA	NA	F5	NA	NA	NA	NA	Karj_F2	False	Watch	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.05853942132713939	NA	NA	NA	NA	NA	F6	NA	NA	NA	NA	Karj_F2	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.20132840654159845	NA	NA	NA	NA	NA	F7	NA	NA	NA	NA	Karj_F2	True	Watch	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.028814047953154818	NA	NA	NA	NA	NA	F8	NA	NA	NA	NA	Karj_F2	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.12829445612260054	NA	NA	NA	NA	NA	F9	NA	NA	NA	NA	Karj_F2	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.008218718221537906	NA	NA	NA	NA	NA	F10	NA	NA	NA	NA	Karj_F2	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.1011983197096893	NA	NA	NA	NA	NA	F11	NA	NA	NA	NA	Karj_F2	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.02256617511998483	NA	NA	NA	NA	NA	F12	NA	NA	NA	NA	Karj_F2	False	Intercept-only	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.016701077542422095	NA	NA	NA	NA	NA	F13	NA	NA	NA	NA	Karj_F2	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.03928417542746425	NA	NA	NA	NA	NA	F14	NA	NA	NA	NA	Karj_F2	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.07497161158366493	NA	NA	NA	NA	NA	F15	NA	NA	NA	NA	Karj_F2	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.06582042120566228	NA	NA	NA	NA	NA	F16	NA	NA	NA	NA	Karj_F2	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.010697103512088347	NA	NA	NA	NA	NA	F17	NA	NA	NA	NA	Karj_F2	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.015385282212800389	NA	NA	NA	NA	NA	F18	NA	NA	NA	NA	Karj_F2	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.0021751109870859096	NA	NA	NA	NA	NA	F19	NA	NA	NA	NA	Karj_F2	False	Intercept-only	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.015700125483327262	NA	NA	NA	NA	NA	F20	NA	NA	NA	NA	Karj_F2	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.0071542982494336264	NA	NA	NA	NA	NA	F21	NA	NA	NA	NA	Karj_F2	False	Watch	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.002075889678016364	NA	NA	NA	NA	NA	F22	NA	NA	NA	NA	Karj_F2	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.0029824872990658717	NA	NA	NA	NA	NA	F23	NA	NA	NA	NA	Karj_F2	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.09822751952934133	NA	NA	NA	NA	NA	F24	NA	NA	NA	NA	Karj_F2	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.00012936730860016915	NA	NA	NA	NA	NA	F25	NA	NA	NA	NA	Karj_F2	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.006001668566848882	NA	NA	NA	NA	NA	F26	NA	NA	NA	NA	Karj_F2	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.07328695197216999	NA	NA	NA	NA	NA	F27	NA	NA	NA	NA	Karj_F2	False	Watch	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.021090234336597874	NA	NA	NA	NA	NA	F28	NA	NA	NA	NA	Karj_F2	False	Intercept-only	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.09527856064950992	NA	NA	NA	NA	NA	F29	NA	NA	NA	NA	Karj_F2	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.018445483457099086	NA	NA	NA	NA	NA	F30	NA	NA	NA	NA	Karj_F2	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.16432163090115584	NA	NA	NA	NA	NA	F1	NA	NA	NA	NA	Karj_F3	True	Intercept-only	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.11948441545441774	NA	NA	NA	NA	NA	F2	NA	NA	NA	NA	Karj_F3	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.023478569010712325	NA	NA	NA	NA	NA	F3	NA	NA	NA	NA	Karj_F3	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.03842266145272778	NA	NA	NA	NA	NA	F4	NA	NA	NA	NA	Karj_F3	False	Intercept-only	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.24935468406746897	NA	NA	NA	NA	NA	F5	NA	NA	NA	NA	Karj_F3	False	Watch	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.01289648202834126	NA	NA	NA	NA	NA	F6	NA	NA	NA	NA	Karj_F3	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.03388704823707561	NA	NA	NA	NA	NA	F7	NA	NA	NA	NA	Karj_F3	False	Watch	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.007843485963912045	NA	NA	NA	NA	NA	F8	NA	NA	NA	NA	Karj_F3	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.04877697513743283	NA	NA	NA	NA	NA	F9	NA	NA	NA	NA	Karj_F3	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.023415234401709922	NA	NA	NA	NA	NA	F10	NA	NA	NA	NA	Karj_F3	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.05126929268664661	NA	NA	NA	NA	NA	F11	NA	NA	NA	NA	Karj_F3	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.0026237712854981846	NA	NA	NA	NA	NA	F12	NA	NA	NA	NA	Karj_F3	False	Intercept-only	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.0016198467374740214	NA	NA	NA	NA	NA	F13	NA	NA	NA	NA	Karj_F3	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.02129721508619748	NA	NA	NA	NA	NA	F14	NA	NA	NA	NA	Karj_F3	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.047627944630069696	NA	NA	NA	NA	NA	F15	NA	NA	NA	NA	Karj_F3	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.0060648177550911495	NA	NA	NA	NA	NA	F16	NA	NA	NA	NA	Karj_F3	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.039068892834262785	NA	NA	NA	NA	NA	F17	NA	NA	NA	NA	Karj_F3	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.008671957237566377	NA	NA	NA	NA	NA	F18	NA	NA	NA	NA	Karj_F3	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.012951061848027124	NA	NA	NA	NA	NA	F19	NA	NA	NA	NA	Karj_F3	False	Intercept-only	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.017695584948027344	NA	NA	NA	NA	NA	F20	NA	NA	NA	NA	Karj_F3	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.0018350021434661865	NA	NA	NA	NA	NA	F21	NA	NA	NA	NA	Karj_F3	False	Watch	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.0010704607199474702	NA	NA	NA	NA	NA	F22	NA	NA	NA	NA	Karj_F3	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.01792570214830646	NA	NA	NA	NA	NA	F23	NA	NA	NA	NA	Karj_F3	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.05390548174384057	NA	NA	NA	NA	NA	F24	NA	NA	NA	NA	Karj_F3	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.014960369240775985	NA	NA	NA	NA	NA	F25	NA	NA	NA	NA	Karj_F3	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.04965298113745998	NA	NA	NA	NA	NA	F26	NA	NA	NA	NA	Karj_F3	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.03754790976492841	NA	NA	NA	NA	NA	F27	NA	NA	NA	NA	Karj_F3	False	Watch	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.05049774860533549	NA	NA	NA	NA	NA	F28	NA	NA	NA	NA	Karj_F3	False	Intercept-only	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.058629356453379765	NA	NA	NA	NA	NA	F29	NA	NA	NA	NA	Karj_F3	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.08146360956791424	NA	NA	NA	NA	NA	F30	NA	NA	NA	NA	Karj_F3	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.05845051835838257	NA	NA	NA	NA	NA	F1	NA	NA	NA	NA	Karj_F4	False	Intercept-only	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.14031899772954498	NA	NA	NA	NA	NA	F2	NA	NA	NA	NA	Karj_F4	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.3579457863264979	NA	NA	NA	NA	NA	F3	NA	NA	NA	NA	Karj_F4	True	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.08002335003749514	NA	NA	NA	NA	NA	F4	NA	NA	NA	NA	Karj_F4	False	Intercept-only	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.024530335300538476	NA	NA	NA	NA	NA	F5	NA	NA	NA	NA	Karj_F4	False	Watch	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.1542680523478786	NA	NA	NA	NA	NA	F6	NA	NA	NA	NA	Karj_F4	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.09108562475762105	NA	NA	NA	NA	NA	F7	NA	NA	NA	NA	Karj_F4	False	Watch	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.004042257453309116	NA	NA	NA	NA	NA	F8	NA	NA	NA	NA	Karj_F4	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.0320004161253873	NA	NA	NA	NA	NA	F9	NA	NA	NA	NA	Karj_F4	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.1152837250820587	NA	NA	NA	NA	NA	F10	NA	NA	NA	NA	Karj_F4	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.13871320778661017	NA	NA	NA	NA	NA	F11	NA	NA	NA	NA	Karj_F4	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.0049372758771146705	NA	NA	NA	NA	NA	F12	NA	NA	NA	NA	Karj_F4	False	Intercept-only	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.01891750410811606	NA	NA	NA	NA	NA	F13	NA	NA	NA	NA	Karj_F4	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.06192019929150767	NA	NA	NA	NA	NA	F14	NA	NA	NA	NA	Karj_F4	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.12239044219533232	NA	NA	NA	NA	NA	F15	NA	NA	NA	NA	Karj_F4	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.07020724639284062	NA	NA	NA	NA	NA	F16	NA	NA	NA	NA	Karj_F4	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.07927386773335912	NA	NA	NA	NA	NA	F17	NA	NA	NA	NA	Karj_F4	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.008651179419314273	NA	NA	NA	NA	NA	F18	NA	NA	NA	NA	Karj_F4	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.024815896260938844	NA	NA	NA	NA	NA	F19	NA	NA	NA	NA	Karj_F4	False	Intercept-only	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.012279320082534496	NA	NA	NA	NA	NA	F20	NA	NA	NA	NA	Karj_F4	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.0028125251199996766	NA	NA	NA	NA	NA	F21	NA	NA	NA	NA	Karj_F4	False	Watch	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.016182105410857336	NA	NA	NA	NA	NA	F22	NA	NA	NA	NA	Karj_F4	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.0211284370935554	NA	NA	NA	NA	NA	F23	NA	NA	NA	NA	Karj_F4	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.03347241707177556	NA	NA	NA	NA	NA	F24	NA	NA	NA	NA	Karj_F4	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.021660092047128775	NA	NA	NA	NA	NA	F25	NA	NA	NA	NA	Karj_F4	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.02880867751473047	NA	NA	NA	NA	NA	F26	NA	NA	NA	NA	Karj_F4	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.004078900260666363	NA	NA	NA	NA	NA	F27	NA	NA	NA	NA	Karj_F4	False	Watch	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.20995593664653434	NA	NA	NA	NA	NA	F28	NA	NA	NA	NA	Karj_F4	False	Intercept-only	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.043757313412103205	NA	NA	NA	NA	NA	F29	NA	NA	NA	NA	Karj_F4	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.14049828576392473	NA	NA	NA	NA	NA	F30	NA	NA	NA	NA	Karj_F4	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.07238879255040093	NA	NA	NA	NA	NA	F1	NA	NA	NA	NA	Karj_F5	False	Intercept-only	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.2556589689518027	NA	NA	NA	NA	NA	F2	NA	NA	NA	NA	Karj_F5	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.3606490226179807	NA	NA	NA	NA	NA	F3	NA	NA	NA	NA	Karj_F5	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.08138043827596847	NA	NA	NA	NA	NA	F4	NA	NA	NA	NA	Karj_F5	False	Intercept-only	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.3601061045483356	NA	NA	NA	NA	NA	F5	NA	NA	NA	NA	Karj_F5	True	Watch	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.04949610631768148	NA	NA	NA	NA	NA	F6	NA	NA	NA	NA	Karj_F5	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.07428030729695134	NA	NA	NA	NA	NA	F7	NA	NA	NA	NA	Karj_F5	False	Watch	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.08573300304949145	NA	NA	NA	NA	NA	F8	NA	NA	NA	NA	Karj_F5	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.09612091054000581	NA	NA	NA	NA	NA	F9	NA	NA	NA	NA	Karj_F5	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.0527569200754083	NA	NA	NA	NA	NA	F10	NA	NA	NA	NA	Karj_F5	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.06211154595565306	NA	NA	NA	NA	NA	F11	NA	NA	NA	NA	Karj_F5	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.03592890666464213	NA	NA	NA	NA	NA	F12	NA	NA	NA	NA	Karj_F5	False	Intercept-only	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.02630795966074361	NA	NA	NA	NA	NA	F13	NA	NA	NA	NA	Karj_F5	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.014000821021232741	NA	NA	NA	NA	NA	F14	NA	NA	NA	NA	Karj_F5	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.024286935690616802	NA	NA	NA	NA	NA	F15	NA	NA	NA	NA	Karj_F5	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.09481865544274712	NA	NA	NA	NA	NA	F16	NA	NA	NA	NA	Karj_F5	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.05865064698465044	NA	NA	NA	NA	NA	F17	NA	NA	NA	NA	Karj_F5	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.030753029922652983	NA	NA	NA	NA	NA	F18	NA	NA	NA	NA	Karj_F5	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.004314391257015234	NA	NA	NA	NA	NA	F19	NA	NA	NA	NA	Karj_F5	False	Intercept-only	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.02269548746515658	NA	NA	NA	NA	NA	F20	NA	NA	NA	NA	Karj_F5	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.006815119881718313	NA	NA	NA	NA	NA	F21	NA	NA	NA	NA	Karj_F5	False	Watch	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.006226485591599152	NA	NA	NA	NA	NA	F22	NA	NA	NA	NA	Karj_F5	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.022352764148662628	NA	NA	NA	NA	NA	F23	NA	NA	NA	NA	Karj_F5	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.08348352245799655	NA	NA	NA	NA	NA	F24	NA	NA	NA	NA	Karj_F5	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.011112107324494677	NA	NA	NA	NA	NA	F25	NA	NA	NA	NA	Karj_F5	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.048547451753967075	NA	NA	NA	NA	NA	F26	NA	NA	NA	NA	Karj_F5	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.07868541412402698	NA	NA	NA	NA	NA	F27	NA	NA	NA	NA	Karj_F5	False	Watch	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.01869802984328276	NA	NA	NA	NA	NA	F28	NA	NA	NA	NA	Karj_F5	False	Intercept-only	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.015421144043077713	NA	NA	NA	NA	NA	F29	NA	NA	NA	NA	Karj_F5	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.09030023383891428	NA	NA	NA	NA	NA	F30	NA	NA	NA	NA	Karj_F5	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.673806368365316	NA	NA	NA	NA	NA	F1	NA	NA	NA	NA	Karj_F6	False	Intercept-only	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.023161903535380016	NA	NA	NA	NA	NA	F2	NA	NA	NA	NA	Karj_F6	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.053274392596794576	NA	NA	NA	NA	NA	F3	NA	NA	NA	NA	Karj_F6	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.022341155593285172	NA	NA	NA	NA	NA	F4	NA	NA	NA	NA	Karj_F6	False	Intercept-only	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.046036133999855455	NA	NA	NA	NA	NA	F5	NA	NA	NA	NA	Karj_F6	False	Watch	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.0031876952208514664	NA	NA	NA	NA	NA	F6	NA	NA	NA	NA	Karj_F6	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.20568282634788368	NA	NA	NA	NA	NA	F7	NA	NA	NA	NA	Karj_F6	False	Watch	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.05695040756932627	NA	NA	NA	NA	NA	F8	NA	NA	NA	NA	Karj_F6	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.7438008247594744	NA	NA	NA	NA	NA	F9	NA	NA	NA	NA	Karj_F6	True	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.3801839067926196	NA	NA	NA	NA	NA	F10	NA	NA	NA	NA	Karj_F6	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.016764271947076314	NA	NA	NA	NA	NA	F11	NA	NA	NA	NA	Karj_F6	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.14955294252008816	NA	NA	NA	NA	NA	F12	NA	NA	NA	NA	Karj_F6	False	Intercept-only	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.00067079524533175	NA	NA	NA	NA	NA	F13	NA	NA	NA	NA	Karj_F6	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.4320451160805784	NA	NA	NA	NA	NA	F14	NA	NA	NA	NA	Karj_F6	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.7664086934804878	NA	NA	NA	NA	NA	F15	NA	NA	NA	NA	Karj_F6	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.34690765129746354	NA	NA	NA	NA	NA	F16	NA	NA	NA	NA	Karj_F6	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.004333959875946445	NA	NA	NA	NA	NA	F17	NA	NA	NA	NA	Karj_F6	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.013799044576495723	NA	NA	NA	NA	NA	F18	NA	NA	NA	NA	Karj_F6	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.0012315823291793111	NA	NA	NA	NA	NA	F19	NA	NA	NA	NA	Karj_F6	False	Intercept-only	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.00511282152974573	NA	NA	NA	NA	NA	F20	NA	NA	NA	NA	Karj_F6	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.0003608799049137781	NA	NA	NA	NA	NA	F21	NA	NA	NA	NA	Karj_F6	False	Watch	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.00549995693345835	NA	NA	NA	NA	NA	F22	NA	NA	NA	NA	Karj_F6	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.0013324587619141148	NA	NA	NA	NA	NA	F23	NA	NA	NA	NA	Karj_F6	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.0664130931980022	NA	NA	NA	NA	NA	F24	NA	NA	NA	NA	Karj_F6	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	5.475737576081867e-06	NA	NA	NA	NA	NA	F25	NA	NA	NA	NA	Karj_F6	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.001844621587723457	NA	NA	NA	NA	NA	F26	NA	NA	NA	NA	Karj_F6	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.12198487937834071	NA	NA	NA	NA	NA	F27	NA	NA	NA	NA	Karj_F6	False	Watch	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.2601898188898051	NA	NA	NA	NA	NA	F28	NA	NA	NA	NA	Karj_F6	False	Intercept-only	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.31452180551544673	NA	NA	NA	NA	NA	F29	NA	NA	NA	NA	Karj_F6	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.04113386684602517	NA	NA	NA	NA	NA	F30	NA	NA	NA	NA	Karj_F6	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.4772978495711287	NA	NA	NA	NA	NA	F1	NA	NA	NA	NA	Karj_F7	False	Intercept-only	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.013072471173516315	NA	NA	NA	NA	NA	F2	NA	NA	NA	NA	Karj_F7	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.07192790377695274	NA	NA	NA	NA	NA	F3	NA	NA	NA	NA	Karj_F7	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.47346384086185495	NA	NA	NA	NA	NA	F4	NA	NA	NA	NA	Karj_F7	False	Intercept-only	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.0800159433153177	NA	NA	NA	NA	NA	F5	NA	NA	NA	NA	Karj_F7	False	Watch	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.23678764302617086	NA	NA	NA	NA	NA	F6	NA	NA	NA	NA	Karj_F7	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.4932892135911908	NA	NA	NA	NA	NA	F7	NA	NA	NA	NA	Karj_F7	False	Watch	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.2524752702814267	NA	NA	NA	NA	NA	F8	NA	NA	NA	NA	Karj_F7	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.5769984702696583	NA	NA	NA	NA	NA	F9	NA	NA	NA	NA	Karj_F7	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.27126764335575393	NA	NA	NA	NA	NA	F10	NA	NA	NA	NA	Karj_F7	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.04447424207180045	NA	NA	NA	NA	NA	F11	NA	NA	NA	NA	Karj_F7	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.0746191027093721	NA	NA	NA	NA	NA	F12	NA	NA	NA	NA	Karj_F7	False	Intercept-only	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.02447795121453087	NA	NA	NA	NA	NA	F13	NA	NA	NA	NA	Karj_F7	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.17600786608406666	NA	NA	NA	NA	NA	F14	NA	NA	NA	NA	Karj_F7	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.6995390253131069	NA	NA	NA	NA	NA	F15	NA	NA	NA	NA	Karj_F7	True	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.44785980492577493	NA	NA	NA	NA	NA	F16	NA	NA	NA	NA	Karj_F7	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.026449733101571955	NA	NA	NA	NA	NA	F17	NA	NA	NA	NA	Karj_F7	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.004299107782800859	NA	NA	NA	NA	NA	F18	NA	NA	NA	NA	Karj_F7	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.031516384113659264	NA	NA	NA	NA	NA	F19	NA	NA	NA	NA	Karj_F7	False	Intercept-only	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.02674678604350458	NA	NA	NA	NA	NA	F20	NA	NA	NA	NA	Karj_F7	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.0021128492807170433	NA	NA	NA	NA	NA	F21	NA	NA	NA	NA	Karj_F7	False	Watch	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.006505373287418718	NA	NA	NA	NA	NA	F22	NA	NA	NA	NA	Karj_F7	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.010950632002123083	NA	NA	NA	NA	NA	F23	NA	NA	NA	NA	Karj_F7	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.06489461901031618	NA	NA	NA	NA	NA	F24	NA	NA	NA	NA	Karj_F7	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.003468093607564478	NA	NA	NA	NA	NA	F25	NA	NA	NA	NA	Karj_F7	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.0021479891397750235	NA	NA	NA	NA	NA	F26	NA	NA	NA	NA	Karj_F7	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.15063107295512912	NA	NA	NA	NA	NA	F27	NA	NA	NA	NA	Karj_F7	False	Watch	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.42806309038388923	NA	NA	NA	NA	NA	F28	NA	NA	NA	NA	Karj_F7	False	Intercept-only	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.3096858942102829	NA	NA	NA	NA	NA	F29	NA	NA	NA	NA	Karj_F7	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.05421288545151644	NA	NA	NA	NA	NA	F30	NA	NA	NA	NA	Karj_F7	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.029931029358253036	NA	NA	NA	NA	NA	F1	NA	NA	NA	NA	Karj_F8	False	Intercept-only	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.02894342268426714	NA	NA	NA	NA	NA	F2	NA	NA	NA	NA	Karj_F8	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.051247777661094965	NA	NA	NA	NA	NA	F3	NA	NA	NA	NA	Karj_F8	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.18824631411436477	NA	NA	NA	NA	NA	F4	NA	NA	NA	NA	Karj_F8	False	Intercept-only	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.03453321005592161	NA	NA	NA	NA	NA	F5	NA	NA	NA	NA	Karj_F8	False	Watch	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.7094627160500453	NA	NA	NA	NA	NA	F6	NA	NA	NA	NA	Karj_F8	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.3437342500793702	NA	NA	NA	NA	NA	F7	NA	NA	NA	NA	Karj_F8	False	Watch	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.11655713017353117	NA	NA	NA	NA	NA	F8	NA	NA	NA	NA	Karj_F8	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.12055884684404854	NA	NA	NA	NA	NA	F9	NA	NA	NA	NA	Karj_F8	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.7886752642719963	NA	NA	NA	NA	NA	F10	NA	NA	NA	NA	Karj_F8	True	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.1189583062697454	NA	NA	NA	NA	NA	F11	NA	NA	NA	NA	Karj_F8	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.7716535501459544	NA	NA	NA	NA	NA	F12	NA	NA	NA	NA	Karj_F8	False	Intercept-only	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.003868274778273732	NA	NA	NA	NA	NA	F13	NA	NA	NA	NA	Karj_F8	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.3932206687620793	NA	NA	NA	NA	NA	F14	NA	NA	NA	NA	Karj_F8	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.031028360687373496	NA	NA	NA	NA	NA	F15	NA	NA	NA	NA	Karj_F8	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.31325668985123234	NA	NA	NA	NA	NA	F16	NA	NA	NA	NA	Karj_F8	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.019128741587606343	NA	NA	NA	NA	NA	F17	NA	NA	NA	NA	Karj_F8	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.003974907422112556	NA	NA	NA	NA	NA	F18	NA	NA	NA	NA	Karj_F8	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.006296950836096506	NA	NA	NA	NA	NA	F19	NA	NA	NA	NA	Karj_F8	False	Intercept-only	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.01703338561532495	NA	NA	NA	NA	NA	F20	NA	NA	NA	NA	Karj_F8	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	3.6057773256632095e-06	NA	NA	NA	NA	NA	F21	NA	NA	NA	NA	Karj_F8	False	Watch	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.007000872302633595	NA	NA	NA	NA	NA	F22	NA	NA	NA	NA	Karj_F8	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	5.444363058076672e-06	NA	NA	NA	NA	NA	F23	NA	NA	NA	NA	Karj_F8	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.03301634085167154	NA	NA	NA	NA	NA	F24	NA	NA	NA	NA	Karj_F8	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	3.868429123545464e-06	NA	NA	NA	NA	NA	F25	NA	NA	NA	NA	Karj_F8	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.0017677117791412426	NA	NA	NA	NA	NA	F26	NA	NA	NA	NA	Karj_F8	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.5047456529882087	NA	NA	NA	NA	NA	F27	NA	NA	NA	NA	Karj_F8	False	Watch	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.03801349650742214	NA	NA	NA	NA	NA	F28	NA	NA	NA	NA	Karj_F8	False	Intercept-only	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.1026641079723702	NA	NA	NA	NA	NA	F29	NA	NA	NA	NA	Karj_F8	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.11627461965410385	NA	NA	NA	NA	NA	F30	NA	NA	NA	NA	Karj_F8	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.3854963496491808	NA	NA	NA	NA	NA	F1	NA	NA	NA	NA	Karj_F9	False	Intercept-only	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.00234799737531393	NA	NA	NA	NA	NA	F2	NA	NA	NA	NA	Karj_F9	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.036419112110740795	NA	NA	NA	NA	NA	F3	NA	NA	NA	NA	Karj_F9	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.3786904062743374	NA	NA	NA	NA	NA	F4	NA	NA	NA	NA	Karj_F9	False	Intercept-only	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.005742005029464162	NA	NA	NA	NA	NA	F5	NA	NA	NA	NA	Karj_F9	False	Watch	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.043216966630502535	NA	NA	NA	NA	NA	F6	NA	NA	NA	NA	Karj_F9	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.11873548279293782	NA	NA	NA	NA	NA	F7	NA	NA	NA	NA	Karj_F9	False	Watch	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.595387326605728	NA	NA	NA	NA	NA	F8	NA	NA	NA	NA	Karj_F9	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.2486420636706727	NA	NA	NA	NA	NA	F9	NA	NA	NA	NA	Karj_F9	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.25287668926660917	NA	NA	NA	NA	NA	F10	NA	NA	NA	NA	Karj_F9	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.09002657809861576	NA	NA	NA	NA	NA	F11	NA	NA	NA	NA	Karj_F9	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.5977946390866784	NA	NA	NA	NA	NA	F12	NA	NA	NA	NA	Karj_F9	False	Intercept-only	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.024500793658337953	NA	NA	NA	NA	NA	F13	NA	NA	NA	NA	Karj_F9	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.2616092011400241	NA	NA	NA	NA	NA	F14	NA	NA	NA	NA	Karj_F9	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.34501395613892893	NA	NA	NA	NA	NA	F15	NA	NA	NA	NA	Karj_F9	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.9166753446659919	NA	NA	NA	NA	NA	F16	NA	NA	NA	NA	Karj_F9	True	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.027519576688345506	NA	NA	NA	NA	NA	F17	NA	NA	NA	NA	Karj_F9	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.03282591809125703	NA	NA	NA	NA	NA	F18	NA	NA	NA	NA	Karj_F9	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.007311781069468549	NA	NA	NA	NA	NA	F19	NA	NA	NA	NA	Karj_F9	False	Intercept-only	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.005991195053906894	NA	NA	NA	NA	NA	F20	NA	NA	NA	NA	Karj_F9	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.008454021634930796	NA	NA	NA	NA	NA	F21	NA	NA	NA	NA	Karj_F9	False	Watch	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.005452305957094387	NA	NA	NA	NA	NA	F22	NA	NA	NA	NA	Karj_F9	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.006827898841509672	NA	NA	NA	NA	NA	F23	NA	NA	NA	NA	Karj_F9	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.09819151970561152	NA	NA	NA	NA	NA	F24	NA	NA	NA	NA	Karj_F9	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.04263168853417414	NA	NA	NA	NA	NA	F25	NA	NA	NA	NA	Karj_F9	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.037907388569303625	NA	NA	NA	NA	NA	F26	NA	NA	NA	NA	Karj_F9	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.3715459337051016	NA	NA	NA	NA	NA	F27	NA	NA	NA	NA	Karj_F9	False	Watch	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.3484274646825331	NA	NA	NA	NA	NA	F28	NA	NA	NA	NA	Karj_F9	False	Intercept-only	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.3356681703142279	NA	NA	NA	NA	NA	F29	NA	NA	NA	NA	Karj_F9	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.023521628876546366	NA	NA	NA	NA	NA	F30	NA	NA	NA	NA	Karj_F9	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.042540203722809124	NA	NA	NA	NA	NA	F1	NA	NA	NA	NA	Karj_F10	False	Intercept-only	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.009064427586307884	NA	NA	NA	NA	NA	F2	NA	NA	NA	NA	Karj_F10	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.021414810111477924	NA	NA	NA	NA	NA	F3	NA	NA	NA	NA	Karj_F10	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.012308545422829036	NA	NA	NA	NA	NA	F4	NA	NA	NA	NA	Karj_F10	False	Intercept-only	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.004063917225157138	NA	NA	NA	NA	NA	F5	NA	NA	NA	NA	Karj_F10	False	Watch	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.039907555365756575	NA	NA	NA	NA	NA	F6	NA	NA	NA	NA	Karj_F10	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.008666244427152758	NA	NA	NA	NA	NA	F7	NA	NA	NA	NA	Karj_F10	False	Watch	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.081361840287922	NA	NA	NA	NA	NA	F8	NA	NA	NA	NA	Karj_F10	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.008089517534086378	NA	NA	NA	NA	NA	F9	NA	NA	NA	NA	Karj_F10	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.025849395200606626	NA	NA	NA	NA	NA	F10	NA	NA	NA	NA	Karj_F10	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.16637206453323228	NA	NA	NA	NA	NA	F11	NA	NA	NA	NA	Karj_F10	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.0015646229552772248	NA	NA	NA	NA	NA	F12	NA	NA	NA	NA	Karj_F10	False	Intercept-only	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.04713424528875779	NA	NA	NA	NA	NA	F13	NA	NA	NA	NA	Karj_F10	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.3401234163883684	NA	NA	NA	NA	NA	F14	NA	NA	NA	NA	Karj_F10	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.024356610717886536	NA	NA	NA	NA	NA	F15	NA	NA	NA	NA	Karj_F10	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.06163636995385765	NA	NA	NA	NA	NA	F16	NA	NA	NA	NA	Karj_F10	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.035314082336463104	NA	NA	NA	NA	NA	F17	NA	NA	NA	NA	Karj_F10	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.30017675086493406	NA	NA	NA	NA	NA	F18	NA	NA	NA	NA	Karj_F10	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.04135487875722578	NA	NA	NA	NA	NA	F19	NA	NA	NA	NA	Karj_F10	False	Intercept-only	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.14054035184629887	NA	NA	NA	NA	NA	F20	NA	NA	NA	NA	Karj_F10	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.0394422648828517	NA	NA	NA	NA	NA	F21	NA	NA	NA	NA	Karj_F10	False	Watch	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.10023134740045464	NA	NA	NA	NA	NA	F22	NA	NA	NA	NA	Karj_F10	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.5681538695680953	NA	NA	NA	NA	NA	F23	NA	NA	NA	NA	Karj_F10	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.14221531911315316	NA	NA	NA	NA	NA	F24	NA	NA	NA	NA	Karj_F10	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.019606692903202206	NA	NA	NA	NA	NA	F25	NA	NA	NA	NA	Karj_F10	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.4690153731123754	NA	NA	NA	NA	NA	F26	NA	NA	NA	NA	Karj_F10	True	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.08400279234161875	NA	NA	NA	NA	NA	F27	NA	NA	NA	NA	Karj_F10	False	Watch	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.0006363704258187442	NA	NA	NA	NA	NA	F28	NA	NA	NA	NA	Karj_F10	False	Intercept-only	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.011454440975129751	NA	NA	NA	NA	NA	F29	NA	NA	NA	NA	Karj_F10	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.026967134673358782	NA	NA	NA	NA	NA	F30	NA	NA	NA	NA	Karj_F10	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.03202995287327561	NA	NA	NA	NA	NA	F1	NA	NA	NA	NA	Karj_F11	False	Intercept-only	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.0007361881484397736	NA	NA	NA	NA	NA	F2	NA	NA	NA	NA	Karj_F11	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.0005136302331405232	NA	NA	NA	NA	NA	F3	NA	NA	NA	NA	Karj_F11	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.10627994195986556	NA	NA	NA	NA	NA	F4	NA	NA	NA	NA	Karj_F11	False	Intercept-only	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.04441749761073925	NA	NA	NA	NA	NA	F5	NA	NA	NA	NA	Karj_F11	False	Watch	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.05564756771104443	NA	NA	NA	NA	NA	F6	NA	NA	NA	NA	Karj_F11	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.004073678765886417	NA	NA	NA	NA	NA	F7	NA	NA	NA	NA	Karj_F11	False	Watch	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.07295785816702516	NA	NA	NA	NA	NA	F8	NA	NA	NA	NA	Karj_F11	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.003995815403341222	NA	NA	NA	NA	NA	F9	NA	NA	NA	NA	Karj_F11	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.021024971810565295	NA	NA	NA	NA	NA	F10	NA	NA	NA	NA	Karj_F11	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.14347603030046355	NA	NA	NA	NA	NA	F11	NA	NA	NA	NA	Karj_F11	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.00847723767643023	NA	NA	NA	NA	NA	F12	NA	NA	NA	NA	Karj_F11	False	Intercept-only	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.07046756875795084	NA	NA	NA	NA	NA	F13	NA	NA	NA	NA	Karj_F11	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.32537089735612656	NA	NA	NA	NA	NA	F14	NA	NA	NA	NA	Karj_F11	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.05138717744105717	NA	NA	NA	NA	NA	F15	NA	NA	NA	NA	Karj_F11	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.017331243156139403	NA	NA	NA	NA	NA	F16	NA	NA	NA	NA	Karj_F11	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.05339797380330312	NA	NA	NA	NA	NA	F17	NA	NA	NA	NA	Karj_F11	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.1776617539754769	NA	NA	NA	NA	NA	F18	NA	NA	NA	NA	Karj_F11	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.07744594497649526	NA	NA	NA	NA	NA	F19	NA	NA	NA	NA	Karj_F11	False	Intercept-only	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.9349338037205017	NA	NA	NA	NA	NA	F20	NA	NA	NA	NA	Karj_F11	True	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.15139511689325233	NA	NA	NA	NA	NA	F21	NA	NA	NA	NA	Karj_F11	False	Watch	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.0393535987177466	NA	NA	NA	NA	NA	F22	NA	NA	NA	NA	Karj_F11	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.20313571221699023	NA	NA	NA	NA	NA	F23	NA	NA	NA	NA	Karj_F11	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.18157106369950757	NA	NA	NA	NA	NA	F24	NA	NA	NA	NA	Karj_F11	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.11993845169432107	NA	NA	NA	NA	NA	F25	NA	NA	NA	NA	Karj_F11	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.03659039943434334	NA	NA	NA	NA	NA	F26	NA	NA	NA	NA	Karj_F11	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.011233358167034734	NA	NA	NA	NA	NA	F27	NA	NA	NA	NA	Karj_F11	False	Watch	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.0061140078146432845	NA	NA	NA	NA	NA	F28	NA	NA	NA	NA	Karj_F11	False	Intercept-only	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.06733290768205169	NA	NA	NA	NA	NA	F29	NA	NA	NA	NA	Karj_F11	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.041585071485905505	NA	NA	NA	NA	NA	F30	NA	NA	NA	NA	Karj_F11	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.07303079339757888	NA	NA	NA	NA	NA	F1	NA	NA	NA	NA	Karj_F12	False	Intercept-only	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.0016088809723391916	NA	NA	NA	NA	NA	F2	NA	NA	NA	NA	Karj_F12	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.020310147861407533	NA	NA	NA	NA	NA	F3	NA	NA	NA	NA	Karj_F12	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.06399600323173835	NA	NA	NA	NA	NA	F4	NA	NA	NA	NA	Karj_F12	False	Intercept-only	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.0004907187633998228	NA	NA	NA	NA	NA	F5	NA	NA	NA	NA	Karj_F12	False	Watch	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.08528458378128742	NA	NA	NA	NA	NA	F6	NA	NA	NA	NA	Karj_F12	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.07607493728460624	NA	NA	NA	NA	NA	F7	NA	NA	NA	NA	Karj_F12	False	Watch	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.04601881095106376	NA	NA	NA	NA	NA	F8	NA	NA	NA	NA	Karj_F12	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.05200483549893015	NA	NA	NA	NA	NA	F9	NA	NA	NA	NA	Karj_F12	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	1.1853125155979987e-05	NA	NA	NA	NA	NA	F10	NA	NA	NA	NA	Karj_F12	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.028750151361039738	NA	NA	NA	NA	NA	F11	NA	NA	NA	NA	Karj_F12	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.04701938963746813	NA	NA	NA	NA	NA	F12	NA	NA	NA	NA	Karj_F12	False	Intercept-only	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	1.57326570350144e-06	NA	NA	NA	NA	NA	F13	NA	NA	NA	NA	Karj_F12	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.07335791753434284	NA	NA	NA	NA	NA	F14	NA	NA	NA	NA	Karj_F12	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	1.930858421874762e-06	NA	NA	NA	NA	NA	F15	NA	NA	NA	NA	Karj_F12	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	1.1188301839765482e-06	NA	NA	NA	NA	NA	F16	NA	NA	NA	NA	Karj_F12	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	3.819393881288195e-06	NA	NA	NA	NA	NA	F17	NA	NA	NA	NA	Karj_F12	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.04684913810588499	NA	NA	NA	NA	NA	F18	NA	NA	NA	NA	Karj_F12	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.9466021339723747	NA	NA	NA	NA	NA	F19	NA	NA	NA	NA	Karj_F12	True	Intercept-only	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	1.1047998654705323e-06	NA	NA	NA	NA	NA	F20	NA	NA	NA	NA	Karj_F12	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	5.091089370865677e-07	NA	NA	NA	NA	NA	F21	NA	NA	NA	NA	Karj_F12	False	Watch	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.06264029015536206	NA	NA	NA	NA	NA	F22	NA	NA	NA	NA	Karj_F12	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.10809318145167307	NA	NA	NA	NA	NA	F23	NA	NA	NA	NA	Karj_F12	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.11698393791313497	NA	NA	NA	NA	NA	F24	NA	NA	NA	NA	Karj_F12	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	3.3490602912460566e-07	NA	NA	NA	NA	NA	F25	NA	NA	NA	NA	Karj_F12	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	3.4817540540852277e-07	NA	NA	NA	NA	NA	F26	NA	NA	NA	NA	Karj_F12	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.22614666518461907	NA	NA	NA	NA	NA	F27	NA	NA	NA	NA	Karj_F12	False	Watch	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	4.7067319200366375e-06	NA	NA	NA	NA	NA	F28	NA	NA	NA	NA	Karj_F12	False	Intercept-only	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.20514588938241443	NA	NA	NA	NA	NA	F29	NA	NA	NA	NA	Karj_F12	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.006718764164504245	NA	NA	NA	NA	NA	F30	NA	NA	NA	NA	Karj_F12	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.04096803925635391	NA	NA	NA	NA	NA	F1	NA	NA	NA	NA	Karj_F13	False	Intercept-only	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.00014194852164445057	NA	NA	NA	NA	NA	F2	NA	NA	NA	NA	Karj_F13	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	3.9052915148037894e-05	NA	NA	NA	NA	NA	F3	NA	NA	NA	NA	Karj_F13	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.04949752841883721	NA	NA	NA	NA	NA	F4	NA	NA	NA	NA	Karj_F13	False	Intercept-only	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.00023641927633246757	NA	NA	NA	NA	NA	F5	NA	NA	NA	NA	Karj_F13	False	Watch	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.0935455785996828	NA	NA	NA	NA	NA	F6	NA	NA	NA	NA	Karj_F13	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.01716237741018185	NA	NA	NA	NA	NA	F7	NA	NA	NA	NA	Karj_F13	False	Watch	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.024402157085066295	NA	NA	NA	NA	NA	F8	NA	NA	NA	NA	Karj_F13	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	1.9609304743636613e-06	NA	NA	NA	NA	NA	F9	NA	NA	NA	NA	Karj_F13	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.015947751456292212	NA	NA	NA	NA	NA	F10	NA	NA	NA	NA	Karj_F13	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.04785159517407711	NA	NA	NA	NA	NA	F11	NA	NA	NA	NA	Karj_F13	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.02045345335472272	NA	NA	NA	NA	NA	F12	NA	NA	NA	NA	Karj_F13	False	Intercept-only	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	5.5023848139526096e-06	NA	NA	NA	NA	NA	F13	NA	NA	NA	NA	Karj_F13	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.2336169556881792	NA	NA	NA	NA	NA	F14	NA	NA	NA	NA	Karj_F13	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	3.458736978938633e-06	NA	NA	NA	NA	NA	F15	NA	NA	NA	NA	Karj_F13	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.04245388349933216	NA	NA	NA	NA	NA	F16	NA	NA	NA	NA	Karj_F13	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.05542907667969741	NA	NA	NA	NA	NA	F17	NA	NA	NA	NA	Karj_F13	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.890109458911808	NA	NA	NA	NA	NA	F18	NA	NA	NA	NA	Karj_F13	True	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.09850669052473994	NA	NA	NA	NA	NA	F19	NA	NA	NA	NA	Karj_F13	False	Intercept-only	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.1348377451334599	NA	NA	NA	NA	NA	F20	NA	NA	NA	NA	Karj_F13	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	9.829762591755507e-07	NA	NA	NA	NA	NA	F21	NA	NA	NA	NA	Karj_F13	False	Watch	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.04893476758601314	NA	NA	NA	NA	NA	F22	NA	NA	NA	NA	Karj_F13	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	7.161780816468209e-07	NA	NA	NA	NA	NA	F23	NA	NA	NA	NA	Karj_F13	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.13534283648183382	NA	NA	NA	NA	NA	F24	NA	NA	NA	NA	Karj_F13	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	6.961327513713617e-07	NA	NA	NA	NA	NA	F25	NA	NA	NA	NA	Karj_F13	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.3858230216770771	NA	NA	NA	NA	NA	F26	NA	NA	NA	NA	Karj_F13	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.11630672110245936	NA	NA	NA	NA	NA	F27	NA	NA	NA	NA	Karj_F13	False	Watch	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	8.461507016795069e-06	NA	NA	NA	NA	NA	F28	NA	NA	NA	NA	Karj_F13	False	Intercept-only	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.06275794528729163	NA	NA	NA	NA	NA	F29	NA	NA	NA	NA	Karj_F13	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.04861510742642508	NA	NA	NA	NA	NA	F30	NA	NA	NA	NA	Karj_F13	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.09498422907325049	NA	NA	NA	NA	NA	F1	NA	NA	NA	NA	Karj_F14	False	Intercept-only	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.13421644023621074	NA	NA	NA	NA	NA	F2	NA	NA	NA	NA	Karj_F14	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.033924566754894296	NA	NA	NA	NA	NA	F3	NA	NA	NA	NA	Karj_F14	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.061233065402556325	NA	NA	NA	NA	NA	F4	NA	NA	NA	NA	Karj_F14	False	Intercept-only	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.026469023063883955	NA	NA	NA	NA	NA	F5	NA	NA	NA	NA	Karj_F14	False	Watch	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.009191139120807702	NA	NA	NA	NA	NA	F6	NA	NA	NA	NA	Karj_F14	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.011933725205851842	NA	NA	NA	NA	NA	F7	NA	NA	NA	NA	Karj_F14	False	Watch	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.10448577485329542	NA	NA	NA	NA	NA	F8	NA	NA	NA	NA	Karj_F14	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.026579172404841526	NA	NA	NA	NA	NA	F9	NA	NA	NA	NA	Karj_F14	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.012154112009687992	NA	NA	NA	NA	NA	F10	NA	NA	NA	NA	Karj_F14	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.027041572890030254	NA	NA	NA	NA	NA	F11	NA	NA	NA	NA	Karj_F14	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.011336816515109305	NA	NA	NA	NA	NA	F12	NA	NA	NA	NA	Karj_F14	False	Intercept-only	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.029269558854850462	NA	NA	NA	NA	NA	F13	NA	NA	NA	NA	Karj_F14	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.042432449711321506	NA	NA	NA	NA	NA	F14	NA	NA	NA	NA	Karj_F14	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.01394683749515466	NA	NA	NA	NA	NA	F15	NA	NA	NA	NA	Karj_F14	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.04060906518770019	NA	NA	NA	NA	NA	F16	NA	NA	NA	NA	Karj_F14	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.9946864513071245	NA	NA	NA	NA	NA	F17	NA	NA	NA	NA	Karj_F14	True	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.2559653555436906	NA	NA	NA	NA	NA	F18	NA	NA	NA	NA	Karj_F14	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.019927601412689212	NA	NA	NA	NA	NA	F19	NA	NA	NA	NA	Karj_F14	False	Intercept-only	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.03637577111679913	NA	NA	NA	NA	NA	F20	NA	NA	NA	NA	Karj_F14	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.00918690565557295	NA	NA	NA	NA	NA	F21	NA	NA	NA	NA	Karj_F14	False	Watch	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.05986750647553123	NA	NA	NA	NA	NA	F22	NA	NA	NA	NA	Karj_F14	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.0442226657742984	NA	NA	NA	NA	NA	F23	NA	NA	NA	NA	Karj_F14	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.06487399421462632	NA	NA	NA	NA	NA	F24	NA	NA	NA	NA	Karj_F14	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	8.856484792766306e-05	NA	NA	NA	NA	NA	F25	NA	NA	NA	NA	Karj_F14	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.05530821080935418	NA	NA	NA	NA	NA	F26	NA	NA	NA	NA	Karj_F14	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.013936739141796195	NA	NA	NA	NA	NA	F27	NA	NA	NA	NA	Karj_F14	False	Watch	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.009804518812209133	NA	NA	NA	NA	NA	F28	NA	NA	NA	NA	Karj_F14	False	Intercept-only	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.07464106750460624	NA	NA	NA	NA	NA	F29	NA	NA	NA	NA	Karj_F14	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.09521426248325199	NA	NA	NA	NA	NA	F30	NA	NA	NA	NA	Karj_F14	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.08978250249130115	NA	NA	NA	NA	NA	F1	NA	NA	NA	NA	Karj_F15	False	Intercept-only	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.00012121231096391996	NA	NA	NA	NA	NA	F2	NA	NA	NA	NA	Karj_F15	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.00018145614182055056	NA	NA	NA	NA	NA	F3	NA	NA	NA	NA	Karj_F15	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	4.61117476940317e-05	NA	NA	NA	NA	NA	F4	NA	NA	NA	NA	Karj_F15	False	Intercept-only	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.010760347682432607	NA	NA	NA	NA	NA	F5	NA	NA	NA	NA	Karj_F15	False	Watch	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.005768281881901411	NA	NA	NA	NA	NA	F6	NA	NA	NA	NA	Karj_F15	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	1.0464459495700235e-06	NA	NA	NA	NA	NA	F7	NA	NA	NA	NA	Karj_F15	False	Watch	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.02734616279458099	NA	NA	NA	NA	NA	F8	NA	NA	NA	NA	Karj_F15	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.00866180545251807	NA	NA	NA	NA	NA	F9	NA	NA	NA	NA	Karj_F15	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.020426031401967023	NA	NA	NA	NA	NA	F10	NA	NA	NA	NA	Karj_F15	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.1914884830500702	NA	NA	NA	NA	NA	F11	NA	NA	NA	NA	Karj_F15	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	6.19638104448629e-06	NA	NA	NA	NA	NA	F12	NA	NA	NA	NA	Karj_F15	False	Intercept-only	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	1.685117504111363e-06	NA	NA	NA	NA	NA	F13	NA	NA	NA	NA	Karj_F15	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.19639598871610153	NA	NA	NA	NA	NA	F14	NA	NA	NA	NA	Karj_F15	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	4.999780812774865e-06	NA	NA	NA	NA	NA	F15	NA	NA	NA	NA	Karj_F15	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.02174786713689764	NA	NA	NA	NA	NA	F16	NA	NA	NA	NA	Karj_F15	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	7.6214602818303574e-06	NA	NA	NA	NA	NA	F17	NA	NA	NA	NA	Karj_F15	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.06713387036091428	NA	NA	NA	NA	NA	F18	NA	NA	NA	NA	Karj_F15	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.02120595534346906	NA	NA	NA	NA	NA	F19	NA	NA	NA	NA	Karj_F15	False	Intercept-only	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.11733999101547538	NA	NA	NA	NA	NA	F20	NA	NA	NA	NA	Karj_F15	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	1.7836817237361185e-06	NA	NA	NA	NA	NA	F21	NA	NA	NA	NA	Karj_F15	False	Watch	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.01126308271257568	NA	NA	NA	NA	NA	F22	NA	NA	NA	NA	Karj_F15	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.9678348805160166	NA	NA	NA	NA	NA	F23	NA	NA	NA	NA	Karj_F15	True	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	3.882147280704567e-05	NA	NA	NA	NA	NA	F24	NA	NA	NA	NA	Karj_F15	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	3.8499715838195837e-07	NA	NA	NA	NA	NA	F25	NA	NA	NA	NA	Karj_F15	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	7.969387916702925e-07	NA	NA	NA	NA	NA	F26	NA	NA	NA	NA	Karj_F15	False	Retain	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	3.5632731417667176e-05	NA	NA	NA	NA	NA	F27	NA	NA	NA	NA	Karj_F15	False	Watch	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	3.2156615382134744e-05	NA	NA	NA	NA	NA	F28	NA	NA	NA	NA	Karj_F15	False	Intercept-only	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.04577164059613848	NA	NA	NA	NA	NA	F29	NA	NA	NA	NA	Karj_F15	False	Drop	NA	NA	NA	NA	NA
+C	loading_similarity	NA	NA	NA	0.01658272840693949	NA	NA	NA	NA	NA	F30	NA	NA	NA	NA	Karj_F15	False	Drop	NA	NA	NA	NA	NA
+D	subspace_reference	NA	NA	NA	0.8406945257848413	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	UKB residual reference	0.8925323411449274	1.0	True	NA
+D	subspace_reference	NA	NA	NA	0.8406945257848413	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Karjalainen residual reference	0.8311000621045962	0.2547452547452547	True	NA
+D	low_dimension	NA	NA	NA	0.6123719421188322	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Leading 3	NA	NA	True	3.0
+D	low_dimension	NA	NA	NA	0.44670025668144814	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Leading 5	NA	NA	True	5.0
+D	low_dimension	NA	NA	NA	0.45597086337392784	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Leading 10	NA	NA	True	10.0
+D	low_dimension	NA	NA	NA	0.5527290349494632	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Leading 13	NA	NA	True	13.0

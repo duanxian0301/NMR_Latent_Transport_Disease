@@ -1,0 +1,10 @@
+package	version	role
+R	4.4.0	Runtime used for the frozen analysis
+GFA	1.0.0.0470	Genetic factor analysis and GLS projection
+data.table	1.18.2.1	Tabular input/output and transformations
+qs	0.27.3	Local matrix-cache serialization; caches are not redistributed
+Matrix	1.7-4	Matrix conditioning and linear algebra
+LAVA	0.1.5	Local genetic correlation analyses
+LDSC	1.0.1	Univariate and bivariate LD score regression
+PLINK	1.9	LD pruning and reference operations
+

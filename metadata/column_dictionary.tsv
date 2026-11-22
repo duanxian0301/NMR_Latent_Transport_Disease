@@ -1,0 +1,17 @@
+table_scope	column_or_pattern	definition	unit_or_values
+loading matrices	first column	Metabolite trait code; matches metadata/trait_crosswalk_61.tsv.	string
+loading matrices	F1-F30 or Karj_F1-Karj_F15	Column-normalized GFA loading; factor orientation is arbitrary.	dimensionless
+cross-resource tables	rg	LDSC genetic-correlation estimate.	dimensionless
+cross-resource tables	rg_se	Standard error of the LDSC genetic-correlation estimate.	dimensionless
+cross-resource tables	rg_usable	Whether the frozen usability rule was met; see decision_definitions.md.	TRUE/FALSE
+loading-match tables	abs_cosine	Absolute cosine similarity between two loading profiles after trait alignment.	0 to 1
+loading-match tables	top5_jaccard	Jaccard index between the sets of five largest absolute loadings.	0 to 1
+subspace validation	rho_1...rho_15	Canonical correlations between compared loading subspaces, ordered from largest to smallest.	0 to 1
+subspace validation	projection_overlap_over_minK	Sum of squared canonical correlations divided by the smaller subspace dimension.	0 to 1
+subspace validation	procrustes_congruence	Sum of canonical correlations divided by the smaller subspace dimension.	0 to 1
+LAVA tables	rho or median_rho	Local genetic correlation estimated by LAVA, or its stated median summary.	dimensionless
+LAVA tables	n_fdr05_*	Number of non-MHC local tests passing the specified BH-FDR family at q<0.05.	count
+Figure source data	panel	Manuscript figure panel identifier.	A, B, C or D
+Figure source data	record_type	Row-type discriminator used by the corresponding plotting script.	table-specific category
+all tables	P, p, p_value or *_p	Two-sided P value unless the table or script specifies an empirical tail probability.	0 to 1
+all tables	ci95_low / ci95_high	Lower and upper endpoints of a 95% confidence interval.	estimate scale

@@ -1,0 +1,14 @@
+factor	n_factor_leads_p5e8	n_already_discovered	n_significance_gain_dominant_shadow	n_candidate_incremental_threshold	n_mhc	n_already_discovered_nonMHC	n_candidate_incremental_nonMHC	n_candidate_with_karj_factor_p5e8	n_candidate_sign_concordant_karj
+F9	74	73	1	0	1	72	0	0	0
+F11	137	135	2	0	4	131	0	0	0
+F13	52	52	0	0	1	51	0	0	0
+F14	94	94	0	0	1	93	0	0	0
+F15	86	86	0	0	5	81	0	0	0
+F17	77	75	2	0	0	75	0	0	0
+F18	131	131	0	0	1	130	0	0	0
+F20	134	132	1	1	4	128	1	0	1
+F22	80	78	1	1	5	73	1	0	1
+F23	67	66	1	0	1	65	0	0	0
+F24	91	89	2	0	2	87	0	0	0
+F25	70	69	1	0	0	69	0	0	0
+F26	52	52	0	0	6	46	0	0	0

@@ -1,0 +1,36 @@
+check	status	observed	expected	source
+Table S1: numeric cells preserved	PASS	0 numeric cells	0 numeric cells with identical ordered values	local_path_omitted
+Table S2: numeric cells preserved	PASS	1830 numeric cells	1830 numeric cells with identical ordered values	local_path_omitted
+Table S3: numeric cells preserved	PASS	275 numeric cells	275 numeric cells with identical ordered values	local_path_omitted
+Table S4: numeric cells preserved	PASS	854 numeric cells	854 numeric cells with identical ordered values	local_path_omitted
+Table S5: numeric cells preserved	PASS	104 numeric cells	104 numeric cells with identical ordered values	local_path_omitted
+Table S7: numeric cells preserved	PASS	240 numeric cells	240 numeric cells with identical ordered values	local_path_omitted
+Table S8: numeric cells preserved	PASS	39 numeric cells	39 numeric cells with identical ordered values	local_path_omitted
+Table S9: numeric cells preserved	PASS	117 numeric cells	117 numeric cells with identical ordered values	local_path_omitted
+Table S10: numeric cells preserved	PASS	24 numeric cells	24 numeric cells with identical ordered values	local_path_omitted
+Table S11: numeric cells preserved	PASS	182 numeric cells	182 numeric cells with identical ordered values	local_path_omitted
+Table S12: numeric cells preserved	PASS	702 numeric cells	702 numeric cells with identical ordered values	local_path_omitted
+Table S14: numeric cells preserved	PASS	76 numeric cells	76 numeric cells with identical ordered values	local_path_omitted
+Table S13: numeric cells preserved after split	PASS	3383 numeric cells	3383 ordered numeric cells	local_path_omitted
+Table S13: all records preserved	PASS	1526	1526	local_path_omitted
+Table S13a: record count	PASS	838	838	local_path_omitted
+Table S13b: record count	PASS	543	543	local_path_omitted
+Table S13c: record count	PASS	145	145	local_path_omitted
+Table S6: all unaffected numeric cells preserved	PASS	126 numeric cells	126 ordered numeric cells after required NA substitutions	local_path_omitted
+Table S6: duplicate limitation column removed	PASS	absent	absent	local_path_omitted
+Table S6: unavailable comparisons set to NA	PASS	4/4	4/4	local_path_omitted
+Table S7: matching strategies sourced and separated	PASS	one-to-one=15; nearest-profile=15	15; 15	INDEPENDENT_GFA_REPLICATION_20261119/CROSS_RESOURCE_LOADING_MATCH.tsv
+Table S8: UKB retained-factor scope	PASS	13 rows; resources=UKB	13 rows; UKB only	local_path_omitted
+Table S10: candidate label	PASS	Multivariate-threshold candidate	Multivariate-threshold candidate	local_path_omitted
+Table S12: machine classification columns removed	PASS	FDR-positive fraction | Median rho among significant | Median absolute rho among significant	neither classification column present	local_path_omitted
+Table S14: canonical-correlation count label	PASS	Number of canonical correlations	Number of canonical correlations	local_path_omitted
+Workbook: targeted machine labels absent	PASS	0	0	local_path_omitted
+F17: Val+Leu+Ile share of total squared loading	PASS	92.949593%	92.9% of total across all 61 traits	local_path_omitted
+Figure 2: source data unchanged	PASS	7752b7bf849c1bf7460586c57db7976dea49146c0501b073bf94e7f2edab9ca1	7752b7bf849c1bf7460586c57db7976dea49146c0501b073bf94e7f2edab9ca1	local_path_omitted
+Figure 2: PNG resolution	PASS	600.00 × 600.00 dpi	600 × 600 dpi	local_path_omitted
+Figure 3: source data unchanged	PASS	17976f9370e7f3e2e2ffde55b803df113719fe64b991ff32b0aed7dce2eb0b0d	17976f9370e7f3e2e2ffde55b803df113719fe64b991ff32b0aed7dce2eb0b0d	local_path_omitted
+Figure 3: PNG resolution	PASS	600.00 × 600.00 dpi	600 × 600 dpi	local_path_omitted
+Figure 4: source data unchanged	PASS	1e5b8947781d89181d07a8e4d5f8db2dd989b3fdd00d6ebaa0c9ecbf5ad579a7	1e5b8947781d89181d07a8e4d5f8db2dd989b3fdd00d6ebaa0c9ecbf5ad579a7	local_path_omitted
+Figure 4: PNG resolution	PASS	600.00 × 600.00 dpi	600 × 600 dpi	local_path_omitted
+Figure 3D: official P values retained in source	PASS	1; 0.2547452547452547	1; 0.254745254745255	local_path_omitted
+Overall numeric QA	PASS	0 failed checks before overall row	0	REV2 QA aggregation

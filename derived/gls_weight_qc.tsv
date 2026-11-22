@@ -1,0 +1,14 @@
+factor	cor_reconstructed_vs_official_Z	note
+F9	0.503149345642903	Weights are official-style GLS: w = R^{-1} F / sqrt(F' R^{-1} F), plus_resid=FALSE, F=F_hat*scale, R=UKB R_ldsc_cond1e3. Confirm against GFA:::loadings_gls source dumped in P2C_LOADINGS_GLS_SOURCE.txt.
+F11	0.805159991131181	Weights are official-style GLS: w = R^{-1} F / sqrt(F' R^{-1} F), plus_resid=FALSE, F=F_hat*scale, R=UKB R_ldsc_cond1e3. Confirm against GFA:::loadings_gls source dumped in P2C_LOADINGS_GLS_SOURCE.txt.
+F13	0.795471954905908	Weights are official-style GLS: w = R^{-1} F / sqrt(F' R^{-1} F), plus_resid=FALSE, F=F_hat*scale, R=UKB R_ldsc_cond1e3. Confirm against GFA:::loadings_gls source dumped in P2C_LOADINGS_GLS_SOURCE.txt.
+F14	0.610362539798189	Weights are official-style GLS: w = R^{-1} F / sqrt(F' R^{-1} F), plus_resid=FALSE, F=F_hat*scale, R=UKB R_ldsc_cond1e3. Confirm against GFA:::loadings_gls source dumped in P2C_LOADINGS_GLS_SOURCE.txt.
+F15	0.613071013727164	Weights are official-style GLS: w = R^{-1} F / sqrt(F' R^{-1} F), plus_resid=FALSE, F=F_hat*scale, R=UKB R_ldsc_cond1e3. Confirm against GFA:::loadings_gls source dumped in P2C_LOADINGS_GLS_SOURCE.txt.
+F17	0.707631374445398	Weights are official-style GLS: w = R^{-1} F / sqrt(F' R^{-1} F), plus_resid=FALSE, F=F_hat*scale, R=UKB R_ldsc_cond1e3. Confirm against GFA:::loadings_gls source dumped in P2C_LOADINGS_GLS_SOURCE.txt.
+F18	0.80677933629502	Weights are official-style GLS: w = R^{-1} F / sqrt(F' R^{-1} F), plus_resid=FALSE, F=F_hat*scale, R=UKB R_ldsc_cond1e3. Confirm against GFA:::loadings_gls source dumped in P2C_LOADINGS_GLS_SOURCE.txt.
+F20	0.75300840612484	Weights are official-style GLS: w = R^{-1} F / sqrt(F' R^{-1} F), plus_resid=FALSE, F=F_hat*scale, R=UKB R_ldsc_cond1e3. Confirm against GFA:::loadings_gls source dumped in P2C_LOADINGS_GLS_SOURCE.txt.
+F22	0.712990720447412	Weights are official-style GLS: w = R^{-1} F / sqrt(F' R^{-1} F), plus_resid=FALSE, F=F_hat*scale, R=UKB R_ldsc_cond1e3. Confirm against GFA:::loadings_gls source dumped in P2C_LOADINGS_GLS_SOURCE.txt.
+F23	0.902938043022572	Weights are official-style GLS: w = R^{-1} F / sqrt(F' R^{-1} F), plus_resid=FALSE, F=F_hat*scale, R=UKB R_ldsc_cond1e3. Confirm against GFA:::loadings_gls source dumped in P2C_LOADINGS_GLS_SOURCE.txt.
+F24	0.671373296840925	Weights are official-style GLS: w = R^{-1} F / sqrt(F' R^{-1} F), plus_resid=FALSE, F=F_hat*scale, R=UKB R_ldsc_cond1e3. Confirm against GFA:::loadings_gls source dumped in P2C_LOADINGS_GLS_SOURCE.txt.
+F25	0.858101458762676	Weights are official-style GLS: w = R^{-1} F / sqrt(F' R^{-1} F), plus_resid=FALSE, F=F_hat*scale, R=UKB R_ldsc_cond1e3. Confirm against GFA:::loadings_gls source dumped in P2C_LOADINGS_GLS_SOURCE.txt.
+F26	0.871869759939082	Weights are official-style GLS: w = R^{-1} F / sqrt(F' R^{-1} F), plus_resid=FALSE, F=F_hat*scale, R=UKB R_ldsc_cond1e3. Confirm against GFA:::loadings_gls source dumped in P2C_LOADINGS_GLS_SOURCE.txt.
