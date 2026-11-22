@@ -76,7 +76,7 @@ See [`docs/known_limitations.md`](docs/known_limitations.md) for the full bounda
 
 ## Citation
 
-The manuscript author list, affiliations and preferred repository citation are still pending author completion. Until these fields are verified, cite the repository URL and the manuscript title above. A `CITATION.cff` and Zenodo metadata record will be added only after the authors approve the final metadata.
+The initial archive uses the author-approved minimal creator metadata: **Jing Shen**, with no affiliation or ORCID supplied. Citation metadata are provided in [`CITATION.cff`](CITATION.cff). Cite version `v1.0.0`; the real Zenodo DOI will be reported after the release has been archived.
 
 ## Licensing
 

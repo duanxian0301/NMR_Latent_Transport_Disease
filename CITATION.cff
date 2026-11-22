@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the archived release."
+title: "Pleiotropic genetic patterns of circulating metabolites and their reproducibility across GWAS resources"
+type: software
+authors:
+  - family-names: "Shen"
+    given-names: "Jing"
+version: "1.0.0"
+date-released: "2026-11-22"
+repository-code: "https://github.com/duanxian0301/NMR_Latent_Transport_Disease"
+license: MIT
+keywords:
+  - genetic factor analysis
+  - metabolomics
+  - NMR metabolites
+  - GWAS
+  - cross-resource reproducibility

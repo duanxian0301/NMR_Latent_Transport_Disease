@@ -1,0 +1,28 @@
+{
+  "title": "Pleiotropic genetic patterns of circulating metabolites and their reproducibility across GWAS resources",
+  "description": "Reproducibility code, compact derived results, metadata, validation records, and Figure 2-4 source data for a genetic factor analysis of 61 circulating NMR metabolites across UK Biobank and Karjalainen GWAS resources.",
+  "creators": [
+    {
+      "name": "Shen, Jing"
+    }
+  ],
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "MIT",
+  "version": "1.0.0",
+  "publication_date": "2026-11-22",
+  "keywords": [
+    "genetic factor analysis",
+    "metabolomics",
+    "NMR metabolites",
+    "GWAS",
+    "cross-resource reproducibility"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/duanxian0301/NMR_Latent_Transport_Disease",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

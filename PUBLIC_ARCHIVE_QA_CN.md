@@ -7,7 +7,7 @@
 
 本地 staging 已通过内容、安全、路径、语法、图形冒烟测试和数字一致性检查。档案仅包含复现代码、配置模板、公开来源元数据、小型派生汇总表和 Figure 2–4 的精确源数据与绘图脚本；未包含原始或大规模 GWAS 文件、受限数据、个人信息、密钥、内部提示词或稿件二进制文件。
 
-公开推送所需条件已满足：作者确认代码采用 MIT，原创派生表格、元数据和文档采用 CC BY 4.0；Git 提交身份为 `duanxian0301 <duanxian0301@gmail.com>`。作者与单位信息可在 Zenodo 发布前补齐，但在真实作者元数据完整前不得生成 `CITATION.cff`、`.zenodo.json` 或 Zenodo release。
+公开推送与归档条件已满足：作者确认代码采用 MIT，原创派生表格、元数据和文档采用 CC BY 4.0；Git 提交身份为 `duanxian0301 <duanxian0301@gmail.com>`。作者授权 `v1.0.0` GitHub/Zenodo 归档，creator 仅填写 `Jing Shen`，单位、ORCID、基金、通讯作者标识及论文 DOI 按作者要求不填写。
 
 ## 已纳入
 
@@ -58,4 +58,4 @@ git ls-remote --symref https://github.com/duanxian0301/NMR_Latent_Transport_Dise
 ## Gate
 
 GitHub 推送 gate：PASS。许可证、提交身份、发布检查和 manifest 均已完成。  
-Zenodo/release gate：HOLD。GitHub 推送成功后，仍须由作者单独确认 Zenodo GitHub integration、作者/单位、`CITATION.cff`、`.zenodo.json` 和 release 元数据。
+Zenodo/release gate：AUTHORIZED。`CITATION.cff` 和 `.zenodo.json` 采用作者批准的最小元数据；仅在实际归档成功后记录真实 DOI。

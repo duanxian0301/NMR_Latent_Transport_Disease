@@ -11,7 +11,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 RESULTS = ROOT / "validation" / "RELEASE_CHECK_RESULTS.tsv"
-TEXT_EXTENSIONS = {".md", ".txt", ".tsv", ".csv", ".json", ".yaml", ".yml", ".py", ".r", ".R", ".sh", ".ps1", ".gitignore", ".gitattributes"}
+TEXT_EXTENSIONS = {".md", ".txt", ".tsv", ".csv", ".json", ".yaml", ".yml", ".cff", ".py", ".r", ".R", ".sh", ".ps1", ".gitignore", ".gitattributes"}
 FORBIDDEN_PATHS = re.compile(
     r"(?:(?<![A-Za-z0-9])[A-Za-z]:[\\/]|/mnt/|/workspace/|/home/|C:\\Users\\|Administrator)",
     re.IGNORECASE,
@@ -56,6 +56,8 @@ required = [
     "README.md",
     "LICENSE",
     "LICENSE-DATA",
+    "CITATION.cff",
+    ".zenodo.json",
     "config/config.example.yaml",
     "metadata/input_manifest.tsv",
     "metadata/trait_crosswalk_61.tsv",
